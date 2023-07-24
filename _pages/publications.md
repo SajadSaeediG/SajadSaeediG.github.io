@@ -1,15 +1,13 @@
 ---
-title: "Allan Lab - Publications"
+title: "Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Publications."
 sitemap: false
 permalink: /publications/
 ---
 
 
 # Publications
-
-## Group highlights
 
 **At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). Most papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
 
@@ -19,7 +17,7 @@ permalink: /publications/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
 
-{% if even_odd == 0 %}
+#{% if even_odd == 0 %}
 <div class="row">
 {% endif %}
 
