@@ -43,7 +43,7 @@ permalink: /publications/
 </div>
 
 
-<p> &nbsp; </p>
+
 
 
 ## Patents
