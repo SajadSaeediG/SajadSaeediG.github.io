@@ -30,3 +30,11 @@
     display: Taylor and Francis, Advanced Robotics, 36(11), (2022)
   highlight: 1
 
+- title: "A Robot Web for Distributed Many-Device Localisation"
+  image: rw_orig.jpg
+  authors: Riku Murai, Joseph Ortiz, Sajad Saeedi, Paul HJ Kelly, Andrew J Davison
+  link:
+    url: https://arxiv.org/abs/2202.03314
+    display: arxive
+  highlight: 1
+  
