@@ -37,9 +37,6 @@ permalink: /publications/
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
-</div>
-
-
 
 
 
