@@ -20,7 +20,7 @@ permalink: /publications/
 <div class="row">
 
 <div class="col-sm-6 clearfix">
- <div class="well">
+ <div class="well well-sm">
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.title }}</p>
   <p>{{ publi.description }}</p>
