@@ -1,12 +1,12 @@
 - title: "High-frame-rate Homography and Visual Odometry by Tracking Binary Features from the Focal Plane"
   image: bitvo2_orig.jpg
-  <!--- description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.--->
+  # description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
   authors: Riku Murai, Sajad Saeedi, Paul H.J. Kelly
   link:
     url: https://link.springer.com/article/10.1007/s10514-023-10122-8
     display: Autonomous Robots (2023)
   highlight: 1
-<!---  news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands--->
+#  news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
 
 - title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
   image: imageaward_edited.png
