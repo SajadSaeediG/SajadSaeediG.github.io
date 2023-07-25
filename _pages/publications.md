@@ -20,6 +20,7 @@ permalink: /publications/
  </div>
 </div>
 </div>
+body { padding-top: 70px; }
 {% endif %}
 {% endfor %}
 
