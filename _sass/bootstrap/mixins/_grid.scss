@@ -15,7 +15,7 @@
 @mixin make-row($gutter: $grid-gutter-width) {
   margin-left:  ceil(($gutter / -2));
   margin-right: floor(($gutter / -2));
-  margin-bottom: 0;
+  margin-bottom: 10;
   @include clearfix;
 }
 
