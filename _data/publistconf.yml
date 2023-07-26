@@ -117,3 +117,9 @@
   authors: Sajad Saeedi, Michael Trentini, Howard Li
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   location: Hamburg, Germany, Sep 28- Oct 2, pp. 3421 - 3426, 2015
+
+- title: "Fast Monte Carlo Localization of AUV Using Acoustic Range Measurement"
+  image: conf.png
+  authors: Sajad Saeedi, Mae Seto, Howard Li
+  venue: IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)
+  location: Halifax, NS, Canada, May 3-6, pp. 326-331, 2015
