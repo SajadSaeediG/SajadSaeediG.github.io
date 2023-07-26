@@ -9,3 +9,19 @@
   authors: Ishaan Mehta, Sharareh Taghipour, Sajad Saeedi
   venue: IEEE International Conference on Automation Science and Engineering (CASE)
   location: Mexico City, Mexico, August 20-24, 2022
+
+- title: "Deep Direct Visual Servoing of Tendon-Driven Continuum Robots"
+  image: conf.png
+  authors: Ibrahim Abdulhafiz, Ali A Nazari, Taha Abbasi-Hashemi, Amir Jalali, Kourosh Zareinia, Sajad Saeedi, Farrokh Janabi-Sharifi
+  venue: IEEE International Conference on Automation Science and Engineering (CASE)
+  location: Mexico City, Mexico, August 20-24, 2022
+
+- title: "Far-UV Disinfection with Mobile Manipulator Robotic System"   image: conf.png
+  authors: Ishaan Mehta, Hao-Ya Hsueh, Nikolaos Kourtzanidis, Sajad Saeedi
+  venue: IEEE International Symposium on Medical Robotics (ISMR)
+  location: Georgia, USA, April 13-15, 2022 
+
+- title: "PathBench A Benchmarking Platform for Classical and Learned Path Planning Algorithms"  image: conf.png
+  authors: Alexandru-Iosif Toma, Hao-Ya Hsueh, Hussein Ali Jaafar, Riku Murai, Paul H.J. Kelly, Sajad Saeedi
+  venue: 18th Conference on Robots and Vision (CRV)
+  location: Burnaby, BC, Canada, May 26-28, 2021
