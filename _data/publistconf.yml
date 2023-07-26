@@ -111,3 +111,9 @@
   authors: Sajad Saeedi, Carl Thibault, Amr Nagaty, Michael Trentini, Howard Li
   venue: IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)
   location: Vancouver, BC, Canada, May 15 -18, 2016
+
+- title: "Hybrid Approach for Multiple-robot SLAM with Particle Filtering"
+  image: conf.png
+  authors: Sajad Saeedi, Michael Trentini, Howard Li
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  location: Hamburg, Germany, Sep 28- Oct 2, pp. 3421 - 3426, 2015
