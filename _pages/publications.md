@@ -54,5 +54,13 @@ permalink: /publications/
 {% endfor %}
 
 ## PhD Thesis
-
-
+<div class="row">
+<div class="col-sm-11 clearfix">
+ <div class="well well-sm">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ conf.png }}" class="img-responsive" width="11%" style="float: left" />
+  <p>{{ Multiple-robot Simultaneous Localization and Mapping }}</p>
+  <p><em>{{ Sajad Saeedi }}</em></p>
+  <p>{{ University of New Brunswick, 2014 }}</p>
+ </div>
+</div>
+</div>
