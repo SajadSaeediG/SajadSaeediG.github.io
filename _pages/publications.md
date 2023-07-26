@@ -23,6 +23,18 @@ permalink: /publications/
 {% endfor %}
 
 ## Patents
+<div class="row">
+<div class="col-sm-11 clearfix">
+ <div class="well well-sm">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ conf.png }}" class="img-responsive" width="11%" style="float: left" />
+  <p>{{ Optical Guide Assembly and System Including Same }}</p>
+  <p><em>{{ Jason G. Gillham, Christopher A Gilson, Sajad Saeedi, Shawn O. Satchell }}</em></p>
+  <p>{{ United States Patent and Trademark Office, 2017 }}</p>
+  <p><strong><a href="{{ https://patents.google.com/patent/US20190017941A1/en }}">{{ US20190017941A1 }}</a></strong></p>
+ </div>
+</div>
+</div>
+
 
 ## ​Book Chapters
 {% for publi in site.data.publistbook %}
