@@ -165,3 +165,27 @@
   authors: Sajad Saeedi, Liam Paull, Michael Trentini, Howard Li
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   location: San Francisco, CA, USA, Sept 25-30, pp. 853-888, 2011
+  
+- title: "A Multi-agent Framework with MOOS-IvP for Autonomous Underwater Vehicles with Sidescan Sonar Sensors"
+  image: conf.png
+  authors: Liam Paull, Sajad Saeedi, Mae Seto, Howard Li
+  venue: International Conference on Autonomous and Intelligent Systems (AIS)
+  location: Burnaby, BC, Canada, June 22-24, pp. 41-50, 2011
+  
+- title: "An Information Gain Based Adaptive Path Planning Method for an Autonomous Underwater Vehicle Using Sidescan Sonar"
+  image: conf.png
+  authors: Liam Paull, Sajad Saeedi, Howard Li, Vincent Myers
+  venue: IEEE Conference on Automation Science and Engineering (CASE)
+  location: Toronto, ON, Canada, Aug 21-24, pp. 835-840, 2010
+  
+- title: "Optimal Design of Rotating Sliding Surface for Sliding Mode Control"
+  image: conf.png
+  authors: Sajad Saeedi, Mohammad Beheshti
+  venue: American Control Conference (ACC)
+  location: St. Louis, MO, USA, June 10-12, pp. 774-777, 2009
+
+- title: "Active Queue Management (AQM) for TCP/IP networks Using Discrete-Time Sliding Mode Control (DSMC)"
+  image: conf.png
+  authors: Sajad Saeedi, Mohammad Beheshti, Mehdi Monemi
+  venue: IEEE Conference on Control Applications (CCA)
+  location: Toronto, ON, Canada, Aug 28-30, pp. 727-730, 2005
