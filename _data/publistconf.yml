@@ -100,7 +100,8 @@
   venue: International Workshop on Automatic Performance Tuning (iWAPT), hosted by IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS)
   location: Orlando, FL, USA, May 29 - June 2, 2017 
 
-- title: "3D Mapping and Navigation for Autonomous Rotorcraft"  image: conf.png
+- title: "3D Mapping and Navigation for Autonomous Rotorcraft"  
+  image: conf.png
   authors: Sajad Saeedi, Amr Nagaty, Carl Thibault, Michael Trentini, Howard Li
   venue: IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)
   location: Vancouver, BC, Canada, May 15 -18, 2016
