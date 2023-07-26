@@ -64,41 +64,108 @@
   highlight: 1
 
 - title: "3D Mapping for Autonomous Quadrotor Aircraft"
-  image: 
+  image: us-orig.png
   authors: Sajad Saeedi, Carl Thibault, Michael Trentini, and Howard Li
   link:
     url: https://www.worldscientific.com/doi/10.1142/S2301385017400064
     display: Unmanned Systems, 5(3), pp. 1-16, 2017
   highlight: 1
 
-- title: ""
-  image: 
-  authors: 
+- title: "Multiple-robot Simultaneous Localization and Mapping - A Review"
+  image: jfr_2015.jpg
+  authors: Sajad Saeedi, Michael Trentini, Mae Seto, and Howard Li
   link:
-    url: 
-    display: 
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21620
+    display: Journal of Field Robotics, 33(1), pp. 3-46, 2016
   highlight: 1
 
-- title: ""
-  image: 
-  authors: 
+- title: "The COBRA Fixed-wing Georeferenced Imagery Dataset"
+  image: ijius_orig.jpg
+  authors: Sajad Saeedi, Carl Thibault, Michael Trentini, and Howard Li
   link:
-    url: 
-    display: 
+    url: https://www.emerald.com/insight/content/doi/10.1108/IJIUS-10-2014-0008/full/html
+    display: International Journal of Intelligent Unmanned Systems, 3(2), pp. 62-71, 2015
   highlight: 1
 
-- title: ""
-  image: 
-  authors: 
+- title: "Perception and Navigation for an Autonomous Quadrotor in GPS-denied Environments"
+  image: acta_orig.jpg
+  authors: Sajad Saeedi, Amr Nagaty, Carl Thibault, Michael Trentini, Howard Li
   link:
-    url: 
-    display: 
+    url: https://www.actapress.com/PaperInfo.aspx?paperId=45427
+    display: International Journal of Robotics and Automation
   highlight: 1
 
-- title: ""
-  image: 
-  authors: 
+- title: "Map Merging for Multiple Robots Using Hough Peak Matching"
+  image: ht2_orig.jpg
+  authors: Sajad Saeedi, Liam Paull, Michael Trentini, Mae Seto, and Howard Li
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0921889014001134
+    display: Robotics and Autonomous Systems, 62(10), pp. 1408–1424, 2014
+  highlight: 1
+
+- title: "Occupancy Grid Map Merging for Multiple-robot Simultaneous Localization and Mapping"
+  image: ms1_orig.png
+  authors: Sajad Saeedi, Liam Paull, Michael Trentini, and Howard Li
+  link:
+    url: https://www.actapress.com/Abstract.aspx?paperId=45168
+    display: International Journal of Robotics and Automation, 30 (2), pp. 149-157, 2015
+  highlight: 1
+
+- title: "Group Mapping: A Topological Approach to Map Merging for Multiple Robots"
+  image: pgvd1_orig.png
+  authors: Sajad Saeedi, Liam Paull, Michael Trentini, and Howard Li
+  link:
+    url: https://ieeexplore.ieee.org/document/6811207
+    display: IEEE Robotics and Automation Magazine, 21(2), pp. 60-72. 2014
+  highlight: 1  
+
+  
+- title: "Neural Network-based Multiple-robot Simultaneous Localization and Mapping"
+  image: corobots_orig.jpg
+  authors: Sajad Saeedi, Liam Paull, Mike Trentini, Howard Li
+  link:
+    url: https://ieeexplore.ieee.org/document/6095373
+    display: IEEE Transactions on Neural Networks, 22(12), pp. 2376-2387, 2012
+  highlight: 1
+
+- title: "Control and Navigation Framework for Quadrotor Helicopters"
+  image: quad1_orig.jpg
+  authors: Amr Nagaty, Sajad Saeedi, Carl Thibault, Mae Seto, Howard Li
+  link:
+    url: https://link.springer.com/article/10.1007/s10846-012-9789-z
+    display: Journal of Intelligent and Robotic Systems, 70(1-4), pp. 1-12, 2013
+  highlight: 1
+
+- title: "AUV Navigation and Localization - A Review"
+  image: joe_orig.jpg
+  authors: Liam Paull, Sajad Saeedi, Mae Seto, Howard Li
+  link:
+    url: https://ieeexplore.ieee.org/document/6678293?anchor=citations
+    display: IEEE Journal of Oceanic Engineering, 39(1), pp. 131 149, 2014
+  highlight: 1
+
+- title: "Sensor-Driven Online Coverage Planning for Autonomous Underwater Vehicles"
+  image: tmech_orig.png
+  authors: Liam Paull, Sajad Saeedi, Mae Seto, Howard Li
+  link:
+    url: https://ieeexplore.ieee.org/document/6304931
+    display: IEEE/ASME Transactions on Mechatronics, 18(6), pp. 1827-1838, 2013
+  highlight: 1
+
+
+- title: "Requirements for building an ontology for autonomous robots"
+  image: layer_orig.png
+  authors: B. Bayat, J. Bermejo-Alonso, J. Carbonera, T. Facchinetti, S. Fiorini, P. Goncalves, V. A.M. Jorge, M. Habib, A. Khamis, K. Melo, B Nguyen, J. Isabelle Olszewska, L. Paull, E. Prestes, V. Ragavan, S. Saeedi, R. Sanz, M. Seto, B. Spencer, A. Vosughi, H. Li
+  link:
+    url: https://www.emerald.com/insight/content/doi/10.1108/IR-02-2016-0059/full/html
+    display: Industrial Robot, 43(5), pp. 469-480, 2016
+  highlight: 1
+
+
+- title: "Robust Window-Based Active Queue Management Based on H-infinity Control"
+  image: cca2_orig.png
+  authors: Mehdi Monemi, Sajad Saeedi
   link:
     url: 
-    display: 
-  highlight: 1
+    display: International Journal of Information Science and Technology, 4(1), pp. 13-22, 2006
+  highlight: 1  
