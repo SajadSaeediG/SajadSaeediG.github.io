@@ -148,6 +148,12 @@
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   location: Vilamoura, Algarve, Portugal, Oct 7-12, pp. 2875-2880, 2012
 
+- title: "Towards An Ontology for Autonomous Robots"
+  image: conf.png
+  authors: Liam Paull, Gaetan Severac, Guilherme V. Rao, Julian M. Angel, Harold Boley, Maki K. Habib, Bao Nguyen, Veera R. S. Kumar, Sajad Saeedi
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  location: Vilamoura, Algarve, Portugal, Oct 7-12, pp. 1359-1364, 2012
+
 - title: "Control and Navigation Framework for Quadrotor Helicopters"
   image: conf.png
   authors: Amr Nagaty, Sajad Saeedi, Carl Thibault, Mae Seto and Howard Li
