@@ -28,7 +28,7 @@ permalink: /publications/
 ## ​Book Chapters
 
 ## Conference Publications
-{% for publicon in site.data.publist %}
+{% for publicon in site.data.publistconf %}
 <div class="row">
 <div class="col-sm-11 clearfix">
  <div class="well well-sm">
