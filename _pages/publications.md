@@ -23,14 +23,27 @@ permalink: /publications/
 {% endif %}
 {% endfor %}
 
-
 ## Patents
 
-## Full List of publications
+## ​Book Chapters
 
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+## Conference Publications
+{% for publi in site.data.publist-conf %}
+{% if publi.highlight == 1 %}
+<div class="row">
+<div class="col-sm-11 clearfix">
+ <div class="well well-sm">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="11%" style="float: left" />
+  <p>{{ publi.title }}</p>
+  <p><em>{{ publi.authors }}</em></p>
+  <p>{{ publi.venue }}</p>
+  <p>{{ publi.location }}</p>
+ </div>
+</div>
+</div>
+{% endif %}
 {% endfor %}
+
+## PhD Thesis
+
+
