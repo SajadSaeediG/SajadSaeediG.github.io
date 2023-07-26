@@ -10,7 +10,6 @@ permalink: /publications/
 ## Journal Publications
 {% for publi in site.data.publist %}
 {% if publi.highlight == 1 %}
-
 <div class="row">
 <div class="col-sm-11 clearfix">
  <div class="well well-sm">
