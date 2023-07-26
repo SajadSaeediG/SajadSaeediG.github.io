@@ -129,3 +129,15 @@
   authors: Sajad Saeedi, Amr Nagaty, Carl Thibault, Michael Trentini, Howard Li
   venue: International Conference on Intelligent Unmanned Systems (ICIUS)
   location: Montreal, QC, Canada, Sep 29 - Oct 1, 2014
+
+- title: "Map Merging Using Hough Peak Matching"
+  image: conf.png
+  authors: Sajad Saeedi, Liam Paull, Michael Trentini, Mae Seto, Howard Li
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  location: Vilamoura, Algarve, Portugal, Oct 7-12, pp. 4683-4688, 2012
+
+- title: "Efficient Map Merging Using a Probabilistic Generalized Voronoi Diagram"
+  image: conf.png
+  authors: Sajad Saeedi, Liam Paull, Michael Trentini, Mae Seto, Howard Li
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  location: Vilamoura, Algarve, Portugal, Oct 7-12, pp. 4419-4424, 2012
