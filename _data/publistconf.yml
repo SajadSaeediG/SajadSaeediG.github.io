@@ -47,8 +47,10 @@
   location: Las Vegas, NV, USA, Oct 25-29, 2020
 
 - title: "AnalogNet: Convolutional Neural Network Inference on Analog Focal Plane Sensor Processors"
+  image: conf.png
   authors: Matthew Z Wong, Benoit Guillard, Riku Murai, Sajad Saeedi, and Paul HJ Kelly
   venue: arXiv:2006.01765
+  location: arXiv
 
 - title: "Characterizing Visual Localization and Mapping Datasets"
   image: conf.png
@@ -134,7 +136,7 @@
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   location: Vilamoura, Algarve, Portugal, Oct 7-12, pp. 4683-4688, 2012
 
-- title: "Efficient Map Merging Using a Probabilistic Generalized Voronoi Diagram"
+- title: "Efficient Map Merging Using a Probabilistic Generalized Voronoi Diagram"
   image: conf.png
   authors: Sajad Saeedi, Liam Paull, Michael Trentini, Mae Seto, Howard Li
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
@@ -188,8 +190,9 @@
   venue: American Control Conference (ACC)
   location: St. Louis, MO, USA, June 10-12, pp. 774-777, 2009
 
-- title: "Active Queue Management (AQM) for TCP/IP networks Using Discrete Time Sliding Mode Control (DSMC)"
+- title: "Active Queue Management (AQM) for TCP/IP networks Using Discrete-Time Sliding Mode Control (DSMC)"
   image: conf.png
   authors: Sajad Saeedi, Mohammad Beheshti, Mehdi Monemi
   venue: IEEE Conference on Control Applications (CCA)
   location: Toronto, ON, Canada, Aug 28-30, pp. 727-730, 2005
+  
