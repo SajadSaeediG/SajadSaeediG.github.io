@@ -28,7 +28,7 @@ permalink: /publications/
 ## ​Book Chapters
 
 ## Conference Publications
-{% for publi in site.data.publist-conf %}
+{% for publi in site.data.publistconf %}
 {% if publi.highlight == 1 %}
 <div class="row">
 <div class="col-sm-11 clearfix">
