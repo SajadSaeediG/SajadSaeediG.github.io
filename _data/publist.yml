@@ -1,3 +1,11 @@
+- title: "Autonomous aerial robotics for package delivery: A technical review"
+  image: jfr2_orig.jpg
+  authors: Jack Saunders, Sajad Saeedi, Wenbin Li
+  link:
+    url: https://onlinelibrary.wiley.com/doi/10.1002/rob.22231
+    display: Journal of Field Robotics, 2023
+  highlight: 1
+  
 - title: "High-frame-rate Homography and Visual Odometry by Tracking Binary Features from the Focal Plane"
   image: bitvo2_orig.jpg
   authors: Riku Murai, Sajad Saeedi, Paul H.J. Kelly
@@ -36,14 +44,6 @@
   link:
     url: https://arxiv.org/abs/2202.03314
     display: arxive
-  highlight: 1
-
-- title: "Autonomous aerial robotics for package delivery: A technical review"
-  image: jfr2_orig.jpg
-  authors: Jack Saunders, Sajad Saeedi, Wenbin Li
-  link:
-    url: https://onlinelibrary.wiley.com/doi/10.1002/rob.22231
-    display: Journal of Field Robotics, 2023
   highlight: 1
 
 - title: "AUKE: Automatic Kernel Code Generation for an Analogue SIMD Focal-Plane Sensor-Processor Array"
