@@ -147,7 +147,13 @@
   authors: Liam Paull, Sajad Saeedi, Mae Seto, Howard Li
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   location: Vilamoura, Algarve, Portugal, Oct 7-12, pp. 2875-2880, 2012
-  
+
+- title: "Control and Navigation Framework for Quadrotor Helicopters"
+  image: conf.png
+  authors: Amr Nagaty, Sajad Saeedi, Carl Thibault, Mae Seto and Howard Li
+  venue: International Conference On Unmanned Aircraft Systems (ICUAS)
+  location: Montreal, QC, Canada, June 12 - June 15, 2012
+
 - title: "Control and Navigation Framework for Quadrotor Helicopters"
   image: conf.png
   authors: Amr Nagaty, Sajad Saeedi, Carl Thibault, Mae Seto and Howard Li
