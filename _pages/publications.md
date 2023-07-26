@@ -28,20 +28,18 @@ permalink: /publications/
 ## ​Book Chapters
 
 ## Conference Publications
-{% for publi in site.data.publistconf %}
-{% if publi.highlight == 1 %}
+{% for publicon in site.data.publistconf %}
 <div class="row">
 <div class="col-sm-11 clearfix">
  <div class="well well-sm">
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="11%" style="float: left" />
-  <p>{{ publi.title }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p>{{ publi.venue }}</p>
-  <p>{{ publi.location }}</p>
+  <p>{{ publicon.title }}</p>
+  <p><em>{{ publicon.authors }}</em></p>
+  <p>{{ publicon.venue }}</p>
+  <p>{{ publicon.location }}</p>
  </div>
 </div>
 </div>
-{% endif %}
 {% endfor %}
 
 ## PhD Thesis
