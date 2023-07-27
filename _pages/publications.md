@@ -17,12 +17,12 @@ permalink: /publications/
   <em>{{ publi.authors }}</em> <br> 
   <strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong> 
    {% if publi.project != 0 %}
-      <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publi.project }}';">
+      <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publi.project }}'">
       PROJECT
       </button> 
   {% endif %}
      {% if publi.project != 0 %}
-      <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publi.project }}';">
+      <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publi.project }}'">
       PROJECT
       </button> 
   {% endif %}</p>
