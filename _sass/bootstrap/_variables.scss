@@ -147,7 +147,7 @@ $btn-font-weight:                normal !default;
 
 $btn-default-color:              $gray !default;
 $btn-default-bg:                 $gray-lighter !default;
-$btn-default-border:             darken($btn-default-bg, 5%) !default;
+$btn-default-border:             darken($btn-default-bg, 0%) !default;
 
 $btn-primary-color:              #fff !default;
 $btn-primary-bg:                 $brand-primary !default;
