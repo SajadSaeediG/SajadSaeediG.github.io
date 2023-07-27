@@ -17,7 +17,7 @@ permalink: /publications/
   <em>{{ publi.authors }}</em> <br> 
   <strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong> <br> 
       <button type="button" class="btn btn-info" onclick="window.location.href='https://sites.google.com/view/g-robot/home';">
-      project
+      proj.
       </button> </p>
  </div>
 </div>
