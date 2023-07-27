@@ -20,8 +20,6 @@ permalink: /publications/
       <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publi.project }}'">
       PROJECT
       </button> 
-  {% endif %}
-     {% if publi.project != 0 %}
       <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publi.project }}'">
       PROJECT
       </button> 
