@@ -15,8 +15,8 @@ permalink: /publications/
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="11%" style="float: left" />
   <p>{{ publi.title }}  <br> 
   <em>{{ publi.authors }}</em> <br> 
-  <strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  {% include button.html button_name="My Button" button_class="primary" %}
+  <strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong> <br> 
+  <button name="button" onclick="http://www.google.com">Project</button> </p>
  </div>
 </div>
 </div>
