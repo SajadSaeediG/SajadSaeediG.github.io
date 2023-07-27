@@ -8,21 +8,23 @@ permalink: /publications/
 
 ## Journal Publications
 {% for publi in site.data.publist %}
-{% if publi.highlight == 1 %}
+
 <div class="row">
 <div class="col-sm-11 clearfix">
  <div class="well well-sm">
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="11%" style="float: left" />
   <p>{{ publi.title }}  <br> 
   <em>{{ publi.authors }}</em> <br> 
-  <strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong> <br> 
+  <strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong> <br>
+   {% if publi.project == 1 %}
       <button type="button" class="btn-xs btn-info" onclick="window.location.href='https://sites.google.com/view/g-robot/home';">
       PROJECT
       </button> </p>
+  {% endif %}
  </div>
 </div>
 </div>
-{% endif %}
+
 {% endfor %}
 
 ## Patents
