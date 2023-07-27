@@ -16,7 +16,7 @@ permalink: /publications/
   <p>{{ publi.title }}  <br> 
   <em>{{ publi.authors }}</em> <br> 
   <strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <button name="button">Click me</button>
+  {% include button.html button_name="My Button" button_class="primary" %}
  </div>
 </div>
 </div>
