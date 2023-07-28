@@ -26,8 +26,8 @@ permalink: /publications/
       VIDEO
       </button> 
   {%- endif %}
-  {%- if publi.video != 0 %}
-     <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publi.code1 }}'">
+  {%- if publi.code != 0 %}
+     <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publi.code }}'">
      CODE
      </button> 
   {% endif %}</p>  
