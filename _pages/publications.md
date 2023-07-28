@@ -20,11 +20,11 @@ permalink: /publications/
       <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publi.project }}'">
       PROJECT
       </button> 
-   {% endif %}{% if publi.project != 0 %}
+   {% if publi.project != 0 %}
       <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publi.project }}'">
       PDF
       </button> 
-  {% endif %}</p>
+  {% endif %}{% endif %}</p>
  </div>
 </div>
 </div>
