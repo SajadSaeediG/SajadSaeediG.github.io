@@ -15,7 +15,7 @@ permalink: /publications/
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="11%" style="float: left" />
   <p>{{ publi.title }}  <br> 
   <em>{{ publi.authors }}</em> <br> 
-  <strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong> 
+  <strong><a href="{{ publi.link.url }}" target="_blank" rel="noopener noreferrer">{{ publi.link.display }}</a></strong> 
    {% if publi.project != 0 %}
       <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publi.project }}'">
       PROJECT
