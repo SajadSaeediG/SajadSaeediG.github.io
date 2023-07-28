@@ -21,11 +21,17 @@ permalink: /publications/
       PROJECT
       </button> 
    {%- endif %}
-   {%- if publi.project != 0 %}
-      <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publi.project }}'">
-      PDFcb
+   {%- if publi.video != 0 %}
+      <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publi.video }}'">
+      VIDEO
       </button> 
-  {% endif %}</p>
+  {%- endif %}
+  {%- if publi.video != 0 %}
+     <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publi.code1 }}'">
+     CODE
+     </button> 
+  {% endif %}</p>  
+  </p>
  </div>
 </div>
 </div>
