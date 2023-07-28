@@ -7,6 +7,8 @@
   project: 0
   video: 0
   code: 0
+  pdf: 0
+
   
 - title: "High-frame-rate Homography and Visual Odometry by Tracking Binary Features from the Focal Plane"
   image: bitvo2_orig.jpg
@@ -17,6 +19,8 @@
   project: https://rmurai.co.uk/projects/BIT-VO/
   video: 0
   code: 0
+  pdf: 0
+
 
 - title: "UVC Disinfection Robots: A Review"
   image: ras-uvc_orig.jpg
@@ -27,6 +31,8 @@
   project: https://sites.google.com/view/g-robot/home
   video: 0
   code: 0
+  pdf: 0
+
 
 - title: "Compiling CNNs with Cain: focal-plane processing for robot navigation"
   image: cain2_orig.jpg
@@ -37,6 +43,8 @@
   project: sites.google.com/view/cain-compiler/home
   video: 0
   code: 0
+  pdf: 0
+
 
 - title: "Systematic Comparison of Path Planning Algorithms using PathBench"
   image: ar_orig.jpg
@@ -47,6 +55,8 @@
   project: https://sites.google.com/view/pathbench/
   video: 0
   code: 0
+  pdf: 0
+
 
 - title: "A Robot Web for Distributed Many-Device Localisation"
   image: rw_orig.jpg
@@ -57,6 +67,8 @@
   project: 0
   video: 0
   code: 0
+  pdf: 0
+
 
 - title: "AUKE: Automatic Kernel Code Generation for an Analogue SIMD Focal-Plane Sensor-Processor Array"
   image: codegen_orig.png
@@ -67,6 +79,8 @@
   project: 0
   video: https://www.youtube.com/watch?v=NILZILnEevA&feature=youtu.be
   code: https://github.com/ThomasDebrunner/cpa-sim
+  pdf: 0
+
 
 - title: "Navigating the Landscape for Real-time Localisation and Mapping for Robotics Virtual and Augmented Reality"
   image: pamela_1.png
@@ -77,6 +91,8 @@
   project: 0
   video: 0
   code: 0
+  pdf: 0
+
 
 - title: "3D Mapping for Autonomous Quadrotor Aircraft"
   image: us-orig.png
@@ -87,6 +103,7 @@
   project: 0
   video: 0
   code: 0
+  pdf: 0
 
 - title: "Multiple-robot Simultaneous Localization and Mapping - A Review"
   image: jfr_2015.jpg
@@ -97,6 +114,7 @@
   project: 0
   video: 0
   code: 0
+  pdf: saeedi_jfr_2016.pdf
 
 - title: "The COBRA Fixed-wing Georeferenced Imagery Dataset"
   image: ijius_orig.jpg
@@ -117,6 +135,8 @@
   project: 0
   video: https://youtu.be/-nhHfuQ5L0A
   code: 0
+  pdf: 0
+
 
 - title: "Map Merging for Multiple Robots Using Hough Peak Matching"
   image: ht2_orig.jpg
@@ -127,6 +147,8 @@
   project: 0
   video: 0
   code: 0
+  pdf: 0
+
 
 - title: "Occupancy Grid Map Merging for Multiple-robot Simultaneous Localization and Mapping"
   image: ms1_orig.png
@@ -137,6 +159,8 @@
   project: 0
   video: 0
   code: 0
+  pdf: 0
+
 
 - title: "Group Mapping: A Topological Approach to Map Merging for Multiple Robots"
   image: pgvd1_orig.png
@@ -147,6 +171,8 @@
   project: 0  
   video: 0
   code: 0
+  pdf: 0
+
 
   
 - title: "Neural Network-based Multiple-robot Simultaneous Localization and Mapping"
@@ -158,6 +184,8 @@
   project: 0
   video: 0
   code: 0
+  pdf: 0
+
 
 - title: "Control and Navigation Framework for Quadrotor Helicopters"
   image: quad1_orig.jpg
@@ -168,6 +196,8 @@
   project: 0
   video: 0
   code: http://sourceforge.net/projects/gazebo-quad-sim/
+  pdf: 0
+
 
 - title: "AUV Navigation and Localization - A Review"
   image: joe_orig.jpg
@@ -178,6 +208,8 @@
   project: 0
   video: 0
   code: 0
+  pdf: 0
+
 
 - title: "Sensor-Driven Online Coverage Planning for Autonomous Underwater Vehicles"
   image: tmech_orig.png
@@ -188,6 +220,8 @@
   project: 0
   video: 0
   code: 0
+  pdf: 0
+
 
 
 - title: "Requirements for building an ontology for autonomous robots"
@@ -199,6 +233,8 @@
   project: 0
   video: 0
   code: 0
+  pdf: 0
+
 
 
 - title: "Robust Window-Based Active Queue Management Based on H-infinity Control"
@@ -210,3 +246,5 @@
   project: 0  
   video: 0
   code: 0
+  pdf: 0
+
