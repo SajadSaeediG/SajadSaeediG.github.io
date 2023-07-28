@@ -30,7 +30,12 @@ permalink: /publications/
      <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publi.code }}'">
      CODE
      </button> 
-  {% endif %}  
+  {%- endif %}
+  {%- if publi.pdf != 0 %}
+     <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ site.baseurl }}/downloads/{{ publi.pdf }}'">
+     PDF
+     </button> 
+ {% endif %}  
   </p>
  </div>
 </div>
