@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 ## Journal Publications
-{% for publi in site.data.publist %}
+{% for publi in site.data.publistjournal %}
 
 <div class="row">
 <div class="col-sm-11 clearfix">
