@@ -95,7 +95,22 @@ permalink: /publications/
      <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publicon.code }}'">
      CODE
      </button> 
-  {% endif %} 
+   {%- endif %}
+  {%- if publicon.code_down != 0 %}
+     <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ site.baseurl }}/downloads/{{ publicon.code_down }}'">
+     CODE
+     </button> 
+   {%- endif %}   
+   {%- if publicon.pdf != 0 %}
+      <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ site.baseurl }}/downloads/{{ publicon.pdf }}'">
+      PDF
+      </button>  
+   {%- endif %}   
+   {%- if publicon.slides != 0 %}
+      <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ site.baseurl }}/downloads/{{ publicon.slides }}'">
+      SLIDES
+      </button>  
+  { % endif %} 
   </p>
  </div>
 </div>
