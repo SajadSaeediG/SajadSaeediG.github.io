@@ -280,9 +280,9 @@
   video: 0
   code: 0
   codedown: 0
-  pdf: saeedi_icius_2014_slides.pdf
+  pdf: saeedi_icius_2014.pdf
   pdflink: 0
-  slides: 0
+  slides: saeedi_icius_2014_slides.pdf
 
 - title: "Map Merging Using Hough Peak Matching"
   image: conf.png
@@ -343,9 +343,9 @@
   location: Montreal, QC, Canada, June 12 - June 15, 2012
   project: 0
   video: 0
-  code: 0
+  code: http://sourceforge.net/projects/gazebo-quad-sim/
   codedown: 0
-  pdf: 0
+  pdf: nagaty_icuas_2012.pdf
   pdflink: 0
   slides: 0
 
