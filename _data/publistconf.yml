@@ -6,6 +6,7 @@
   project: https://sites.google.com/view/prl4airsim/home
   video: 0
   code: 0
+  code_down: 0
   pdf: 0
   slides: 0
 
@@ -17,6 +18,7 @@
   project: https://sites.google.com/view/pa-net-btsp
   video: 0
   code: 0
+  code_down: 0
   pdf: 0
   slides: 0
 
@@ -28,6 +30,7 @@
   project: 0
   video: 0
   code: 0
+  code_down: 0
   pdf: https://arxiv.org/abs/2111.02580
   slides: 0
 
@@ -50,6 +53,7 @@
   project: https://sites.google.com/view/pathbench/
   video: 0
   code: 0
+  code_down: 0
   pdf: 0
   slides: 0
 
@@ -61,6 +65,7 @@
   project: https://sites.google.com/view/waypoint-planning-networks
   video: 0
   code: 0
+  code_down: 0
   pdf: 0
   slides: 0
 
@@ -72,6 +77,7 @@
   project: 0
   video: 0
   code: https://github.com/ed741/cain
+  code_down: 0
   pdf: https://arxiv.org/abs/2101.08715
   slides: 0
 
@@ -83,6 +89,7 @@
   project: https://rmurai0610.github.io/projects/BIT-VO/
   video: https://www.youtube.com/watch?v=tnPfbJaPrSQ&feature=youtu.be
   code: 0
+  code_down: 0
   pdf: https://arxiv.org/abs/2004.11186
   slides: 0
 
@@ -94,6 +101,7 @@
   project: 0
   video: 0
   code: https://github.com/brouwa/CNNs-on-FPSPs
+  code_down: 0
   pdf: wong_arxive_2020_analognet.pdf
   slides: 0
 
@@ -105,6 +113,7 @@
   project: http://vinben.github.io/lmdata
   video: https://youtu.be/XjJJ73laaqk
   code: 0
+  code_down: 0
   pdf: saeedi_icra_2019.pdf
   slides: 0
 
@@ -116,6 +125,7 @@
   project: 0
   video: 0
   code: 0
+  code_down: 0
   pdf: bujanca_icra_2019_sb3.pdf
   slides: 0
 
@@ -127,6 +137,7 @@
   project: 0
   video: https://www.youtube.com/watch?v=GADrV-27hD8&feature=youtu.be
   code: 0
+  code_down: 0
   pdf: debrunner_hipeac_2019.pdf
   slides: 0
 
@@ -138,6 +149,7 @@
   project: 0
   video: https://www.youtube.com/watch?v=NILZILnEevA&feature=youtu.be
   code: https://github.com/najiji/auto_code_cpa
+  code_down: 0
   pdf: debrunner_taco_2019.pdf
   slides: 0
 
@@ -149,6 +161,7 @@
   project: http://interiornetdataset.github.io/
   video: 0
   code: 0
+  code_down: 0
   pdf: li_bmvc_2018.pdf
   slides: 0
 
@@ -160,6 +173,7 @@
   project: 0
   video: 0
   code: https://github.com/pamela-project/slambench2
+  code_down: 0
   pdf: bodin_icra_2018_sb2.pdf
   slides: 0
 
@@ -171,6 +185,7 @@
   project: 0
   video: https://www.youtube.com/watch?v=g1kXE_1K7u8
   code: 0
+  code_down: 0
   pdf: saeedi_icra_2017.pdf
   slides: 0
 
@@ -182,6 +197,7 @@
   project: 0
   video: 0
   code: 0
+  code_down: 0
   pdf: 0
   slides: 0
 
@@ -193,6 +209,7 @@
   project: 0
   video: 0
   code: 0
+  code_down: 0
   pdf: saeedi1_ccece_2016.pdf
   slides: 0
 
@@ -204,6 +221,7 @@
   project: http://www.ece.unb.ca/COBRA/open_source.htm
   video: 0
   code: 0
+  code_down: 0
   pdf: saeedi2_ccece_2016.pdf
   slides: 0
 
@@ -215,9 +233,9 @@
   project: 0
   video: 0
   code: 0
-  pdf: 0
+  code_down: 0
+  pdf: saeedi_iros_2015.pdf
   slides: saeedi_iros_2015_slides.pdf
-  slides: saeedi_iros_2015.pdf
 
 - title: "Fast Monte Carlo Localization of AUV Using Acoustic Range Measurement"
   image: conf.png
@@ -227,6 +245,7 @@
   project: 0
   video: https://youtu.be/LejfK6n6mBE
   code: 0
+  code_down: 0
   pdf: saeedi_ccece_2015.pdf
   slides: saeedi_ccece_2015_slides.pdf
 
@@ -238,6 +257,7 @@
   project: 0
   video: 0
   code: 0
+  code_down: 0
   pdf: saeedi_icius_2014_slides.pdf
   slides: 0
 
@@ -248,7 +268,8 @@
   location: Vilamoura, Algarve, Portugal, Oct 7-12, pp. 4683-4688, 2012
   project: 0
   video: 0
-  code: hough_src.rar
+  code: 0
+  code_down: hough_src.rar
   pdf: saeedi_iros_2012_b.pdf
   slides: 0
 
@@ -260,6 +281,7 @@
   project: 0
   video: 0
   code: 0
+  code_down: 0
   pdf: saeedi_iros_2012_a.pdf
   slides: saeedi_iros_2012a_slides.pdf
 
@@ -271,6 +293,7 @@
   project: 0
   video: 0
   code: 0
+  code_down: 0
   pdf: paull_iros_2012a.pdf
   slides: 0
 
@@ -282,6 +305,7 @@
   project: 0
   video: 0
   code: 0
+  code_down: 0
   pdf: paull_iros_2012b.pdf
   slides: 0
 
@@ -293,6 +317,7 @@
   project: 0
   video: 0
   code: 0
+  code_down: 0
   pdf: 0
   slides: 0
 
@@ -304,6 +329,7 @@
   project: 0
   video: 0
   code: 0
+  code_down: 0
   pdf: saeedi_iros_2011_b.pdf
   slides: saeedi_iros_2011b_slides.pdf
 
@@ -315,6 +341,7 @@
   project: 0
   video: 0
   code: 0
+  code_down: 0
   pdf: saeedi_iros_2011_a.pdf
   slides: saeedi_iros_2011a_slides.pdf
   
@@ -326,6 +353,7 @@
   project: 0
   video: 0
   code: 0
+  code_down: 0
   pdf: paull_ais_2011.pdf
   slides: 0
 
@@ -337,6 +365,7 @@
   project: 0
   video: 0
   code: 0
+  code_down: 0
   pdf: paull_case_2010.pdf
   slides: 0
 
@@ -347,7 +376,8 @@
   location: St. Louis, MO, USA, June 10-12, pp. 774-777, 2009
   project: 0
   video: 0
-  code: simulink.zip
+  code: 0
+  code_down: simulink.zip
   pdf: saeedi_acc_2009.pdf
   slides: saeedi_acc_2009_slides.ppt
 
@@ -359,5 +389,6 @@
   project: 0
   video: 0
   code: 0
+  code_down: 0
   pdf: saeedi_cca_2005.pdf
   slides: 0
