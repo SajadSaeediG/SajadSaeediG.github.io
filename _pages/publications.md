@@ -81,16 +81,6 @@ permalink: /publications/
   <em>{{ publicon.authors }}</em> <br>
   {{ publicon.venue }} <br>
   {{ publicon.location }}
-  {% if publicon.project != 0 %}
-      <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publicon.project }}'">
-      PROJECT
-      </button> 
-  {%- endif %}
-  {%- if publicon.video != 0 %}
-      <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publicon.video }}'">
-      VIDEO
-      </button> 
-   { % endif %} 
   </p>
  </div>
 </div>
