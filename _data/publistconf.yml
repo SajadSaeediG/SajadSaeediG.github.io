@@ -8,6 +8,7 @@
   code: 0
   codedown: 0
   pdf: 0
+  pdflink: 0
   slides: 0
 
 - title: "Pareto Frontier Approximation Network (PA-Net) to Solve Bi-objective TSP"
@@ -20,6 +21,7 @@
   code: 0
   codedown: 0
   pdf: 0
+  pdflink: 0
   slides: 0
 
 - title: "Deep Direct Visual Servoing of Tendon-Driven Continuum Robots"
@@ -31,7 +33,8 @@
   video: 0
   code: 0
   codedown: 0
-  pdf: https://arxiv.org/abs/2111.02580
+  pdf: 0
+  pdflink: https://arxiv.org/abs/2111.02580
   slides: 0
 
 - title: "Far-UV Disinfection with Mobile Manipulator Robotic System"
@@ -43,6 +46,7 @@
   video: 0
   code: 0
   pdf: 0
+  pdflink: 0
   slides: 0
 
 - title: "PathBench A Benchmarking Platform for Classical and Learned Path Planning Algorithms"
@@ -55,6 +59,7 @@
   code: 0
   codedown: 0
   pdf: 0
+  pdflink: 0
   slides: 0
 
 - title: "Waypoint Planning Networks (WPN)"
@@ -67,6 +72,7 @@
   code: 0
   codedown: 0
   pdf: 0
+  pdflink: 0
   slides: 0
 
 - title: "Cain: Automatic Code Generation for Simultaneous Convolutional Kernels on Focal-plane Sensor-processors"
@@ -78,7 +84,8 @@
   video: 0
   code: https://github.com/ed741/cain
   codedown: 0
-  pdf: https://arxiv.org/abs/2101.08715
+  pdf: 0
+  pdflink: https://arxiv.org/abs/2101.08715
   slides: 0
 
 - title: "BIT-VO: Visual Odometry at 300 FPS using Binary Features from the Focal Plane"
@@ -90,7 +97,8 @@
   video: https://www.youtube.com/watch?v=tnPfbJaPrSQ&feature=youtu.be
   code: 0
   codedown: 0
-  pdf: https://arxiv.org/abs/2004.11186
+  pdf: 0
+  pdflink: https://arxiv.org/abs/2004.11186
   slides: 0
 
 - title: "AnalogNet: Convolutional Neural Network Inference on Analog Focal Plane Sensor Processors"
@@ -103,6 +111,7 @@
   code: https://github.com/brouwa/CNNs-on-FPSPs
   codedown: 0
   pdf: wong_arxive_2020_analognet.pdf
+  pdflink: 0
   slides: 0
 
 - title: "Characterizing Visual Localization and Mapping Datasets"
@@ -115,6 +124,7 @@
   code: 0
   codedown: 0
   pdf: saeedi_icra_2019.pdf
+  pdflink: 0
   slides: 0
 
 - title: "SLAMBench 3.0: Systematic Automated Reproducible Evaluation of SLAM Systems for Robot Vision Challenges and Scene Understanding"
@@ -127,6 +137,7 @@
   code: 0
   codedown: 0
   pdf: bujanca_icra_2019_sb3.pdf
+  pdflink: 0
   slides: 0
 
 - title: "Camera Tracking on  Focal-Plane Sensor-Processor Arrays"
@@ -139,6 +150,7 @@
   code: 0
   codedown: 0
   pdf: debrunner_hipeac_2019.pdf
+  pdflink: 0
   slides: 0
 
 - title: "AUKE: Automatic Kernel Code Generation for an Analogue SIMD Focal-Plane Sensor-Processor Array"
@@ -151,6 +163,7 @@
   code: https://github.com/najiji/auto_code_cpa
   codedown: 0
   pdf: debrunner_taco_2019.pdf
+  pdflink: 0
   slides: 0
 
 - title: "InteriorNet: Mega-scale Multi-sensor Photo-realistic Indoor Scenes Dataset"
@@ -163,6 +176,7 @@
   code: 0
   codedown: 0
   pdf: li_bmvc_2018.pdf
+  pdflink: 0
   slides: 0
 
 - title: "SLAMBench2: Multi-Objective Head-to-Head Benchmarking for Visual SLAM"
@@ -175,6 +189,7 @@
   code: https://github.com/pamela-project/slambench2
   codedown: 0
   pdf: bodin_icra_2018_sb2.pdf
+  pdflink: 0
   slides: 0
 
 - title: "Application-oriented Design Space Exploration for SLAM Algorithms"
@@ -187,6 +202,7 @@
   code: 0
   codedown: 0
   pdf: saeedi_icra_2017.pdf
+  pdflink: 0
   slides: 0
 
 - title: "Algorithmic Performance-Accuracy Trade-off in 3D Vision Applications Using HyperMapper"
@@ -199,6 +215,7 @@
   code: 0
   codedown: 0
   pdf: 0
+  pdflink: https://arxiv.org/abs/1702.00505
   slides: 0
 
 - title: "3D Mapping and Navigation for Autonomous Rotorcraft"
@@ -211,6 +228,7 @@
   code: 0
   codedown: 0
   pdf: saeedi1_ccece_2016.pdf
+  pdflink: 0
   slides: 0
 
 - title: "The COBRA Heterogenous Multiple-robot Localization and Mapping Dataset"
@@ -223,6 +241,7 @@
   code: 0
   codedown: 0
   pdf: saeedi2_ccece_2016.pdf
+  pdflink: 0
   slides: 0
 
 - title: "Hybrid Approach for Multiple-robot SLAM with Particle Filtering"
@@ -235,6 +254,7 @@
   code: 0
   codedown: 0
   pdf: saeedi_iros_2015.pdf
+  pdflink: 0
   slides: saeedi_iros_2015_slides.pdf
 
 - title: "Fast Monte Carlo Localization of AUV Using Acoustic Range Measurement"
@@ -247,6 +267,7 @@
   code: 0
   codedown: 0
   pdf: saeedi_ccece_2015.pdf
+  pdflink: 0
   slides: saeedi_ccece_2015_slides.pdf
 
 - title: "Perception and Navigation for Autonomous Rotorcraft"
@@ -259,6 +280,7 @@
   code: 0
   codedown: 0
   pdf: saeedi_icius_2014_slides.pdf
+  pdflink: 0
   slides: 0
 
 - title: "Map Merging Using Hough Peak Matching"
@@ -271,6 +293,7 @@
   code: 0
   codedown: hough_src.rar
   pdf: saeedi_iros_2012_b.pdf
+  pdflink: 0
   slides: 0
 
 - title: "Efficient Map Merging Using a Probabilistic Generalized Voronoi Diagram"
@@ -283,6 +306,7 @@
   code: 0
   codedown: 0
   pdf: saeedi_iros_2012_a.pdf
+  pdflink: 0
   slides: saeedi_iros_2012a_slides.pdf
 
 - title: "Sensor Driven Online Coverage Planning for Autonomous Underwater Vehicles"
@@ -295,6 +319,7 @@
   code: 0
   codedown: 0
   pdf: paull_iros_2012a.pdf
+  pdflink: 0
   slides: 0
 
 - title: "Towards An Ontology for Autonomous Robots"
@@ -307,6 +332,7 @@
   code: 0
   codedown: 0
   pdf: paull_iros_2012b.pdf
+  pdflink: 0
   slides: 0
 
 - title: "Control and Navigation Framework for Quadrotor Helicopters"
@@ -319,6 +345,7 @@
   code: 0
   codedown: 0
   pdf: 0
+  pdflink: 0
   slides: 0
 
 - title: "Neural Network-based Multiple-robot Simultaneous Localization and Mapping"
@@ -331,6 +358,7 @@
   code: 0
   codedown: 0
   pdf: saeedi_iros_2011_b.pdf
+  pdflink: 0
   slides: saeedi_iros_2011b_slides.pdf
 
 - title: "Multiple-robot Simultaneous Localization and Mapping"
@@ -343,6 +371,7 @@
   code: 0
   codedown: 0
   pdf: saeedi_iros_2011_a.pdf
+  pdflink: 0
   slides: saeedi_iros_2011a_slides.pdf
   
 - title: "A Multi-agent Framework with MOOS-IvP for Autonomous Underwater Vehicles with Sidescan Sonar Sensors"
@@ -355,6 +384,7 @@
   code: 0
   codedown: 0
   pdf: paull_ais_2011.pdf
+  pdflink: 0
   slides: 0
 
 - title: "An Information Gain Based Adaptive Path Planning Method for an Autonomous Underwater Vehicle Using Sidescan Sonar"
@@ -367,6 +397,7 @@
   code: 0
   codedown: 0
   pdf: paull_case_2010.pdf
+  pdflink: 0
   slides: 0
 
 - title: "Optimal Design of Rotating Sliding Surface for Sliding Mode Control"
@@ -379,6 +410,7 @@
   code: 0
   codedown: simulink.zip
   pdf: saeedi_acc_2009.pdf
+  pdflink: 0
   slides: saeedi_acc_2009_slides.ppt
 
 - title: "Active Queue Management (AQM) for TCP/IP networks Using Discrete-Time Sliding Mode Control (DSMC)"
@@ -391,4 +423,5 @@
   code: 0
   codedown: 0
   pdf: saeedi_cca_2005.pdf
+  pdflink: 0
   slides: 0
