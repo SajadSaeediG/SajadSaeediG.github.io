@@ -7,6 +7,7 @@
   video: 0
   code: 0
   pdf: 0
+  slides: 0
 
 - title: "Pareto Frontier Approximation Network (PA-Net) to Solve Bi-objective TSP"
   image: conf.png
@@ -17,6 +18,7 @@
   video: 0
   code: 0
   pdf: 0
+  slides: 0
 
 - title: "Deep Direct Visual Servoing of Tendon-Driven Continuum Robots"
   image: conf.png
@@ -27,6 +29,7 @@
   video: 0
   code: 0
   pdf: https://arxiv.org/abs/2111.02580
+  slides: 0
 
 - title: "Far-UV Disinfection with Mobile Manipulator Robotic System"
   image: conf.png
@@ -36,7 +39,8 @@
   project: https://sites.google.com/view/g-robot/home
   video: 0
   code: 0
-  pdf: 0 
+  pdf: 0
+  slides: 0
 
 - title: "PathBench A Benchmarking Platform for Classical and Learned Path Planning Algorithms"
   image: conf.png
@@ -47,6 +51,7 @@
   video: 0
   code: 0
   pdf: 0
+  slides: 0
 
 - title: "Waypoint Planning Networks (WPN)"
   image: conf.png
@@ -57,6 +62,7 @@
   video: 0
   code: 0
   pdf: 0
+  slides: 0
 
 - title: "Cain: Automatic Code Generation for Simultaneous Convolutional Kernels on Focal-plane Sensor-processors"
   image: conf.png
@@ -67,16 +73,18 @@
   video: 0
   code: https://github.com/ed741/cain
   pdf: https://arxiv.org/abs/2101.08715
+  slides: 0
 
 - title: "BIT-VO: Visual Odometry at 300 FPS using Binary Features from the Focal Plane"
   image: conf.png
   authors: Riku Murai, Sajad Saeedi, and Paul HJ Kelly
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   location: Las Vegas, NV, USA, Oct 25-29, 2020
-  project: 0
-  video: 0
+  project: https://rmurai0610.github.io/projects/BIT-VO/
+  video: https://www.youtube.com/watch?v=tnPfbJaPrSQ&feature=youtu.be
   code: 0
-  pdf: 0
+  pdf: https://arxiv.org/abs/2004.11186
+  slides: 0
 
 - title: "AnalogNet: Convolutional Neural Network Inference on Analog Focal Plane Sensor Processors"
   image: conf.png
@@ -85,18 +93,20 @@
   location: arXiv
   project: 0
   video: 0
-  code: 0
-  pdf: 0
+  code: https://github.com/brouwa/CNNs-on-FPSPs
+  pdf: wong_arxive_2020_analognet.pdf
+  slides: 0
 
 - title: "Characterizing Visual Localization and Mapping Datasets"
   image: conf.png
   authors: Sajad Saeedi, Eduardo DC Carvalho, Wenbin Li, Dimos Tzoumanikas, Stefan Leutenegger, Paul HJ Kelly, Andrew J Davison
   venue: IEEE/RSJ International Conference on Robotics and Automation (ICRA)​
   location: Montreal, Canada, May 20-24, 2019
-  project: 0
-  video: 0
+  project: http://vinben.github.io/lmdata
+  video: https://youtu.be/XjJJ73laaqk
   code: 0
-  pdf: 0
+  pdf: saeedi_icra_2019.pdf
+  slides: 0
 
 - title: "SLAMBench 3.0: Systematic Automated Reproducible Evaluation of SLAM Systems for Robot Vision Challenges and Scene Understanding"
   image: conf.png
@@ -106,7 +116,8 @@
   project: 0
   video: 0
   code: 0
-  pdf: 0 
+  pdf: bujanca_icra_2019_sb3.pdf
+  slides: 0
 
 - title: "Camera Tracking on  Focal-Plane Sensor-Processor Arrays"
   image: conf.png
@@ -114,9 +125,10 @@
   venue: High Performance and Embedded Architecture and Compilation (HiPEAC), Workshop on Programmability and Architectures for Heterogeneous Multicores (MULTIPROG)
   location: Valencia, Spain, January 21-23, 2019
   project: 0
-  video: 0
+  video: https://www.youtube.com/watch?v=GADrV-27hD8&feature=youtu.be
   code: 0
-  pdf: 0
+  pdf: debrunner_hipeac_2019.pdf
+  slides: 0
 
 - title: "AUKE: Automatic Kernel Code Generation for an Analogue SIMD Focal-Plane Sensor-Processor Array"
   image: conf.png
@@ -124,19 +136,21 @@
   venue: High Performance and Embedded Architecture and Compilation (HiPEAC)
   location: Valencia, Spain, January 21-23, 2019
   project: 0
-  video: 0
-  code: 0
-  pdf: 0
+  video: https://www.youtube.com/watch?v=NILZILnEevA&feature=youtu.be
+  code: https://github.com/najiji/auto_code_cpa
+  pdf: debrunner_taco_2019.pdf
+  slides: 0
 
 - title: "InteriorNet: Mega-scale Multi-sensor Photo-realistic Indoor Scenes Dataset"
   authors: Wenbin Li, Sajad Saeedi, John McCormac, Ronald Clark, Dimos Tzoumanikas, Qing Ye, Yuzhong Huang, Rui Tang, Stefan Leutenegger
   image: conf.png
   venue: British Machine Vision Conference (BMVC)
   location: Newcastle upon Tyne, UK, September 3 - 25, 2018
-  project: 0
+  project: http://interiornetdataset.github.io/
   video: 0
   code: 0
-  pdf: 0
+  pdf: li_bmvc_2018.pdf
+  slides: 0
 
 - title: "SLAMBench2: Multi-Objective Head-to-Head Benchmarking for Visual SLAM"
   image: conf.png
@@ -145,8 +159,9 @@
   location: Brisbane, Australia, May 21 -  25, 2018
   project: 0
   video: 0
-  code: 0
-  pdf: 0
+  code: https://github.com/pamela-project/slambench2
+  pdf: bodin_icra_2018_sb2.pdf
+  slides: 0
 
 - title: "Application-oriented Design Space Exploration for SLAM Algorithms"
   image: conf.png
@@ -154,9 +169,10 @@
   venue: IEEE International Conference on Robotics and Automation (ICRA)
   location: Singapore, May 29 - June 3, 2017
   project: 0
-  video: 0
+  video: https://www.youtube.com/watch?v=g1kXE_1K7u8
   code: 0
-  pdf: 0
+  pdf: saeedi_icra_2017.pdf
+  slides: 0
 
 - title: "Algorithmic Performance-Accuracy Trade-off in 3D Vision Applications Using HyperMapper"
   image: conf.png
@@ -166,7 +182,8 @@
   project: 0
   video: 0
   code: 0
-  pdf: 0 
+  pdf: 0
+  slides: 0
 
 - title: "3D Mapping and Navigation for Autonomous Rotorcraft"
   image: conf.png
@@ -176,17 +193,19 @@
   project: 0
   video: 0
   code: 0
-  pdf: 0
+  pdf: saeedi1_ccece_2016.pdf
+  slides: 0
 
 - title: "The COBRA Heterogenous Multiple-robot Localization and Mapping Dataset"
   image: conf.png
   authors: Sajad Saeedi, Carl Thibault, Amr Nagaty, Michael Trentini, Howard Li
   venue: IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)
   location: Vancouver, BC, Canada, May 15 -18, 2016
-  project: 0
+  project: http://www.ece.unb.ca/COBRA/open_source.htm
   video: 0
   code: 0
-  pdf: 0
+  pdf: saeedi2_ccece_2016.pdf
+  slides: 0
 
 - title: "Hybrid Approach for Multiple-robot SLAM with Particle Filtering"
   image: conf.png
@@ -197,6 +216,8 @@
   video: 0
   code: 0
   pdf: 0
+  slides: saeedi_iros_2015_slides.pdf
+  slides: saeedi_iros_2015.pdf
 
 - title: "Fast Monte Carlo Localization of AUV Using Acoustic Range Measurement"
   image: conf.png
@@ -204,9 +225,10 @@
   venue: IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)
   location: Halifax, NS, Canada, May 3-6, pp. 326-331, 2015
   project: 0
-  video: 0
+  video: https://youtu.be/LejfK6n6mBE
   code: 0
-  pdf: 0
+  pdf: saeedi_ccece_2015.pdf
+  slides: saeedi_ccece_2015_slides.pdf
 
 - title: "Perception and Navigation for Autonomous Rotorcraft"
   image: conf.png
@@ -216,7 +238,8 @@
   project: 0
   video: 0
   code: 0
-  pdf: 0
+  pdf: saeedi_icius_2014_slides.pdf
+  slides: 0
 
 - title: "Map Merging Using Hough Peak Matching"
   image: conf.png
@@ -225,8 +248,9 @@
   location: Vilamoura, Algarve, Portugal, Oct 7-12, pp. 4683-4688, 2012
   project: 0
   video: 0
-  code: 0
-  pdf: 0
+  code: hough_src.rar
+  pdf: saeedi_iros_2012_b.pdf
+  slides: 0
 
 - title: "Efficient Map Merging Using a Probabilistic Generalized Voronoi Diagram"
   image: conf.png
@@ -236,7 +260,8 @@
   project: 0
   video: 0
   code: 0
-  pdf: 0
+  pdf: saeedi_iros_2012_a.pdf
+  slides: saeedi_iros_2012a_slides.pdf
 
 - title: "Sensor Driven Online Coverage Planning for Autonomous Underwater Vehicles"
   image: conf.png
@@ -246,7 +271,8 @@
   project: 0
   video: 0
   code: 0
-  pdf: 0
+  pdf: paull_iros_2012a.pdf
+  slides: 0
 
 - title: "Towards An Ontology for Autonomous Robots"
   image: conf.png
@@ -256,7 +282,8 @@
   project: 0
   video: 0
   code: 0
-  pdf: 0
+  pdf: paull_iros_2012b.pdf
+  slides: 0
 
 - title: "Control and Navigation Framework for Quadrotor Helicopters"
   image: conf.png
@@ -267,6 +294,7 @@
   video: 0
   code: 0
   pdf: 0
+  slides: 0
 
 - title: "Neural Network-based Multiple-robot Simultaneous Localization and Mapping"
   image: conf.png
@@ -276,7 +304,8 @@
   project: 0
   video: 0
   code: 0
-  pdf: 0
+  pdf: saeedi_iros_2011_b.pdf
+  slides: saeedi_iros_2011b_slides.pdf
 
 - title: "Multiple-robot Simultaneous Localization and Mapping"
   image: conf.png
@@ -286,7 +315,8 @@
   project: 0
   video: 0
   code: 0
-  pdf: 0
+  pdf: saeedi_iros_2011_a.pdf
+  slides: saeedi_iros_2011a_slides.pdf
   
 - title: "A Multi-agent Framework with MOOS-IvP for Autonomous Underwater Vehicles with Sidescan Sonar Sensors"
   image: conf.png
@@ -296,8 +326,9 @@
   project: 0
   video: 0
   code: 0
-  pdf: 0
-  
+  pdf: paull_ais_2011.pdf
+  slides: 0
+
 - title: "An Information Gain Based Adaptive Path Planning Method for an Autonomous Underwater Vehicle Using Sidescan Sonar"
   image: conf.png
   authors: Liam Paull, Sajad Saeedi, Howard Li, Vincent Myers
@@ -306,8 +337,9 @@
   project: 0
   video: 0
   code: 0
-  pdf: 0
-  
+  pdf: paull_case_2010.pdf
+  slides: 0
+
 - title: "Optimal Design of Rotating Sliding Surface for Sliding Mode Control"
   image: conf.png
   authors: Sajad Saeedi, Mohammad Beheshti
@@ -315,8 +347,9 @@
   location: St. Louis, MO, USA, June 10-12, pp. 774-777, 2009
   project: 0
   video: 0
-  code: 0
-  pdf: 0
+  code: simulink.zip
+  pdf: saeedi_acc_2009.pdf
+  slides: saeedi_acc_2009_slides.ppt
 
 - title: "Active Queue Management (AQM) for TCP/IP networks Using Discrete-Time Sliding Mode Control (DSMC)"
   image: conf.png
@@ -326,4 +359,5 @@
   project: 0
   video: 0
   code: 0
-  pdf: 0
+  pdf: saeedi_cca_2005.pdf
+  slides: 0
