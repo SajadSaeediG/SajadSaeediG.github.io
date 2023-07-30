@@ -8,6 +8,7 @@
   video: 0
   code: 0
   pdf: 0
+  pdflink: https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.22231
 
   
 - title: "High-frame-rate Homography and Visual Odometry by Tracking Binary Features from the Focal Plane"
@@ -19,7 +20,9 @@
   project: https://rmurai.co.uk/projects/BIT-VO/
   video: 0
   code: 0
-  pdf: 0
+  pdf: 0  
+  pdflink: https://link.springer.com/content/pdf/10.1007/s10514-023-10122-8.pdf?pdf=button
+
 
 
 - title: "UVC Disinfection Robots: A Review"
@@ -32,6 +35,7 @@
   video: 0
   code: 0
   pdf: 0
+  pdflink: 0
 
 
 - title: "Compiling CNNs with Cain: focal-plane processing for robot navigation"
@@ -44,6 +48,7 @@
   video: 0
   code: 0
   pdf: 0
+  pdflink: https://link.springer.com/content/pdf/10.1007/s10514-022-10053-w.pdf?pdf=button
 
 
 - title: "Systematic Comparison of Path Planning Algorithms using PathBench"
@@ -56,6 +61,7 @@
   video: 0
   code: 0
   pdf: 0
+  pdflink: https://arxiv.org/abs/2203.03092
 
 
 - title: "A Robot Web for Distributed Many-Device Localisation"
@@ -68,6 +74,7 @@
   video: 0
   code: 0
   pdf: 0
+  pdflink: https://arxiv.org/abs/2202.03314
 
 
 - title: "AUKE: Automatic Kernel Code Generation for an Analogue SIMD Focal-Plane Sensor-Processor Array"
@@ -80,6 +87,7 @@
   video: https://www.youtube.com/watch?v=NILZILnEevA&feature=youtu.be
   code: https://github.com/ThomasDebrunner/cpa-sim
   pdf: 0
+  pdflink: https://dl.acm.org/doi/pdf/10.1145/3291055
 
 
 - title: "Navigating the Landscape for Real-time Localisation and Mapping for Robotics Virtual and Augmented Reality"
@@ -91,7 +99,8 @@
   project: 0
   video: 0
   code: 0
-  pdf: 0
+  pdf: saeedi_pieee_2018.pdf
+  pdflink: 0
 
 
 - title: "3D Mapping for Autonomous Quadrotor Aircraft"
@@ -101,9 +110,10 @@
     url: https://www.worldscientific.com/doi/10.1142/S2301385017400064
     display: Unmanned Systems, 5(3), pp. 1-16, 2017
   project: 0
-  video: 0
+  video: https://www.youtube.com/watch?v=lh-KqINMON8
   code: 0
   pdf: 0
+  pdflink: https://www.worldscientific.com/doi/reader/10.1142/S2301385017400064
 
 - title: "Multiple-robot Simultaneous Localization and Mapping - A Review"
   image: saeedi_jfr_2016.jpg
@@ -115,6 +125,7 @@
   video: 0
   code: 0
   pdf: saeedi_jfr_2016.pdf
+  pdflink: 0
 
 - title: "Requirements for building an ontology for autonomous robots"
   image: bayat_ir_2016.png
@@ -126,6 +137,7 @@
   video: 0
   code: 0
   pdf: 0
+  pdflink: 0
 
 - title: "The COBRA Fixed-wing Georeferenced Imagery Dataset"
   image: saeedi_ijius_2015.jpg
@@ -136,6 +148,7 @@
   project: 0
   video: 0
   code: 0
+  pdflink: 0
 
 - title: "Perception and Navigation for an Autonomous Quadrotor in GPS-denied Environments"
   image: saeedi_acta_2015.jpg
@@ -147,6 +160,7 @@
   video: https://youtu.be/-nhHfuQ5L0A
   code: 0
   pdf: 0
+  pdflink: 0
 
 
 - title: "Map Merging for Multiple Robots Using Hough Peak Matching"
@@ -159,6 +173,7 @@
   video: 0
   code: 0
   pdf: 0
+  pdflink: 0
 
 
 - title: "Occupancy Grid Map Merging for Multiple-robot Simultaneous Localization and Mapping"
@@ -171,6 +186,7 @@
   video: 0
   code: 0
   pdf: 0
+  pdflink: 0
 
 
 - title: "Group Mapping: A Topological Approach to Map Merging for Multiple Robots"
@@ -183,6 +199,7 @@
   video: 0
   code: 0
   pdf: 0
+  pdflink: 0
 
 - title: "AUV Navigation and Localization - A Review"
   image: paull_joe_2014.jpg
@@ -194,6 +211,7 @@
   video: 0
   code: 0
   pdf: 0
+  pdflink: 0
 
 - title: "Control and Navigation Framework for Quadrotor Helicopters"
   image: nagaty_jirs_2013.jpg
@@ -205,6 +223,7 @@
   video: 0
   code: http://sourceforge.net/projects/gazebo-quad-sim/
   pdf: 0
+  pdflink: 0
 
 - title: "Sensor-Driven Online Coverage Planning for Autonomous Underwater Vehicles"
   image: paull_tmech_2013.png
@@ -216,6 +235,7 @@
   video: 0
   code: 0
   pdf: 0
+  pdflink: 0
   
 - title: "Neural Network-based Multiple-robot Simultaneous Localization and Mapping"
   image: saeedi_ieeenn_2011.jpg
@@ -227,6 +247,7 @@
   video: 0
   code: 0
   pdf: 0
+  pdflink: 0
 
 - title: "Robust Window-Based Active Queue Management Based on H-infinity Control"
   image: monemi_cca_2006.png
@@ -238,4 +259,5 @@
   video: 0
   code: 0
   pdf: 0
+  pdflink: 0
 
