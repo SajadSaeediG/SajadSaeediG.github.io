@@ -148,6 +148,7 @@
   project: 0
   video: 0
   code: 0
+  pdf: saeedi_ijius_2015.pdf
   pdflink: 0
 
 - title: "Perception and Navigation for an Autonomous Quadrotor in GPS-denied Environments"
@@ -159,7 +160,7 @@
   project: 0
   video: https://youtu.be/-nhHfuQ5L0A
   code: 0
-  pdf: 0
+  pdf: saeedi_ijra_2015b.pdf
   pdflink: 0
 
 
@@ -172,7 +173,7 @@
   project: 0
   video: 0
   code: 0
-  pdf: 0
+  pdf: saeedi_ras_2014.pdf
   pdflink: 0
 
 
@@ -185,7 +186,7 @@
   project: 0
   video: 0
   code: 0
-  pdf: 0
+  pdf: saeedi_ijra_2015.pdf
   pdflink: 0
 
 
@@ -198,7 +199,7 @@
   project: 0  
   video: 0
   code: 0
-  pdf: 0
+  pdf: saeedi_ram_2014.pdf
   pdflink: 0
 
 - title: "AUV Navigation and Localization - A Review"
@@ -210,7 +211,7 @@
   project: 0
   video: 0
   code: 0
-  pdf: 0
+  pdf: paull_joe_2014.pdf
   pdflink: 0
 
 - title: "Control and Navigation Framework for Quadrotor Helicopters"
@@ -222,7 +223,7 @@
   project: 0
   video: 0
   code: http://sourceforge.net/projects/gazebo-quad-sim/
-  pdf: 0
+  pdf: nagaty_jirs_2013.pdf
   pdflink: 0
 
 - title: "Sensor-Driven Online Coverage Planning for Autonomous Underwater Vehicles"
@@ -234,7 +235,7 @@
   project: 0
   video: 0
   code: 0
-  pdf: 0
+  pdf: paull_tmech_2013.pdf
   pdflink: 0
   
 - title: "Neural Network-based Multiple-robot Simultaneous Localization and Mapping"
@@ -246,7 +247,7 @@
   project: 0
   video: 0
   code: 0
-  pdf: 0
+  pdf: saeedi_tnn_2012.pdf
   pdflink: 0
 
 - title: "Robust Window-Based Active Queue Management Based on H-infinity Control"
@@ -258,6 +259,6 @@
   project: 0  
   video: 0
   code: 0
-  pdf: 0
+  pdf: monemi_ijist_2006.pdf
   pdflink: 0
 
