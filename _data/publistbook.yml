@@ -1,19 +1,19 @@
 - title: "Navigation for Underwater Vehicles"
-  image: conf.png
+  image: paull_encyclopedia_2018.png
   authors: Liam Paull, Mae Seto, Sajad Saeedi, John Leonard 
   link:
     url: https://link.springer.com/referenceworkentry/10.1007/978-3-642-41610-1_15-1
     display: Encyclopedia of Robotics​, 2018
 
 - title: "Path Planning for Autonomous Underwater Vehicles"
-  image: conf.png
+  image: paull_springer_2012.png
   authors: Liam Paull, Sajad Saeedi, Howard Li
   link:
     url: https://link.springer.com/book/10.1007/978-1-4614-5659-9
     display: Springer, Autonomy for Marine Robots, pp. 177-224 
 
 - title: "Introduction to Autonomy for Marine Robots"
-  image: conf.png
+  image: seto_springer_2012.png
   authors: Mae Seto, Liam Paull, Sajad Saeedi
   link:
     url: https://link.springer.com/book/10.1007/978-1-4614-5659-9
