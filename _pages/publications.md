@@ -135,12 +135,12 @@ permalink: /publications/
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publicon.image }}" class="img-responsive" width="11%" style="float: left" />
   <p>{{ publicon.title }}</p>
   <p><em>{{ publicon.authors }}</em></p>
-  <p>{{ publicon.venue }}</p>
+  <p>{{ publicon.venue }}
     {% if publicon.pdf != 0 %}
       <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ site.baseurl }}/downloads/{{ publicon.pdf }}'">
       PDF
       </button>
-  {% endif %}
+  {% endif %}</p>
  </div>
 </div>
 </div>
