@@ -1,5 +1,5 @@
 - title: "Autonomous aerial robotics for package delivery: A technical review"
-  image: jfr2_orig.jpg
+  image: saunders_jfr_2023.jpg
   authors: Jack Saunders, Sajad Saeedi, Wenbin Li
   link:
     url: https://onlinelibrary.wiley.com/doi/10.1002/rob.22231
@@ -11,7 +11,7 @@
 
   
 - title: "High-frame-rate Homography and Visual Odometry by Tracking Binary Features from the Focal Plane"
-  image: bitvo2_orig.jpg
+  image: murai_ar_2023.jpg
   authors: Riku Murai, Sajad Saeedi, Paul H.J. Kelly
   link:
     url: https://link.springer.com/article/10.1007/s10514-023-10122-8
@@ -23,7 +23,7 @@
 
 
 - title: "UVC Disinfection Robots: A Review"
-  image: ras-uvc_orig.jpg
+  image: mehta_ras_2023.jpg
   authors: Ishaan Mehta, Hao-Ya Hsueh, Sharareh Taghipour, Wenbin Li, Sajad Saeedi
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0921889022002214?via%3Dihub
@@ -35,7 +35,7 @@
 
 
 - title: "Compiling CNNs with Cain: focal-plane processing for robot navigation"
-  image: cain2_orig.jpg
+  image: stow_ar_2022.jpg
   authors: Edward Stow, Abrar Ahsan, Yingying Li, Ali Babaei, Riku Murai, Sajad Saeedi, Paul H.J. Kelly
   link:
     url: doi.org/10.1007/s10514-022-10053-w
@@ -47,7 +47,7 @@
 
 
 - title: "Systematic Comparison of Path Planning Algorithms using PathBench"
-  image: ar_orig.jpg
+  image: hsueh_ar_2022.jpg
   authors: Hao-Ya Hsueh, Alexandru-Iosif Toma, Hussein Ali Jaafar, Edward Stow, Riku Murai, Paul H.J. Kelly, Sajad Saeedi
   link:
     url: https://doi.org/10.1080/01691864.2022.2062259
@@ -59,7 +59,7 @@
 
 
 - title: "A Robot Web for Distributed Many-Device Localisation"
-  image: rw_orig.jpg
+  image: murai_ieee_2023.jpg
   authors: Riku Murai, Joseph Ortiz, Sajad Saeedi, Paul HJ Kelly, Andrew J Davison
   link:
     url: https://arxiv.org/abs/2202.03314
@@ -71,7 +71,7 @@
 
 
 - title: "AUKE: Automatic Kernel Code Generation for an Analogue SIMD Focal-Plane Sensor-Processor Array"
-  image: codegen_orig.png
+  image: debrunner_taco_2019.png
   authors: Thomas Debrunner, Sajad Saeedi, Paul H J Kelly
   link:
     url: https://dl.acm.org/doi/abs/10.1145/3291055
@@ -83,7 +83,7 @@
 
 
 - title: "Navigating the Landscape for Real-time Localisation and Mapping for Robotics Virtual and Augmented Reality"
-  image: pamela_1.png
+  image: saeedi_ieeep_2018.png
   authors: Sajad Saeedi, Bruno Bodin, Harry Wagstaff, Andy Nisbet, Luigi Nardi, John Mawer, Nicolas Melot, Oscar Palomar, Emanuele Vespa, Tom Spink, Cosmin Gorgovan, Andrew Webb, James Clarkson, Erik Tomusk, Thomas Debrunner, Kuba Kaszyk, Pablo Gonzalez-de-Aledo, Andrey Rodchenko, Graham Riley, Christos Kotselidis, Bjorn Franke, Michael F. P. O'Boyle,  Andrew J. Davison, Paul H. J. Kelly, Mikel Lujan, and Steve Furber
   link:
     url: https://ieeexplore.ieee.org/document/8436423
