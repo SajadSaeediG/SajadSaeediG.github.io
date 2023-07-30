@@ -142,7 +142,7 @@
   slides: 0
 
 - title: "Camera Tracking on  Focal-Plane Sensor-Processor Arrays"
-  image: conf.png
+  image: debrunner_hipeac_2019_tracking.png
   authors: Thomas Debrunner, Sajad Saeedi, Laurie Bose, Andrew J Davison, Paul H J Kelly
   venue: High Performance and Embedded Architecture and Compilation (HiPEAC), Workshop on Programmability and Architectures for Heterogeneous Multicores (MULTIPROG)
   location: Valencia, Spain, January 21-23, 2019
@@ -155,7 +155,7 @@
   slides: 0
 
 - title: "AUKE: Automatic Kernel Code Generation for an Analogue SIMD Focal-Plane Sensor-Processor Array"
-  image: conf.png
+  image: debrunner_hipeac_2019_auke.png
   authors: Thomas Debrunner, Sajad Saeedi, Paul H J Kelly
   venue: High Performance and Embedded Architecture and Compilation (HiPEAC)
   location: Valencia, Spain, January 21-23, 2019
@@ -169,7 +169,7 @@
 
 - title: "InteriorNet: Mega-scale Multi-sensor Photo-realistic Indoor Scenes Dataset"
   authors: Wenbin Li, Sajad Saeedi, John McCormac, Ronald Clark, Dimos Tzoumanikas, Qing Ye, Yuzhong Huang, Rui Tang, Stefan Leutenegger
-  image: conf.png
+  image: li_bmvc_2019.png
   venue: British Machine Vision Conference (BMVC)
   location: Newcastle upon Tyne, UK, September 3 - 25, 2018
   project: http://interiornetdataset.github.io/
@@ -181,7 +181,7 @@
   slides: 0
 
 - title: "SLAMBench2: Multi-Objective Head-to-Head Benchmarking for Visual SLAM"
-  image: conf.png
+  image: bodin_icra_2018.png
   authors: Bruno Bodin, Harry Wagstaff, Sajad Saeedi, Luigi Nardi, Emanuele Vespa, John Mawer, Andy Nisbet, Mikel Lujan, Steve Furber, Andrew J. Davison, Paul Kelly, and Michael F. P. O'Boyle
   venue: IEEE International Conference on Robotics and Automation (ICRA)
   location: Brisbane, Australia, May 21 -  25, 2018
@@ -194,7 +194,7 @@
   slides: 0
 
 - title: "Application-oriented Design Space Exploration for SLAM Algorithms"
-  image: conf.png
+  image: saeedi_icra_2017.png
   authors: Sajad Saeedi, Luigi Nardi, Edward Johns, Bruno Bodin, Paul H J Kelly, Andrew J Davison
   venue: IEEE International Conference on Robotics and Automation (ICRA)
   location: Singapore, May 29 - June 3, 2017
@@ -207,7 +207,7 @@
   slides: 0
 
 - title: "Algorithmic Performance-Accuracy Trade-off in 3D Vision Applications Using HyperMapper"
-  image: conf.png
+  image: nardi_iwapt_2017.png
   authors: Luigi Nardi, Bruno Bodin, Sajad Saeedi, Emanuele Vespa, Andrew J Davison, Paul H J Kelly
   venue: International Workshop on Automatic Performance Tuning (iWAPT), hosted by IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS)
   location: Orlando, FL, USA, May 29 - June 2, 2017
@@ -220,7 +220,7 @@
   slides: 0
 
 - title: "3D Mapping and Navigation for Autonomous Rotorcraft"
-  image: conf.png
+  image: saeedi_ccece_2016_quad.jpg
   authors: Sajad Saeedi, Amr Nagaty, Carl Thibault, Michael Trentini, Howard Li
   venue: IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)
   location: Vancouver, BC, Canada, May 15 -18, 2016
@@ -233,7 +233,7 @@
   slides: 0
 
 - title: "The COBRA Heterogenous Multiple-robot Localization and Mapping Dataset"
-  image: conf.png
+  image: saeedi_ccece_2016_dataset.jpg
   authors: Sajad Saeedi, Carl Thibault, Amr Nagaty, Michael Trentini, Howard Li
   venue: IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)
   location: Vancouver, BC, Canada, May 15 -18, 2016
@@ -246,7 +246,7 @@
   slides: 0
 
 - title: "Hybrid Approach for Multiple-robot SLAM with Particle Filtering"
-  image: conf.png
+  image: saeedi_iros_2015.jpg
   authors: Sajad Saeedi, Michael Trentini, Howard Li
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   location: Hamburg, Germany, Sep 28- Oct 2, pp. 3421 - 3426, 2015
@@ -259,7 +259,7 @@
   slides: saeedi_iros_2015_slides.pdf
 
 - title: "Fast Monte Carlo Localization of AUV Using Acoustic Range Measurement"
-  image: conf.png
+  image: saeedi_ccece_2015.jpg
   authors: Sajad Saeedi, Mae Seto, Howard Li
   venue: IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)
   location: Halifax, NS, Canada, May 3-6, pp. 326-331, 2015
@@ -272,7 +272,7 @@
   slides: saeedi_ccece_2015_slides.pdf
 
 - title: "Perception and Navigation for Autonomous Rotorcraft"
-  image: conf.png
+  image: saeedi_icius_2014.jpg
   authors: Sajad Saeedi, Amr Nagaty, Carl Thibault, Michael Trentini, Howard Li
   venue: International Conference on Intelligent Unmanned Systems (ICIUS)
   location: Montreal, QC, Canada, Sep 29 - Oct 1, 2014
@@ -285,7 +285,7 @@
   slides: saeedi_icius_2014_slides.pdf
 
 - title: "Map Merging Using Hough Peak Matching"
-  image: conf.png
+  image: saeedi_iros_2012_ht.png
   authors: Sajad Saeedi, Liam Paull, Michael Trentini, Mae Seto, Howard Li
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   location: Vilamoura, Algarve, Portugal, Oct 7-12, pp. 4683-4688, 2012
@@ -298,7 +298,7 @@
   slides: 0
 
 - title: "Efficient Map Merging Using a Probabilistic Generalized Voronoi Diagram"
-  image: conf.png
+  image: saeedi_iros_2012_pgvd.jpg
   authors: Sajad Saeedi, Liam Paull, Michael Trentini, Mae Seto, Howard Li
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   location: Vilamoura, Algarve, Portugal, Oct 7-12, pp. 4419-4424, 2012
@@ -311,7 +311,7 @@
   slides: saeedi_iros_2012a_slides.pdf
 
 - title: "Sensor Driven Online Coverage Planning for Autonomous Underwater Vehicles"
-  image: conf.png
+  image: Paull_iros_2012_sensor.jpg
   authors: Liam Paull, Sajad Saeedi, Mae Seto, Howard Li
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   location: Vilamoura, Algarve, Portugal, Oct 7-12, pp. 2875-2880, 2012
@@ -324,7 +324,7 @@
   slides: 0
 
 - title: "Towards An Ontology for Autonomous Robots"
-  image: conf.png
+  image: Paull_iros_2012_ont.jpg
   authors: Liam Paull, Gaetan Severac, Guilherme V. Rao, Julian M. Angel, Harold Boley, Maki K. Habib, Bao Nguyen, Veera R. S. Kumar, Sajad Saeedi, Ricardo Sanz, Mae Seto, Aleksandar Stefanovski, Michael Trentini, Howard Li
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   location: Vilamoura, Algarve, Portugal, Oct 7-12, pp. 2875-2880, 2012
@@ -337,7 +337,7 @@
   slides: 0
 
 - title: "Control and Navigation Framework for Quadrotor Helicopters"
-  image: conf.png
+  image: nagaty_icuas_2012.png
   authors: Amr Nagaty, Sajad Saeedi, Carl Thibault, Mae Seto and Howard Li
   venue: International Conference On Unmanned Aircraft Systems (ICUAS)
   location: Montreal, QC, Canada, June 12 - June 15, 2012
@@ -350,7 +350,7 @@
   slides: 0
 
 - title: "Neural Network-based Multiple-robot Simultaneous Localization and Mapping"
-  image: conf.png
+  image: saeedi_iros_2011_nn.jpg
   authors: Sajad Saeedi, Liam Paull, Michael Trentini, Howard Li
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   location: San Francisco, CA, USA, Sept 25-30, pp. 880-885, 2011
@@ -363,7 +363,7 @@
   slides: saeedi_iros_2011b_slides.pdf
 
 - title: "Multiple-robot Simultaneous Localization and Mapping"
-  image: conf.png
+  image: saeedi_iros_2011_mrslam.jpg
   authors: Sajad Saeedi, Liam Paull, Michael Trentini, Howard Li
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   location: San Francisco, CA, USA, Sept 25-30, pp. 853-888, 2011
@@ -376,7 +376,7 @@
   slides: saeedi_iros_2011a_slides.pdf
   
 - title: "A Multi-agent Framework with MOOS-IvP for Autonomous Underwater Vehicles with Sidescan Sonar Sensors"
-  image: conf.png
+  image: paull_ais_2011.png
   authors: Liam Paull, Sajad Saeedi, Mae Seto, Howard Li
   venue: International Conference on Autonomous and Intelligent Systems (AIS)
   location: Burnaby, BC, Canada, June 22-24, pp. 41-50, 2011
@@ -389,7 +389,7 @@
   slides: 0
 
 - title: "An Information Gain Based Adaptive Path Planning Method for an Autonomous Underwater Vehicle Using Sidescan Sonar"
-  image: conf.png
+  image: paull_case_2011.png
   authors: Liam Paull, Sajad Saeedi, Howard Li, Vincent Myers
   venue: IEEE Conference on Automation Science and Engineering (CASE)
   location: Toronto, ON, Canada, Aug 21-24, pp. 835-840, 2010
@@ -402,7 +402,7 @@
   slides: 0
 
 - title: "Optimal Design of Rotating Sliding Surface for Sliding Mode Control"
-  image: conf.png
+  image: saeedi_acc_2009.png
   authors: Sajad Saeedi, Mohammad Beheshti
   venue: American Control Conference (ACC)
   location: St. Louis, MO, USA, June 10-12, pp. 774-777, 2009
@@ -415,7 +415,7 @@
   slides: saeedi_acc_2009_slides.ppt
 
 - title: "Active Queue Management (AQM) for TCP/IP networks Using Discrete-Time Sliding Mode Control (DSMC)"
-  image: conf.png
+  image: saeedi_caa_2005.png
   authors: Sajad Saeedi, Mohammad Beheshti, Mehdi Monemi
   venue: IEEE Conference on Control Applications (CCA)
   location: Toronto, ON, Canada, Aug 28-30, pp. 727-730, 2005
