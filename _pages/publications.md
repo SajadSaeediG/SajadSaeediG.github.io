@@ -16,6 +16,9 @@ permalink: /publications/
   <p>{{ publi.title }}  <br> 
   <em>{{ publi.authors }}</em> <br> 
   <strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong> <br>
+   
+  <ul style="overflow: hidden">
+  
   {% if publi.project != 0 %}
       <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publi.project }}'">
       PROJECT
@@ -41,6 +44,9 @@ permalink: /publications/
       PDF
       </button>
   {% endif %}  
+  
+  </ul>
+  
   </p>
  </div>
 </div>
