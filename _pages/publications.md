@@ -70,7 +70,7 @@ permalink: /publications/
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="11%" style="float: left" />
   <p>{{ publi.title }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p><br>
  </div>
 </div>
 </div>
@@ -136,6 +136,11 @@ permalink: /publications/
   <p>{{ publicon.title }}</p>
   <p><em>{{ publicon.authors }}</em></p>
   <p>{{ publicon.venue }}</p>
+    {% if publicon.pdf != 0 %}
+      <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ site.baseurl }}/downloads/{{ publicon.pdf }}'">
+      PDF
+      </button>
+  {% endif %}
  </div>
 </div>
 </div>
