@@ -1,6 +1,6 @@
 - title: State Estimation - ME8205 (2023) 
-  image: estimation.png
-  description: This course provides an introduction to state estimation, with a focus on selected topics from robotics, computer vision, and planning. The main topics includes a primer on probability theory, Gaussian estimation, a primer on 3D geometry, matrix Lie groups, and pose estimation and mapping problems. This course is based on the State Estimation for Robotics book.
+  image: state_estimation.jpeg
+  description: This course provides an introduction to state estimation, with a focus on selected topics from robotics, computer vision, and planning. The main topics includes a primer on probability theory, Gaussian estimation, a primer on 3D geometry, matrix Lie groups, and pose estimation and mapping problems. This course is based on the [State Estimation for Robotics]( https://doi.org/10.1017/9781316671528) book.
 
 - title: Mechatronics Systems Design - MEC830 (2020 - 2023)
   image: mechatronics.jpeg
