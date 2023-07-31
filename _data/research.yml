@@ -4,7 +4,7 @@
 
 - title: Multiple-robot SLAM
   image: saeedi_jfr_2016.jpg
-  description: While single-robot SLAM is challenging enough, moving to a platform of multiple robots adds another layer of challenge. In a multiple-robot environment, robots must incorporate all available data to construct a consistent global map, meanwhile localize themselves within the global map. Multiple-robot SLAM has benefits such as performing missions faster and being robust to failure of any one of the robots; however, these benefits come at the price of having a complex system which requires coordination and cooperation of the robots. 
+  description: While single-robot SLAM is challenging enough, moving to a platform of multiple robots adds another layer of challenge. In a multiple-robot environment, robots must incorporate all available data to construct a consistent global map, meanwhile, localize themselves within the global map. Multiple-robot SLAM has benefits such as performing missions faster and being robust to failure of any one of the robots; however, these benefits come at the price of having a complex system that requires coordination and cooperation of the robots. There are many open problems in multiple-robot SLAM, such as dealing with communication delays and blackouts, performing the computation in a distributed manner, and designing algorithms to work with heterogeneous sensing modalities.
 
 - title: ​Focal-plane Sensor-processor Arrays (FPSP)
   image: debrunner_taco_2019.png
