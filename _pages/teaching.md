@@ -13,7 +13,7 @@ permalink: /teaching/
 <div class="col-sm-11 clearfix">
  <div class="well well-sm">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teachingpic/{{ tching.image }}" class="img-responsive" width="11%" style="float: left" />
-  <p><b>{{ tching.title }}</b>b></p>
+  <p><b>{{ tching.title }}</b></p>
   <p>{{ tching.description }}</p><br>
  </div>
 </div>
