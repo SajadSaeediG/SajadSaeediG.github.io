@@ -7,7 +7,7 @@ permalink: /research/
 ---
 
 # Research
-#
+<p></p>
 
 #### Research topics include:
 **- Simultaneous Localization and Mapping (SLAM)**
