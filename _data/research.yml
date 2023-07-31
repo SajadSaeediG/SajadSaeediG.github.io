@@ -20,8 +20,8 @@
 
 - title: Marine Robotics
   image: saeedi_ccece_2015.jpg
-  description: Autonomous underwater vehicles (AUVs) are now being used for a variety of tasks, including oceanographic surveys, de-mining, and bathymetric data collection in marine and riverine environments. Accurate localization and navigation is essential to ensure the accuracy of the gathered data for these applications​.
+  description: Autonomous underwater vehicles (AUVs) are now being used for a variety of tasks, including oceanographic surveys, exploration, de-mining, detection and classification of microplastics, monitoring of marine mammals, and bathymetric data collection in marine and riverine environments. Accurate localization and navigation are essential to ensure the accuracy of the gathered data for these applications. Canada has many small and large lakes and possesses the world's longest coastal lines, measuring 243,042 km, including the mainland coast and the coasts of offshore islands. These resources provide Canadian researchers with outstanding opportunities to develop and pioneer marine robotics.
 
-- title: Control methods are used for traffic engineering in communication networks. 
+- title: Control Systems 
   image: nagaty_icuas_2012.png
-  description: TBD
+  description: Control systems are being used in a vast variety of applications ranging from traffic engineering in communication networks to motion control in robotic systems. To apply advanced control algorithms, these systems need to be modeled mathematically or by machine learning or artificial intelligence systems. 
