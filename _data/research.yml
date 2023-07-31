@@ -12,7 +12,7 @@
 
 - title: Autonomous Mobile Robotics
   image: mehta_ismr_2022.png
-  description: TBD.
+  description: Mobile robots have numerous applications such as vacuuming, moving loads, surveying, and patrolling. The ones with manipulators are further able to interact with the environments. A good example is the mobile manipulators that can disinfect sensitive environments such as hospitals, schools, and long-term care homes. Such robots are composed of a high-degrees-of-freedom manipulator with end-effectors that are equipped with chemical or ultraviolet disinfectants. Mobile manipulators need to have a comprehensive perception of the environment to interact with the objects. Therefore, SLAM is the core component of such robots. Additionally, controlling the manipulators, to avoid collisions with the objects is another important research area in mobile manipulators.
 
 - title: Aerial Robotics
   image: saeedi_ijius_2015.jpg
