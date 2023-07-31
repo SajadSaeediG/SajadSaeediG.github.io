@@ -1,6 +1,6 @@
 - title: Simultaneous Localization and Mapping (SLAM)
   image: li_bmvc_2019.png
-  description: ​In computer vision and robotics community, SLAM is a well-known problem. Using SLAM, a sensor, such as a camera, is able to localize itself in an unknown environment by incrementally building a map and at the same time localizing itself within the map. ​Various methods have been proposed to solve the SLAM problem, but robustness and real-time performance is still challenging. 
+  description: ​In the computer vision and robotics community, SLAM is a well-known problem. Using SLAM, a sensor, such as a camera, can localize itself in an unknown environment by incrementally building a map and at the same time localizing itself within the map. Various methods have been proposed to solve the SLAM problem, but robustness and real-time performance are still challenging. Various research objectives are being pursued in industry and academia, including developing systems with 1) efficient map representation; 2) power and energy efficiency; 3) speed and runtime improvement; 4) improved results in terms of accuracy and robustness; 5) adopting to various hardware; and 5) scaling up to many devices.
 
 - title: Multiple-robot SLAM
   image: saeedi_jfr_2016.jpg
