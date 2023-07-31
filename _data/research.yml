@@ -24,4 +24,4 @@
 
 - title: Control Systems 
   image: nagaty_icuas_2012.png
-  description: Control systems are being used in a vast variety of applications ranging from traffic engineering in communication networks to motion control in robotic systems. To apply advanced control algorithms, these systems need to be modeled mathematically or by machine learning or artificial intelligence systems. 
+  description: Control systems are being used in a vast variety of applications ranging from traffic engineering in communication networks to motion control in robotic systems. To apply advanced control algorithms, these systems need to be modeled mathematically or by machine learning/artificial intelligence systems. Fast, robust, and multi-agent distributed control algorithms are being actively researched with application in heterogeneous robotic systems.
