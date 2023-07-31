@@ -1,25 +1,25 @@
 - title: Simultaneous Localization and Mapping (SLAM)
-  image: tbd.png
+  image: li_bmvc_2019.png
   description: ​In computer vision and robotics community, SLAM is a well-known problem. Using SLAM, a sensor, such as a camera, is able to localize itself in an unknown environment by incrementally building a map and at the same time localizing itself within the map. ​Various methods have been proposed to solve the SLAM problem, but robustness and real-time performance is still challenging. 
 
 - title: Multiple-robot SLAM
-  image: tbd.png
+  image: saeedi_jfr_2016.jpg
   description: While single-robot SLAM is challenging enough, moving to a platform of multiple robots adds another layer of challenge. In a multiple-robot environment, robots must incorporate all available data to construct a consistent global map, meanwhile localize themselves within the global map. Multiple-robot SLAM has benefits such as performing missions faster and being robust to failure of any one of the robots; however, these benefits come at the price of having a complex system which requires coordination and cooperation of the robots. 
 
 - title: ​Focal-plane Sensor-processor Arrays (FPSP)
-  image: tbd.png
+  image: debrunner_taco_2019.png
   description: Mobile robotics and various applications of SLAM, convolutional neural networks (CNN), and VR/AR are constrained by power resources and low frame rates. These applications can not only benefit from high frame rate, but also could save resources if they consumed less energy.  Focal-plane sensor-processor arrays (FPSPs), integrate sensing and processing in the focal plane. FPSPs are massively parallel processing systems on a single chip. By eliminating the need for data transmission, not only is the effective frame rate increased, but also the power consumption is reduced significantly. The individual processing elements are small general purpose analogue processors with a reduced instruction set and memory. The main advantages of FPSPs are the high effective frame rates at lower clock frequencies, which in turn reduces power consumption compared to conventional sensing and processing systems. However, with the limited instruction sets and local memory, developing new applications for FPSPs, such as image filtering or camera tracking, is a challenging problem.
 
 - title: Autonomous Mobile Robotics
-  image: tbd.png
+  image: mehta_ismr_2022.png
   description: TBD.
 
 - title: Aerial Robotics
-  image: tbd.png
+  image: saeedi_ijius_2015.jpg
   description: In recent years, researchers have intensively worked on the development of flying machines capable of performing complicated missions with little human supervision. These vehicles are commonly known as unmanned aerial vehicles (UAVs). UAVs have no crew onboard and are flown either remotely by a pilot at a ground control station or autonomously through a pre-planned program. Rotorcraft, vehicles with multiple rotors, have attracted more attention recently, with quadrotors being the most popular. Multiple-rotor vehicles, also known as flying robots, have outstanding maneuverability. Furthermore, they are less complex compared with other rotorcraft such as helicopters. The previously mentioned advantages have made quadrotors more suitable for civil and military applications. 
 
 - title: Marine Robotics
-  image: tbd.png
+  image: saeedi_ccece_2015.jpg
   description: Autonomous underwater vehicles (AUVs) are now being used for a variety of tasks, including oceanographic surveys, de-mining, and bathymetric data collection in marine and riverine environments. Accurate localization and navigation is essential to ensure the accuracy of the gathered data for these applications​.
 
 - title: Control methods are used for traffic engineering in communication networks. 
