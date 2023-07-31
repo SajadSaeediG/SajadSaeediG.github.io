@@ -1,4 +1,4 @@
-- title: State Estimation ME8205 (2023) 
+- title: State Estimation - ME8205 (2023) 
   image: estimation.png
   description: This course provides an introduction to state estimation, with a focus on selected topics from robotics, computer vision, and planning. The main topics includes a primer on probability theory, Gaussian estimation, a primer on 3D geometry, matrix Lie groups, and pose estimation and mapping problems. This course is based on the State Estimation for Robotics book.
 
@@ -6,14 +6,14 @@
   image: mechatronics.jpeg
   description: This course provides a focused interdisciplinary theme for electromechanical systems design. The topics include modeling and simulation of physical systems, electrical and computer engineering fundamentals, computer science and programming, microcontrollers, mechatronic systems design and management, and hands-on labs and projects.
 
-- title: Project Management IND/MEC713 (2020 - 2023)
+- title: Project Management - IND/MEC713 (2020 - 2023)
   image: project_management.jpeg
   description: The objective of this course is to present the fundamentals of project management within a life-cycle approach, i.e., from idea generation to termination phase. It treats human, mathematical, engineering and managerial issues surrounding project management to equip students with tools to effectively manage engineering projects. The topics include project screening and selection, evaluation methods of projects, project structures, management and control, project scheduling, resource management, life-cycle costing, research and development projects, computer support for project management, and project termination. 
 
-- title: MEC721 Vibrations (2020 - 2023)
+- title: Vibrations - MEC721 (2020 - 2023)
   image: vibrations.jpeg
   description: This course presents the dynamic behaviour of vibrating mechanical systems. The topics include Single and multiple degree of freedom systems in free and forced vibration, instrumentation for vibration measurement, vibration isolators and absorbors, computer simulation of vibration systems, and vibration in mass-distributed systems. 
   
-- title: MEC311 Dynamics (2020)
+- title: Dynamics - MEC311 (2020)
   image: dynamics.png
   description: TBD
