@@ -8,20 +8,21 @@ permalink: /research/
 
 # Research
 
+
 #### Research topics include:
-**Simultaneous Localization and Mapping (SLAM)**
+**- Simultaneous Localization and Mapping (SLAM)**
 
-**Multiple-robot SLAM**
+**- Multiple-robot SLAM**
 
-**Focal-plane Sensor-processor Arrays (FPSP)**
+**- Focal-plane Sensor-processor Arrays (FPSP)**
 
-**Autonomous Mobile Robotics**
+**- Autonomous Mobile Robotics**
 
-**Aerial Robotics**
+**- Aerial Robotics**
 
-**Marine Robotics**
+**- Marine Robotics**
 
-**Control Systems**
+**- Control Systems**
    
 {% for rsch in site.data.research %}
 <div class="row">
