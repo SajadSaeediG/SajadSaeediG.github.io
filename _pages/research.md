@@ -28,8 +28,8 @@ permalink: /research/
 <div class="col-sm-11 clearfix">
  <div class="well well-sm">
   <img src="{{ site.url }}{{ site.baseurl }}/images/randdpic/{{ rsch.image }}" class="img-responsive" width="11%" style="float: left" />
-  <p>{{ rsch.title }}</p>
-  <p><em>{{ rsch.description }}</em></p>
+  <p><b>{{ rsch.title }}</b></p>
+  <p>{{ rsch.description }}</p>
  </div>
 </div>
 </div>
