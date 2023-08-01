@@ -16,7 +16,7 @@ I am an Assistant Professor in the Department of Mechanical and Industrial Engin
 &nbsp;
 
 ![]({{ site.url }}{{ site.baseurl }}/images/aboutpic/icldyson_logo.png){: style="width: 150px; float: left; margin: 0px  10px"}
-From July 2018 to July 2019, I was a Dyson Research Fellow at Imperial College London, working with Prof. Andrew Davison and Prof. Stefan Leutenegger on Semantic SLAM. Previously I was a Research Associate at Robot Vision Group. I worked on the PAMELA project, with Prof. Andrew Davison and Prof. Paul Kelly. At Imperial College London, I work on many interesting and cutting-edge robotics and vision algorithms and devices including focal-plane sensor-processor arrays (FPSP), deep learning, and active vision.
+From July 2018 to July 2019, I was a Dyson Research Fellow at [Imperial College London](https://www.imperial.ac.uk/), working with Prof. Andrew Davison and Prof. Stefan Leutenegger on Semantic SLAM. Previously I was a Research Associate at [Robot Vision Group](https://wp.doc.ic.ac.uk/robotvision/). I worked on the [PAMELA](http://apt.cs.manchester.ac.uk/projects/PAMELA/) project, with [Prof. Andrew Davison](http://www.imperial.ac.uk/people/a.davison) and [Prof. Paul Kelly](https://www.doc.ic.ac.uk/~phjk/). At Imperial College London, I work on many interesting and cutting-edge robotics and vision algorithms and devices including focal-plane sensor-processor arrays (FPSP), deep learning, and active vision.
 
 
 \
@@ -24,7 +24,7 @@ From July 2018 to July 2019, I was a Dyson Research Fellow at Imperial College L
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/aboutpic/2g_logo.png){: style="width: 150px; float: left; margin: 0px  10px"}
-In 2015, I was working at 2G Robotics (now Voyis Imaging Inc.) on underwater robotics and perception. Developing machine vision algorithms in underwater environments is a very challenging problem due to nonlinear light refraction in water-glass-air interfaces of the camera housing. I was actively involved in the following projects:
+In 2015, I was working at [2G Robotics](https://voyis.com/) (now Voyis Imaging Inc.) on underwater robotics and perception. Developing machine vision algorithms in underwater environments is a very challenging problem due to nonlinear light refraction in water-glass-air interfaces of the camera housing. I was actively involved in the following projects:
 
 
 **Underwater Stereo Vision**: By using stereoscopic vision in underwater, we can make 3D models of underwater structures and wreckages. Building 3D models in real-time will allow underwater robots to navigate autonomously. In this project, I performed various tasks such as designing a stereoscopic system, stereo camera calibration, extracting depth from stereo images, performing visual odometry, and 3D point cloud mapping. The mapping application was developed with C++ and OpenCV under Linux.
