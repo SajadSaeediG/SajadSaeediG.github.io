@@ -70,3 +70,6 @@ Here are more details about my projects:
 
 ​
 **Underwater Mapping and Navigation, funded by Defence R&D Canada - Atlantic**: We have more information about the Moon and Mars than our oceans. In this project, I studied and reviewed state-of-the-art underwater navigation techniques and proposed new methods. These methods combined with the algorithms proposed for multi-robot systems allow us to explore underwater worlds and increase our knowledge to better monitor and preserve our resources (implementation in C++/Linux, MATLAB).
+
+\
+&nbsp;
