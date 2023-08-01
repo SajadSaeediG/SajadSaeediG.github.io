@@ -39,7 +39,7 @@ In 2015, I was working at 2G Robotics (now Voyis Imaging Inc.) on underwater rob
 &nbsp;
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/aboutpic/unb_logo.png){: style="width: 150px; float: left; margin: 0px  10px"}	
+![]({{ site.url }}{{ site.baseurl }}/images/aboutpic/unb_logo.jpg){: style="width: 150px; float: left; margin: 0px  10px"}	
 ​In 2014, I was a postdoctoral fellow at the University of New Brunswick﻿, COBRA lab, under the supervision of Dr. Howard Li. I was working on 3D SLAM of Autonomous Quadrotor Aircraft. In this project, I was working on performing autonomous navigation, target localization, and 2D/3D SLAM with a scanning laser ranger and an RGBD camera in GPS-denied environments; rendering real-time 3D maps on multiple tablets.
 
 **3D Mapping for Autonomous Quadrotor Aircraft**: With a qaudrotor in a GPS-denied environment, I accomplished autonomous navigation, target localization, and 2D/3D mapping with the onboard sensors such as IMU, laser ranger, and camera. The 3D maps and targets were rendered in real-time on multiple tablets remotely (implementation in C++/Linux).
@@ -53,9 +53,9 @@ In 2015, I was working at 2G Robotics (now Voyis Imaging Inc.) on underwater rob
 ![]({{ site.url }}{{ site.baseurl }}/images/aboutpic/unb_seal.png){: style="width: 150px; float: left; margin: 0px  10px"}	
 In February 2014, I received my PhD from the University of New Brunswick (2009-2014). The title of my thesis was "Multiple-robot simultaneous localization and mapping". I worked on several robotics projects as follows:
 
-- I designed and developed several novel algorithms for multiple-robot SLAM,
-- I also designed and implemented an autonomy stack, including perception, path planning, and exploration, for an autonomous quadrotor,
-- Additionally, I studied underwater navigation systems. 
+  - I designed and developed several novel algorithms for multiple-robot SLAM,
+  - I also designed and implemented an autonomy stack, including perception, path planning, and exploration, for an autonomous quadrotor,
+  - Additionally, I studied underwater navigation systems. 
 
 Here are more details about my projects:
 
