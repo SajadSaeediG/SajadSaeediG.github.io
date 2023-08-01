@@ -6,7 +6,7 @@ sitemap: false
 permalink: /about/
 ---
 
-# About
+# About2
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/tmu_logo.png){: style="width: 150px; float: left; margin: 0px  10px"}
 I am an Assistant Professor in the Department of Mechanical and Industrial Engineering at Toronto Metropolitan University (formerly Ryerson) in Toronto, Canada. My research at Ryerson focuses on robotics, SLAM, focal-plane sensor-processor arrays (FPSP), and deep learning.
