@@ -6,7 +6,7 @@ sitemap: false
 permalink: /about/
 ---
 
-# About4
+# About
 \
 &nbsp;
 ![]({{ site.url }}{{ site.baseurl }}/images/aboutpic/tmu_logo.png){: style="width: 150px; float: left; margin: 0px  10px"}
@@ -15,8 +15,7 @@ I am an Assistant Professor in the Department of Mechanical and Industrial Engin
 \
 &nbsp;
 
-![]({{ site.url }}{{ site.baseurl }}/images/aboutpic/icl_logo.png){: style="width: 150px; float: left; margin: 0px  10px"}
-![]({{ site.url }}{{ site.baseurl }}/images/aboutpic/dyson_logo.png){: style="width: 70px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/aboutpic/icldyson_logo.png){: style="width: 150px; float: left; margin: 0px  10px"}
 From July 2018 to July 2019, I was a Dyson Research Fellow at Imperial College London, working with Prof. Andrew Davison and Prof. Stefan Leutenegger on Semantic SLAM. Previously I was a Research Associate at Robot Vision Group. I worked on the PAMELA project, with Prof. Andrew Davison and Prof. Paul Kelly. At Imperial College London, I work on many interesting and cutting-edge robotics and vision algorithms and devices including focal-plane sensor-processor arrays (FPSP), deep learning, and active vision.
 
 
@@ -53,11 +52,16 @@ In 2015, I was working at 2G Robotics (now Voyis Imaging Inc.) on underwater rob
 ![]({{ site.url }}{{ site.baseurl }}/images/aboutpic/unb_seal.png){: style="width: 150px; float: left; margin: 0px  10px"}	
 In February 2014, I received my PhD from the University of New Brunswick (2009-2014). The title of my thesis was "Multiple-robot simultaneous localization and mapping". I worked on several robotics projects as follows:
 
-  - I designed and developed several novel algorithms for multiple-robot SLAM,
-  - I also designed and implemented an autonomy stack, including perception, path planning, and exploration, for an autonomous quadrotor,
-  - Additionally, I studied underwater navigation systems. 
+* I designed and developed several novel algorithms for multiple-robot SLAM,
+
+* I also designed and implemented an autonomy stack, including perception, path planning, and exploration, for an autonomous quadrotor,
+
+* Additionally, I studied underwater navigation systems. 
 
 Here are more details about my projects:
+
+\
+&nbsp;
 
 **Perception and Navigation for Autonomous Rotorcraft, funded by DRDC - Suffield**: In this project, I designed and developed a fully autonomous UAV to support dismounts. The autonomous UAV, as a third eye above the ground, increases soldiers and other operators' awareness of potential targets. It also has many other applications such as border patrol, first response, natural resource management, and environment monitoring. Research and development of this type can significantly improve the quality of life (implementation in  C++/Linux, ROS).
 
