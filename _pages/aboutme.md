@@ -52,11 +52,11 @@ In 2015, I was working at 2G Robotics (now Voyis Imaging Inc.) on underwater rob
 ![]({{ site.url }}{{ site.baseurl }}/images/aboutpic/unb_seal.png){: style="width: 150px; float: left; margin: 0px  10px"}	
 In February 2014, I received my PhD from the University of New Brunswick (2009-2014). The title of my thesis was "Multiple-robot simultaneous localization and mapping". I worked on several robotics projects as follows:
 
-I designed and developed several novel algorithms for multiple-robot SLAM,
+1- I designed and developed several novel algorithms for multiple-robot SLAM,
 
-I also designed and implemented an autonomy stack, including perception, path planning, and exploration, for an autonomous quadrotor,
+2- I also designed and implemented an autonomy stack, including perception, path planning, and exploration, for an autonomous quadrotor,
 
-Additionally, I studied underwater navigation systems. 
+3- Additionally, I studied underwater navigation systems. 
 
 Here are more details about my projects:
 
