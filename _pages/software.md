@@ -15,9 +15,14 @@ Here is a list of open-source software realeased with the papers
 <div class="col-sm-11 clearfix">
  <div class="well well-sm">
   <img src="{{ site.url }}{{ site.baseurl }}/images/softwarepic/{{ sftwr.image }}" class="img-responsive" width="11%" style="float: left" />
-  <p><b>{{ sftwr.title }}</b></p>
+  <strong><a href="{{ sftwr.link }}">{{ sftwr.title }}</a></strong> <br>
   <p>{{ sftwr.description }}</p><br>
+  <p>{{ sftwr.project }}</p><br>
  </div>
 </div>
 </div>
 {% endfor %}
+
+
+# Dataset
+
