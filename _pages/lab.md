@@ -27,8 +27,7 @@ The Vicon motion capture system is composed of 14 cameras, with an Evertz clock 
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/labpic/waffle.jpg){: style="width: 200px; float: left; margin: 10px  10px"}
-**TurtleBot 3 Waffle Pi (13 pcs)** 
-<p style="text-align: center;">**Vicon Motion Capture**</p>
+<p style="text-align: center;">**TurtleBot 3 Waffle Pi (13 pcs)** </p>
 \
 &nbsp;&nbsp;&nbsp;
 Each robot is equipped with Raspberry Pi, a scanning laser ranger, an IMU, wheel encoders, and an Intel Realsense D435i camera. 
@@ -39,8 +38,7 @@ Each robot is equipped with Raspberry Pi, a scanning laser ranger, an IMU, wheel
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/labpic/burger.jpg){: style="width: 200px; float: left; margin: 10px  10px"}
-**TurtleBot 3 Burger (11 pcs)** 
-<p style="text-align: center;">**Vicon Motion Capture**</p>
+<p style="text-align: center;">**TurtleBot 3 Burger (11 pcs)** </p>
 \
 &nbsp;&nbsp;&nbsp;
 Each robot is equipped with Raspberry Pi, a scanning laser ranger, an IMU, wheel encoders, and an Intel Realsense D435i camera.
