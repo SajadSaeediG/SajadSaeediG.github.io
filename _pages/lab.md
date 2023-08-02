@@ -20,7 +20,7 @@ There are various pieces of equipment in the Robotics and Computer Vision Lab (R
  <div class="well well-sm">
   <img src="{{ site.url }}{{ site.baseurl }}/images/labpic/{{ lb.image }}" class="img-responsive" width="11%" style="float: left" />
   <p><b>{{ lb.title }}</b></p>
-  <p>{{ lb.description }}</p><br><br><br>
+  <p>{{ lb.description }}</p><br><br>
  </div>
 </div>
 </div>
