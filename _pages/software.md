@@ -15,9 +15,8 @@ Here is a list of open-source software released with the papers
 <div class="col-sm-11 clearfix">
  <div class="well well-sm">
   <img src="{{ site.url }}{{ site.baseurl }}/images/softwarepic/{{ sftwr.image }}" class="img-responsive" width="11%" style="float: left" />
-  <strong><a>{{ sftwr.title }}</a></strong> 
-  <p>{{ sftwr.description }}</p>
-  <p> Project site:{{ sftwr.project }}
+  <p></p><strong><a>{{ sftwr.title }}</a></strong> 
+  {{ sftwr.description }}
     {% if sftwr.link != 0 %}
       <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ sftwr.link }}'">
       CODE
