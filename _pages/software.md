@@ -16,7 +16,7 @@ Here is a list of open-source software released with the papers
  <div class="well well-sm">
   <img src="{{ site.url }}{{ site.baseurl }}/images/softwarepic/{{ sftwr.image }}" class="img-responsive" width="11%" style="float: left" />
   <p><strong>{{ sftwr.title }}</strong><br> 
-  {{ sftwr.description }}
+  {{ sftwr.description }}<br>
   {{ "Keywords:" sftwr.keywords }} 
   {% if sftwr.link != 0 %}
       <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ sftwr.link }}'">
