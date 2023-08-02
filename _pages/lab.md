@@ -12,9 +12,9 @@ There are various pieces of equipment in the Robotics and Computer Vision Lab (R
 
 \
 &nbsp;
-
-![]({{ site.url }}{{ site.baseurl }}/images/labpic/vicon.jpg){: style="width: 150px; float: left; margin: 0px  10px"}
-**Vicon Motion Capture**: The system is composed of 14 cameras, with an Evertz clock generator. The system's volume is 6m x 7m x 3m (WLH).
+![]({{ site.url }}{{ site.baseurl }}/images/labpic/vicon.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
+**Vicon Motion Capture** 
+The Vicon motion capture system is composed of 14 cameras, with an Evertz clock generator. The system's volume is 6m x 7m x 3m (WLH). 
 
 \
 &nbsp;
