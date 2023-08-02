@@ -1,0 +1,14 @@
+- title: InteriorNet
+  link: https://docs.google.com/forms/d/15sjV-CAud1ENBxK-hJSSrweE7IGc8VXWDbgZiq1trGc
+  image: li_bmvc_2019.png
+  description: InteriorNet renders high-resolution and high frame-rate video sequences following realistic trajectories while supporting various camera types as well as
+providing inertial measurements.   
+  project: https://interiornet.org/
+  keywords: RGBD, Inertial, Panorama, Fisheye, Illumination, Normals, Semantics
+
+- title: ICL Dataset
+  link: https://www.doc.ic.ac.uk/~wl208/lmdata/
+  image: saeedi_icra_2019.png
+  description: ICL dataset uses a broad range of real-world trajectories in very high-quality scenes to create a set of synthetic datasets which are representative of key SLAM applications such as virtual reality (VR), micro aerial vehicle (MAV) flight, and ground robotics.
+  project: https://peringlab.org/lmdata/
+  keywords: RGBD, Inertial, Trajectory
