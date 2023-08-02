@@ -14,7 +14,7 @@ There are various pieces of equipment in the Robotics and Computer Vision Lab (R
 \
 &nbsp;
 
-
+\
 ![]({{ site.url }}{{ site.baseurl }}/images/labpic/vicon.jpg){: style="width: 200px; float: left; margin: 10px  10px"}
 <p style="text-align: center;">**Vicon Motion Capture**</p>
 
@@ -27,7 +27,7 @@ The Vicon motion capture system is composed of 14 cameras, with an Evertz clock 
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
+\
 ![]({{ site.url }}{{ site.baseurl }}/images/labpic/waffle.jpg){: style="width: 200px; float: left; margin: 10px  10px"}
 <p style="text-align: center;">**TurtleBot 3 Waffle Pi (13 pcs)** </p>
 
