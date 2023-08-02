@@ -13,8 +13,7 @@
 - title: Auke
   link: https://github.com/ThomasDebrunner/auto_code_cpa
   image: debrunner_taco_2019.png
-  description:  Auke (Automatic Kernel Code Generation) presents a code generator for convolution filters for the SCAMP-5 FPSP, with applications
-in many high-level tasks such as convolutional neural networks, pose estimation, and so on. 
+  description: Auke (Automatic Kernel Code Generation) presents a code generator for convolution filters for the SCAMP-5 FPSP, with applications in many high-level tasks such as convolutional neural networks, pose estimation, and so on. 
   project: 0
 
 - title: SLAMBench
@@ -28,6 +27,12 @@ in many high-level tasks such as convolutional neural networks, pose estimation,
   image: saunders_icra_2023.jpg
   description: PRL4AirSim (Parallel Reinforcement Learning for AirSim) provide efficient parallel training for Reinforcement Learning-based quadrotor controllers. PRL4AirSim provides a simulation framework, built on AirSim, which provides efficient parallel training.  
   project: https://sites.google.com/view/prl4airsim/home
+
+- title: Pareto Frontier Approximation Network (PA-NET) 
+  link: https://github.com/ishaanmht/PANet
+  image: mehta_case_2022.png
+  description: PA-Net presents a network that generates good approximations of the Pareto front for the bi-objective travelling salesperson problem (BTSP). It is based on the reinforcement learning, and is easily extendable to more objectives.  
+  project: https://sites.google.com/view/pa-net-btsp
 
 - title: Waypoint Planning Networks (WPN) 
   link: https://github.com/husseinalijaafar/WPN
