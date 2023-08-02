@@ -19,7 +19,7 @@
 - title: SLAMBench
   link: https://github.com/pamela-project/slambench
   image: bujanca_icra_2019.png
-  description: SLAMBench is a framework for benchmarking of SLAM algorithms across hardware and software. SLAMBench offers a platform for a broad spectrum of future research in jointly exploring the design space of algorithmic and implementation-level optimisations.
+  description: SLAMBench is a framework for benchmarking of SLAM algorithms across hardware and software. It offers a platform for a broad spectrum of future research in jointly exploring the design space of algorithmic and implementation-level optimisations.
   project: https://apt.cs.manchester.ac.uk/projects/PAMELA/
 
 - title: PRL4AirSim
@@ -37,7 +37,7 @@
 - title: Waypoint Planning Networks (WPN) 
   link: https://github.com/husseinalijaafar/WPN
   image: toma_crv_2021_wpn.jpg
-  description:  WPN is a hybrid motion planning algorithm based on LSTMs, with a local kernel, a classic algorithm such as A*, and a global kernel using a learned algorithm.  WPN produces a more computationally efficient and robust solution than other learned approaches.  
+  description:  WPN is a hybrid motion planning algorithm based on LSTMs (Long Short-term Memory Networks).  WPN produces a more computationally efficient and robust solution than other learned approaches.  
   project: https://sites.google.com/view/waypoint-planning-networks
 
   
