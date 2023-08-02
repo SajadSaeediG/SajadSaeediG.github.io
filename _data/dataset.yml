@@ -1,8 +1,7 @@
 - title: InteriorNet
   link: https://docs.google.com/forms/d/15sjV-CAud1ENBxK-hJSSrweE7IGc8VXWDbgZiq1trGc
   image: li_bmvc_2019.png
-  description: InteriorNet renders high-resolution and high frame-rate video sequences following realistic trajectories while supporting various camera types as well as
-providing inertial measurements.   
+  description: InteriorNet renders high-resolution and high frame-rate video sequences following realistic trajectories while supporting various camera types as well as providing inertial measurements.   
   project: https://interiornet.org/
   keywords: RGBD, Inertial, Panorama, Fisheye, Illumination, Normals, Semantics
 
