@@ -8,6 +8,12 @@ permalink: /lab/
 
 # Lab
 
+\
+&nbsp;
+
+There are various pieces of equipment in the Robotics and Computer Vision Lab (RCVL) to support ongoing research projects. Some of the equipment has been listed below.
+
+
 {% for lb in site.data.lab %}
 <div class="row">
 <div class="col-sm-11 clearfix">
