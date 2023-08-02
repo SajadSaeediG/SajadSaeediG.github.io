@@ -6,9 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<!---
-I am an Assistant Professor in the Department of Mechanical and Industrial Engineering at [Toronto Metropolitan University](https://www.torontomu.ca/mechanical-industrial/people/faculty/sajad-saeedi/) (formerly Ryerson) in Toronto, Canada. My research focuses on robotics, SLAM, focal-plane sensor-processor arrays (FPSP), and deep learning.
---->
+We do research on robotics. The focus is on Simultaneous Localization and Mapping (SLAM), focal-plane sensor-processor arrays (FPSP), and Deep Learning.
 
 <!---
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -23,7 +21,7 @@ I am an Assistant Professor in the Department of Mechanical and Industrial Engin
         <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
-    <!-- Items -->
+     Items 
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/ras-uvc_orig.jpg" alt="Slide 1" />
@@ -60,9 +58,9 @@ I am an Assistant Professor in the Department of Mechanical and Industrial Engin
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tmu_logo.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nserc.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nfrf.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mitacs.jpg" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nserc.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nfrf.jpg" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mitacs.jpg" style="width: 130px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ideas.jpg" style="width: 100px">
 </figure>
 
