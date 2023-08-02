@@ -1,6 +1,6 @@
 - title: Vicon Motion Capture 
-  image: vicon.jpg
-  description: The Vicon motion capture system is composed of 14 cameras, with an Evertz clock generator. The system's volume is 6m x 7m x 3m (WLH).
+  image: vicon2.png  
+  description: The Vicon motion capture system is composed of 14 cameras. The system's volume is 6m x 7m x 3m (WLH). It also has an Evertz clock generator. 
 
 - title: TurtleBot 3 Waffle Pi (13 pcs)
   image: waffle.jpg
