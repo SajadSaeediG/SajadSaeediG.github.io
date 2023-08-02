@@ -10,10 +10,10 @@ I work on robotics. The focus is on Simultaneous Localization and Mapping (SLAM)
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tmu_logo.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nserc.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nfrf.jpg" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mitacs.jpg" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ideas.jpg" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tmu_logo.png" style="width: 90px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nserc.png" style="width: 12px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nfrf.jpg" style="width: 190px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mitacs.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ideas.jpg" style="width: 90px">
 </figure>
 
