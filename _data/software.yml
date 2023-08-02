@@ -14,7 +14,7 @@
   link: https://github.com/ThomasDebrunner/auto_code_cpa
   image: debrunner_taco_2019.png
   description:  Auke (Automatic Kernel Code Generation) presents a code generator for convolution filters for the SCAMP-5 FPSP, with applications
-in many high-level tasks such as convolutional neural networks, pose estimation, and so on. There is also a simple [FPSP simulator](https://github.com/ThomasDebrunner/cpa-sim) available.
+in many high-level tasks such as convolutional neural networks, pose estimation, and so on. 
   project: 0
 
 - title: SLAMBench
