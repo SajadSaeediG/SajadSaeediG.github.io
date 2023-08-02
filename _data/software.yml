@@ -4,5 +4,38 @@
   description: PathBench is an open source platform for developing, visualizing, training, testing, and benchmarking of existing and future, classical and learned 2D and 3D path planning algorithms,  while offering support for Robot Operating System (ROS).
   project: https://sites.google.com/view/pathbench/
 
+- title: Cain
+  link: https://github.com/ed741/cain
+  image: stow_ar_2022.jpg
+  description:  Cain is a compiler for convolutional filters that targets SCAMP-5, a general-purpose Focal-plane Sensor-Processor array. Cain generates code to evaluate multiple convolutional kernels at the same time. Use Cain to implement a neural network on the focal plane.
+  project: https://sites.google.com/view/cain-compiler/home  
+
+- title: Auke
+  link: https://github.com/ThomasDebrunner/auto_code_cpa
+  image: debrunner_taco_2019.png
+  description:  Auke (Automatic Kernel Code Generation) presents a code generator for convolution filters for the SCAMP-5 FPSP, with applications
+in many high-level tasks such as convolutional neural networks, pose estimation, and so on. There is also a simple (FPSP simulator](https://github.com/ThomasDebrunner/cpa-sim) available.
+  project: 0
+
+- title: SLAMBench
+  link: https://github.com/pamela-project/slambench
+  image: bujanca_icra_2019.png
+  description: SLAMBench is a framework for quantifying quality-of-result with instrumentation of accuracy, execution time, memory usage and energy consumption. SLAMBench offers a platform for a broad spectrum of future research in jointly exploring the design space of algorithmic and implementation-level optimisations.
+  project: https://apt.cs.manchester.ac.uk/projects/PAMELA/
+
+- title: PRL4AirSim
+  link: https://github.com/SaundersJE97/PRL4AirSim
+  image: saunders_icra_2023.jpg
+  description: PRL4AirSim (Parallel Reinforcement Learning for AirSim) provide efficient parallel training for Reinforcement Learning-based quadrotor controllers. PRL4AirSim provides a simulation framework, built on AirSim, which provides efficient parallel training.  
+  project: https://sites.google.com/view/prl4airsim/home
+
+- title: Waypoint Planning Networks (WPN) 
+  link: https://github.com/husseinalijaafar/WPN
+  image: toma_crv_2021_wpn.jpg
+  description:  WPN is a hybrid motion planning algorithm based on LSTMs, with a local kernel, a classic algorithm such as A*, and a global kernel using a learned algorithm.  WPN produces a more computationally efficient and robust solution than other learned approaches.  
+  project: https://sites.google.com/view/waypoint-planning-networks
+
   
+
+
   
