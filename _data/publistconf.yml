@@ -128,7 +128,7 @@
   pdflink: 0
   slides: 0
 
-- title: "SLAMBench 3.0: Systematic Automated Reproducible Evaluation of SLAM Systems for Robot Vision Challenges and Scene Understanding"
+- title: "SLAMBench 3.0: Systematic Automated Reproducible Evaluation of SLAM Systems for Robot Vision Challenges"
   image: bujanca_icra_2019.png
   authors: M. Bujanca, P. Gafton, S. Saeedi, A. Nisbet, B. Bodin, M. F. P. O’Boyle, A. J. Davison, P. H. J. Kelly, G. Riley, B. Lennox, M. Lujan, S. Furber
   venue: IEEE/RSJ International Conference on Robotics and Automation (ICRA)​
