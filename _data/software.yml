@@ -17,7 +17,7 @@
   image: toma_crv_2021_wpn.jpg
   description:  WPN is a hybrid motion planning algorithm based on LSTMs (Long Short-term Memory Networks).  WPN produces a more computationally efficient and robust solution than other learned approaches.  
   project: https://sites.google.com/view/waypoint-planning-networks
-  keywords: Supervised Learning, Path Planning
+  keywords: Supervised Learning, LSTMs, Path Planning
 
 - title: PathBench 
   link: https://github.com/perfectly-balanced/PathBench
@@ -31,14 +31,14 @@
   image: stow_ar_2022.jpg
   description:  Cain is a compiler for convolutional filters that targets SCAMP-5, a general-purpose Focal-plane Sensor-Processor array. Cain generates code to evaluate multiple convolutional kernels at the same time. 
   project: https://sites.google.com/view/cain-compiler/home  
-  keywords: Code Generation, FPSP
+  keywords: Code Generation, CNNs, FPSP
 
 - title: Auke
   link: https://github.com/ThomasDebrunner/auto_code_cpa
   image: debrunner_taco_2019.png
   description: Auke (Automatic Kernel Code Generation) presents a code generator for convolution filters for the SCAMP-5 FPSP, with applications in many high-level tasks such as convolutional neural networks, pose estimation, and so on. 
   project: 0
-  keywords: Code Generation, FPSP
+  keywords: Code Generation, CNNs, FPSP
 
 - title: SLAMBench
   link: https://github.com/pamela-project/slambench
