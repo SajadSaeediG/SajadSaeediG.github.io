@@ -1,46 +1,48 @@
-- title: PathBench 
-  link: https://github.com/perfectly-balanced/PathBench
-  image: hsueh_ar_2022.jpg
-  description: PathBench is an open source platform for developing, visualizing, training, testing, and benchmarking of existing and future, classical and learned 2D and 3D path planning algorithms,  while offering support for Robot Operating System (ROS).
-  project: https://sites.google.com/view/pathbench/
-
-- title: Cain
-  link: https://github.com/ed741/cain
-  image: stow_ar_2022.jpg
-  description:  Cain is a compiler for convolutional filters that targets SCAMP-5, a general-purpose Focal-plane Sensor-Processor array. Cain generates code to evaluate multiple convolutional kernels at the same time. 
-  project: https://sites.google.com/view/cain-compiler/home  
-
-- title: Auke
-  link: https://github.com/ThomasDebrunner/auto_code_cpa
-  image: debrunner_taco_2019.png
-  description: Auke (Automatic Kernel Code Generation) presents a code generator for convolution filters for the SCAMP-5 FPSP, with applications in many high-level tasks such as convolutional neural networks, pose estimation, and so on. 
-  project: 0
-
-- title: SLAMBench
-  link: https://github.com/pamela-project/slambench
-  image: bujanca_icra_2019.png
-  description: SLAMBench is a framework for benchmarking of SLAM algorithms across hardware and software. It offers a platform for a broad spectrum of future research in jointly exploring the design space of algorithmic and implementation-level optimisations.
-  project: https://apt.cs.manchester.ac.uk/projects/PAMELA/
-
 - title: PRL4AirSim
   link: https://github.com/SaundersJE97/PRL4AirSim
   image: saunders_icra_2023.jpg
   description: PRL4AirSim (Parallel Reinforcement Learning for AirSim) provide efficient parallel training for Reinforcement Learning-based quadrotor controllers. PRL4AirSim provides a simulation framework, built on AirSim, which provides efficient parallel training.  
   project: https://sites.google.com/view/prl4airsim/home
+  keywords: Reinforcement Learning, Quadrotor Controllers
 
 - title: Pareto Frontier Approximation Network (PA-NET) 
   link: https://github.com/ishaanmht/PANet
   image: mehta_case_2022.png
   description: PA-Net presents a network that generates good approximations of the Pareto front for the bi-objective travelling salesperson problem (BTSP). It is based on the reinforcement learning, and is easily extendable to more objectives.  
   project: https://sites.google.com/view/pa-net-btsp
+  keywords: Reinforcement Learning, Travelling Salesperson Problem (TSP)
 
 - title: Waypoint Planning Networks (WPN) 
   link: https://github.com/husseinalijaafar/WPN
   image: toma_crv_2021_wpn.jpg
   description:  WPN is a hybrid motion planning algorithm based on LSTMs (Long Short-term Memory Networks).  WPN produces a more computationally efficient and robust solution than other learned approaches.  
   project: https://sites.google.com/view/waypoint-planning-networks
+  keywords: Supervised Learning, Path Planning
 
-  
+- title: PathBench 
+  link: https://github.com/perfectly-balanced/PathBench
+  image: hsueh_ar_2022.jpg
+  description: PathBench is an open source platform for developing, visualizing, training, testing, and benchmarking of existing and future, classical and learned 2D and 3D path planning algorithms,  while offering support for Robot Operating System (ROS).
+  project: https://sites.google.com/view/pathbench/
+  keywords: Benchmarking, Path Planning
 
+- title: Cain
+  link: https://github.com/ed741/cain
+  image: stow_ar_2022.jpg
+  description:  Cain is a compiler for convolutional filters that targets SCAMP-5, a general-purpose Focal-plane Sensor-Processor array. Cain generates code to evaluate multiple convolutional kernels at the same time. 
+  project: https://sites.google.com/view/cain-compiler/home  
+  keywords: Code Generation, FPSP
 
-  
+- title: Auke
+  link: https://github.com/ThomasDebrunner/auto_code_cpa
+  image: debrunner_taco_2019.png
+  description: Auke (Automatic Kernel Code Generation) presents a code generator for convolution filters for the SCAMP-5 FPSP, with applications in many high-level tasks such as convolutional neural networks, pose estimation, and so on. 
+  project: 0
+  keywords: Code Generation, FPSP
+
+- title: SLAMBench
+  link: https://github.com/pamela-project/slambench
+  image: bujanca_icra_2019.png
+  description: SLAMBench is a framework for benchmarking of SLAM algorithms across hardware and software. It offers a platform for a broad spectrum of future research in jointly exploring the design space of algorithmic and implementation-level optimisations.
+  project: https://apt.cs.manchester.ac.uk/projects/PAMELA/
+  keywords: Benchmarking, Design Space Exploration, SLAM 
