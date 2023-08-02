@@ -1,1 +1,8 @@
-- title: 
+- title: PathBench 
+  link: https://github.com/perfectly-balanced/PathBench
+  image: hsueh_ar_2022.jpg
+  description: PathBench is an open source platform for developing, visualizing, training, testing, and benchmarking of existing and future, classical and learned 2D and 3D path planning algorithms,  while offering support for Robot Operating System (ROS).
+  project: https://sites.google.com/view/pathbench/
+
+  
+  
