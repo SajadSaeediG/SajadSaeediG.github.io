@@ -8,7 +8,7 @@ permalink: /software/
 
 # Software
 
-Here is a list of open-source software released with the papers
+Here is a list of open-source software released with the papers:
 
 {% for sftwr in site.data.software %}
 <div class="row">
@@ -17,7 +17,7 @@ Here is a list of open-source software released with the papers
   <img src="{{ site.url }}{{ site.baseurl }}/images/softwarepic/{{ sftwr.image }}" class="img-responsive" width="11%" style="float: left" />
   <p><strong>{{ sftwr.title }}</strong><br> 
   {{ sftwr.description }}<br>
-  {{ "Keywords:"}}{{ sftwr.keywords }} 
+  {{ "Keywords: "}}<em>{{ sftwr.keywords }}</em> 
   {% if sftwr.link != 0 %}
       <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ sftwr.link }}'">
       CODE
@@ -37,6 +37,6 @@ Here is a list of open-source software released with the papers
 
 # Dataset
 
-Here is a list of open-source dataset released with the papers
+Here is a list of open-source dataset released with the papers:
 
 
