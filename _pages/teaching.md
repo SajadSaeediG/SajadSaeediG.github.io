@@ -19,3 +19,7 @@ permalink: /teaching/
 </div>
 </div>
 {% endfor %}
+
+
+\
+&nbsp;
