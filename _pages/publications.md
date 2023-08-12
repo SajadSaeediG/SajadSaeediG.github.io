@@ -115,6 +115,11 @@ THESIS
 <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ site.baseurl }}/downloads/{{ publicon.slides }}'">
 SLIDES
 </button>
+{%- endif %}  
+{%- if publicon.slides != 0 %}
+<button type="button" class="btn-xs btn-success" >
+{{ publicon.note }}
+</button>
 {% endif %}    
 </p>
 </div>
