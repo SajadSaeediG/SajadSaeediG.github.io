@@ -16,9 +16,9 @@ permalink: /publications/
 {% if 2008 == year or 2007 == year -%}
 {% continue %}
 {% endif %}
-<h3 class="float-right">
+<h4 class="float-right">
   {{ year }}
-</h3>
+</h4>
 
 {% for publi in site.data.publistjournal %}
 {% if publi.year == year -%}
