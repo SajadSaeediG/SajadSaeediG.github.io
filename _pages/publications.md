@@ -116,7 +116,7 @@ THESIS
 SLIDES
 </button>
 {%- endif %}  
-{%- if publicon.slides != 0 %}
+{%- if publicon.note != 0 %}
 <button type="button" class="btn-xs btn-success" >
 {{ publicon.note }}
 </button>
