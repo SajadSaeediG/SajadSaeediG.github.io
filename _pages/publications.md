@@ -16,7 +16,7 @@ permalink: /publications/
 <div class="row">
 <div class="col-sm-12 clearfix">
 <div class="well well-sm">
-<p class="float-right">{{ year }}</p>
+<div class="float-right">{{ year }}</div>
 </div>
 </div>
 </div>
