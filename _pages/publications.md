@@ -103,7 +103,12 @@ PDF
 <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publicon.pdflink }}'">
 PDF
 </button>
-{%- endif %}   
+{%- endif %}
+{%- if publicon.thesislink != 0 %}
+<button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publicon.thesislink }}'">
+THESIS
+</button>
+{%- endif %}  
 {%- if publicon.slides != 0 %}
 <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ site.baseurl }}/downloads/{{ publicon.slides }}'">
 SLIDES
