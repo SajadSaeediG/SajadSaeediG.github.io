@@ -16,7 +16,7 @@
   authors: Riku Murai, Sajad Saeedi, Paul H.J. Kelly
   link:
     url: https://link.springer.com/article/10.1007/s10514-023-10122-8
-    display: Springer, Autonomous Robots (2023)
+    display: Springer, Autonomous Robots, 2023
   project: https://rmurai.co.uk/projects/BIT-VO/
   video: 0
   code: 0
@@ -30,7 +30,7 @@
   authors: Ishaan Mehta, Hao-Ya Hsueh, Sharareh Taghipour, Wenbin Li, Sajad Saeedi
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0921889022002214?via%3Dihub
-    display: Elsevier, Robotics and Autonomous Systems, 161 (2023), 104332
+    display: Elsevier, Robotics and Autonomous Systems, 161, pp. 104332, 2023
   project: https://sites.google.com/view/g-robot/home
   video: 0
   code: 0
@@ -43,7 +43,7 @@
   authors: Edward Stow, Abrar Ahsan, Yingying Li, Ali Babaei, Riku Murai, Sajad Saeedi, Paul H.J. Kelly
   link:
     url: doi.org/10.1007/s10514-022-10053-w
-    display: Springer, Autonomous Robots, 46, 893–910 (2022)
+    display: Springer, Autonomous Robots, 46, pp. 893–910, 2022
   project: https://sites.google.com/view/cain-compiler/home
   video: 0
   code: 0
@@ -56,7 +56,7 @@
   authors: Hao-Ya Hsueh, Alexandru-Iosif Toma, Hussein Ali Jaafar, Edward Stow, Riku Murai, Paul H.J. Kelly, Sajad Saeedi
   link:
     url: https://doi.org/10.1080/01691864.2022.2062259
-    display: Taylor and Francis, Advanced Robotics, 36(11), (2022)
+    display: Taylor and Francis, Advanced Robotics, 36(11), pp. 566-581, 2022
   project: https://sites.google.com/view/pathbench/
   video: 0
   code: 0
@@ -69,7 +69,7 @@
   authors: Riku Murai, Joseph Ortiz, Sajad Saeedi, Paul HJ Kelly, Andrew J Davison
   link:
     url: https://arxiv.org/abs/2202.03314
-    display: arxive
+    display: arXiv
   project: 0
   video: 0
   code: 0
@@ -82,7 +82,7 @@
   authors: Thomas Debrunner, Sajad Saeedi, Paul H J Kelly
   link:
     url: https://dl.acm.org/doi/abs/10.1145/3291055
-    display: ACM Transactions on Architecture and Code Optimization
+    display: ACM Transactions on Architecture and Code Optimization, 15(4), pp. 1-26, 2019
   project: 0
   video: https://www.youtube.com/watch?v=NILZILnEevA&feature=youtu.be
   code: https://github.com/ThomasDebrunner/cpa-sim
@@ -95,7 +95,7 @@
   authors: S. Saeedi, B. Bodin, H. Wagstaff, A. Nisbet, L. Nardi, J. Mawer, N. Melot, O. Palomar, E. Vespa, T. Spink, C. Gorgovan, A. Webb, J. Clarkson, E. Tomusk, T. Debrunner, K. Kaszyk, P. Gonzalez-de-Aledo, A. Rodchenko, G. Riley, C. Kotselidis, B. Franke, M. F. P. O'Boyle,  A. J. Davison, P. H. J. Kelly, M. Lujan, and S. Furber
   link:
     url: https://ieeexplore.ieee.org/document/8436423
-    display: Proceedings of the IEEE, 106(11), 2020-2039, 2018
+    display: Proceedings of the IEEE, 106(11), pp. 2020-2039, 2018
   project: 0
   video: 0
   code: 0
