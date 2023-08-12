@@ -23,7 +23,7 @@ permalink: /publications/
         {% if publicon.year == year -%}
             {{ publicon.title }}
         {%- else -%}
-            {% break %}
+
         {%- endif %}    
     {% endfor %}
 {%- endfor %}
