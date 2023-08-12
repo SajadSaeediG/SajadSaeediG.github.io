@@ -143,7 +143,7 @@
   code: https://github.com/brouwa/CNNs-on-FPSPs
   codedown: 0
   pdf: wong_arxive_2020_analognet.pdf
-  thesislink: 0
+  thesislink: https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1819-pg-projects/Optimising-convolutional-neural-networks-for-super-fast-inference-on-focal-plane-sensor-processor-arrays.pdf
   pdflink: 0
   slides: 0
   type: conf
