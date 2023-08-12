@@ -65,7 +65,7 @@ permalink: /publications/
 <p>{{ publicon.title }} <br> 
 <em>{{ publicon.authors }}</em> <br>
 {{ publicon.venue }} <br>
-{{ publicon.location }}
+{{ publicon.location }} <br>
 {% if publicon.project != 0 %}
 <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publicon.project }}'">
 PROJECT
