@@ -10,6 +10,7 @@
   pdf: 0
   pdflink: 0
   slides: 0
+  type: conf
 
 - title: "Pareto Frontier Approximation Network (PA-Net) to Solve Bi-objective TSP"
   image: mehta_case_2022.png
@@ -23,6 +24,7 @@
   pdf: 0
   pdflink: 0
   slides: 0
+  type: conf
 
 - title: "Deep Direct Visual Servoing of Tendon-Driven Continuum Robots"
   image: abdulhafiz_case_2022.png
@@ -36,6 +38,7 @@
   pdf: 0
   pdflink: https://arxiv.org/abs/2111.02580
   slides: 0
+  type: conf
 
 - title: "Far-UV Disinfection with Mobile Manipulator Robotic System"
   image: mehta_ismr_2022.png
@@ -49,6 +52,7 @@
   pdf: 0
   pdflink: 0
   slides: 0
+  type: conf
 
 - title: "PathBench A Benchmarking Platform for Classical and Learned Path Planning Algorithms"
   image: toma_crv_2021_pb.jpg
@@ -62,6 +66,7 @@
   pdf: 0
   pdflink: 0
   slides: 0
+  type: conf
 
 - title: "Waypoint Planning Networks (WPN)"
   image: toma_crv_2021_wpn.jpg
@@ -75,6 +80,7 @@
   pdf: 0
   pdflink: 0
   slides: 0
+  type: conf
 
 - title: "Cain: Automatic Code Generation for Simultaneous Convolutional Kernels on Focal-plane Sensor-processors"
   image: stow_lcpc_2020.jpg
@@ -88,6 +94,7 @@
   pdf: 0
   pdflink: https://arxiv.org/abs/2101.08715
   slides: 0
+  type: conf
 
 - title: "BIT-VO: Visual Odometry at 300 FPS using Binary Features from the Focal Plane"
   image: murai_iros_2020.png
@@ -101,6 +108,7 @@
   pdf: 0
   pdflink: https://arxiv.org/abs/2004.11186
   slides: 0
+  type: conf
 
 - title: "AnalogNet: Convolutional Neural Network Inference on Analog Focal Plane Sensor Processors"
   image: wong_arxive_2020.png
@@ -114,6 +122,7 @@
   pdf: wong_arxive_2020_analognet.pdf
   pdflink: 0
   slides: 0
+  type: conf
 
 - title: "Characterizing Visual Localization and Mapping Datasets"
   image: saeedi_icra_2019.png
@@ -127,6 +136,7 @@
   pdf: saeedi_icra_2019.pdf
   pdflink: 0
   slides: 0
+  type: conf
 
 - title: "SLAMBench 3.0: Systematic Automated Reproducible Evaluation of SLAM Systems for Robot Vision Challenges"
   image: bujanca_icra_2019.png
@@ -140,6 +150,7 @@
   pdf: bujanca_icra_2019_sb3.pdf
   pdflink: 0
   slides: 0
+  type: conf
 
 - title: "Camera Tracking on  Focal-Plane Sensor-Processor Arrays"
   image: debrunner_hipeac_2019_tracking.png
@@ -153,6 +164,7 @@
   pdf: debrunner_hipeac_2019.pdf
   pdflink: 0
   slides: 0
+  type: conf
 
 - title: "AUKE: Automatic Kernel Code Generation for an Analogue SIMD Focal-Plane Sensor-Processor Array"
   image: debrunner_hipeac_2019_auke.png
@@ -166,6 +178,7 @@
   pdf: debrunner_taco_2019.pdf
   pdflink: 0
   slides: 0
+  type: conf
 
 - title: "InteriorNet: Mega-scale Multi-sensor Photo-realistic Indoor Scenes Dataset"
   authors: Wenbin Li, Sajad Saeedi, John McCormac, Ronald Clark, Dimos Tzoumanikas, Qing Ye, Yuzhong Huang, Rui Tang, Stefan Leutenegger
@@ -179,6 +192,7 @@
   pdf: li_bmvc_2018.pdf
   pdflink: 0
   slides: 0
+  type: conf
 
 - title: "SLAMBench2: Multi-Objective Head-to-Head Benchmarking for Visual SLAM"
   image: bodin_icra_2018.png
@@ -192,6 +206,7 @@
   pdf: bodin_icra_2018_sb2.pdf
   pdflink: 0
   slides: 0
+  type: conf
 
 - title: "Application-oriented Design Space Exploration for SLAM Algorithms"
   image: saeedi_icra_2017.png
@@ -205,6 +220,7 @@
   pdf: saeedi_icra_2017.pdf
   pdflink: 0
   slides: 0
+  type: conf
 
 - title: "Algorithmic Performance-Accuracy Trade-off in 3D Vision Applications Using HyperMapper"
   image: nardi_iwapt_2017.png
@@ -218,6 +234,7 @@
   pdf: 0
   pdflink: https://arxiv.org/abs/1702.00505
   slides: 0
+  type: conf
 
 - title: "3D Mapping and Navigation for Autonomous Rotorcraft"
   image: saeedi_ccece_2016_quad.jpg
@@ -231,6 +248,7 @@
   pdf: saeedi1_ccece_2016.pdf
   pdflink: 0
   slides: 0
+  type: conf
 
 - title: "The COBRA Heterogenous Multiple-robot Localization and Mapping Dataset"
   image: saeedi_ccece_2016_dataset.jpg
@@ -244,6 +262,7 @@
   pdf: saeedi2_ccece_2016.pdf
   pdflink: 0
   slides: 0
+  type: conf
 
 - title: "Hybrid Approach for Multiple-robot SLAM with Particle Filtering"
   image: saeedi_iros_2015.jpg
@@ -257,6 +276,7 @@
   pdf: saeedi_iros_2015.pdf
   pdflink: 0
   slides: saeedi_iros_2015_slides.pdf
+  type: conf
 
 - title: "Fast Monte Carlo Localization of AUV Using Acoustic Range Measurement"
   image: saeedi_ccece_2015.jpg
@@ -270,6 +290,7 @@
   pdf: saeedi_ccece_2015.pdf
   pdflink: 0
   slides: saeedi_ccece_2015_slides.pdf
+  type: conf
 
 - title: "Perception and Navigation for Autonomous Rotorcraft"
   image: saeedi_icius_2014.jpg
@@ -283,6 +304,7 @@
   pdf: saeedi_icius_2014.pdf
   pdflink: 0
   slides: saeedi_icius_2014_slides.pdf
+  type: conf
 
 - title: "Map Merging Using Hough Peak Matching"
   image: saeedi_iros_2012_ht.png
@@ -296,6 +318,7 @@
   pdf: saeedi_iros_2012_b.pdf
   pdflink: 0
   slides: 0
+  type: conf
 
 - title: "Efficient Map Merging Using a Probabilistic Generalized Voronoi Diagram"
   image: saeedi_iros_2012_pgvd.jpg
@@ -309,6 +332,7 @@
   pdf: saeedi_iros_2012_a.pdf
   pdflink: 0
   slides: saeedi_iros_2012a_slides.pdf
+  type: conf
 
 - title: "Sensor Driven Online Coverage Planning for Autonomous Underwater Vehicles"
   image: Paull_iros_2012_sensor.jpg
@@ -322,6 +346,7 @@
   pdf: paull_iros_2012a.pdf
   pdflink: 0
   slides: 0
+  type: conf
 
 - title: "Towards An Ontology for Autonomous Robots"
   image: Paull_iros_2012_ont.jpg
@@ -335,6 +360,7 @@
   pdf: paull_iros_2012b.pdf
   pdflink: 0
   slides: 0
+  type: conf
 
 - title: "Control and Navigation Framework for Quadrotor Helicopters"
   image: nagaty_icuas_2012.png
@@ -348,6 +374,7 @@
   pdf: nagaty_icuas_2012.pdf
   pdflink: 0
   slides: 0
+  type: conf
 
 - title: "Neural Network-based Multiple-robot Simultaneous Localization and Mapping"
   image: saeedi_iros_2011_nn.jpg
@@ -361,6 +388,7 @@
   pdf: saeedi_iros_2011_b.pdf
   pdflink: 0
   slides: saeedi_iros_2011b_slides.pdf
+  type: conf
 
 - title: "Multiple-robot Simultaneous Localization and Mapping"
   image: saeedi_iros_2011_mrslam.jpg
@@ -374,6 +402,7 @@
   pdf: saeedi_iros_2011_a.pdf
   pdflink: 0
   slides: saeedi_iros_2011a_slides.pdf
+  type: conf
   
 - title: "A Multi-agent Framework with MOOS-IvP for Autonomous Underwater Vehicles with Sidescan Sonar Sensors"
   image: paull_ais_2011.png
@@ -387,6 +416,7 @@
   pdf: paull_ais_2011.pdf
   pdflink: 0
   slides: 0
+  type: conf
 
 - title: "An Information Gain Based Adaptive Path Planning Method for an Autonomous Underwater Vehicle Using Sidescan Sonar"
   image: paull_case_2011.png
@@ -400,6 +430,7 @@
   pdf: paull_case_2010.pdf
   pdflink: 0
   slides: 0
+  type: conf
 
 - title: "Optimal Design of Rotating Sliding Surface for Sliding Mode Control"
   image: saeedi_acc_2009.png
@@ -413,6 +444,7 @@
   pdf: saeedi_acc_2009.pdf
   pdflink: 0
   slides: saeedi_acc_2009_slides.ppt
+  type: conf
 
 - title: "Active Queue Management (AQM) for TCP/IP networks Using Discrete-Time Sliding Mode Control (DSMC)"
   image: saeedi_caa_2005.png
@@ -424,5 +456,6 @@
   code: 0
   codedown: 0
   pdf: saeedi_cca_2005.pdf
+  type: conf
   pdflink: 0
   slides: 0
