@@ -23,7 +23,7 @@ permalink: /publications/
             {{ publicon.title }}
         {% endif %}    
     {% endfor %}
-{% end for %}
+{% endfor %}
 
 
 ## Journal Publications
