@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 ## Journal and Conference Publications
 
-{%- assign number = 1 -%}
+{%- assign pub_number = 0 -%}
 {%- assign lower_limit_yr = 2005 -%}
 {%- assign upper_limit_yr = 2023 -%}
 
@@ -16,13 +16,13 @@ permalink: /publications/
 {% if 2008 == year or 2007 == year -%}
 {% continue %}
 {% endif %}
-<h4 class="float-right">
+<h4  style="color:  #87CEEB;">
   {{ year }}
 </h4>
 
 {% for publi in site.data.publistjournal %}
 {% if publi.year == year -%}
-{% assign number = number | plus: 1 %}
+{% assign pub_number = number | plus: 1 %}
 
 <div class="row">
 <div class="col-sm-11 clearfix">
