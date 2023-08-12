@@ -212,7 +212,7 @@
   codedown: 0
   pdf: debrunner_taco_2019.pdf
   pdflink: 0
-  thesislink: 0
+  thesislink: https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1617-pg-projects/DebrunnerT-Automatic-Code-Generation-and-Pose-Estimation-on-Cellular-Processor-Arrays.pdf
   slides: 0
   type: conf
   year: 2019
