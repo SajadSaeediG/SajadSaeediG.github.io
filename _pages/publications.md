@@ -11,22 +11,22 @@ permalink: /publications/
 {%- assign lower_limit_yr = 2005 -%}
 {%- assign upper_limit_yr = 2023 -%}
 
-{%- for year in (lower_limit_yr..upper_limit_yr) reversed -%}
+{% for year in (lower_limit_yr..upper_limit_yr) reversed -%}
     {% for publijournal in site.data.publistjournal %}
-        {%- if publijournal.year == year -%}
+        {% if publijournal.year == year -%}
             {{ publijournal.title }}
         {%- else -%}
             {% break %}
-        {%- endif -%}
+        {%- endif %}
     {% endfor %}
     {% for publicon in site.data.publistconf %}
-        {%- if publicon.year == year -%}
+        {% if publicon.year == year -%}
             {{ publicon.title }}
         {%- else -%}
             {% break %}
-        {%- endif -%}    
+        {%- endif %}    
     {% endfor %}
-{%- endfor -%}
+{%- endfor %}
 
 
 ## Journal Publications
