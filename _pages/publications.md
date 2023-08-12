@@ -11,7 +11,7 @@ permalink: /publications/
 {%- assign lower_limit_yr = 2005 -%}
 {%- assign upper_limit_yr = 2023 -%}
 
-{% for year in (lower_limit_yr..upper_limit_yr) reversed -%}
+{% for year in (lower_limit_yr..upper_limit_yr) reversed %}
 
 <div class="row">
 <div class="col-sm-12 clearfix">
