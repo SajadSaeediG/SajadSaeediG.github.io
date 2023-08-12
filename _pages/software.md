@@ -6,7 +6,9 @@ sitemap: false
 permalink: /software/
 ---
 
-# Software
+### This page lists open-source software and datasets accompanied by publications.
+
+## Software
 
 Here is a list of open-source software released with the papers:
 
@@ -35,7 +37,7 @@ Here is a list of open-source software released with the papers:
 {% endfor %}
 
 
-# Dataset
+## Dataset
 
 Here is a list of open-source dataset released with the papers:
 
