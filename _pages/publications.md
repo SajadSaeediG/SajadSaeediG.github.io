@@ -16,12 +16,12 @@ permalink: /publications/
 <div class="row">
 <div class="col-sm-12 clearfix">
 <div class="well well-sm">
+</div>
+</div>
+</div>
 <h1 class="float-right">
   {{ year }}
 </h1>
-</div>
-</div>
-</div>
 
 {% for publi in site.data.publistjournal %}
 {% if publi.year == year -%}
