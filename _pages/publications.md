@@ -5,6 +5,26 @@ excerpt: "Publications."
 sitemap: false
 permalink: /publications/
 ---
+## Journal and Conference Publications
+
+
+{%- assign lower_limit_yr = 2005 -%}
+{%- assign upper_limit_yr = 2023 -%}
+
+{% for year in (lower_limit_yr..upper_limit_yr) reversed %}
+    {% for publijournal in site.data.publistjournal %}
+        {% if publijournal.year == year %}
+            {{ publijournal.title }}
+        {% endif %}
+    {% endfor %}
+
+    {% for publicon in site.data.publistconf %}
+        {% if publicon.year == year %}
+            {{ publicon.title }}
+        {% endif %}    
+    {% endfor %}
+{% end for %}
+
 
 ## Journal Publications
 {% for publi in site.data.publistjournal %}
@@ -46,34 +66,6 @@ permalink: /publications/
 </div>
 </div>
 
-{% endfor %}
-
-## Patents
-{% for publi in site.data.publistpatent %}
-<div class="row">
-<div class="col-sm-11 clearfix">
- <div class="well well-sm">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="11%" style="float: left" />
-  <p>{{ publi.title }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p><br>
- </div>
-</div>
-</div>
-{% endfor %}
-
-## ​Book Chapters
-{% for publi in site.data.publistbook %}
-<div class="row">
-<div class="col-sm-11 clearfix">
- <div class="well well-sm">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="11%" style="float: left" />
-  <p>{{ publi.title }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p><br>
- </div>
-</div>
-</div>
 {% endfor %}
 
 ## Conference Publications
@@ -122,6 +114,34 @@ permalink: /publications/
       </button>
    {% endif %}    
   </p>
+ </div>
+</div>
+</div>
+{% endfor %}
+
+## Patents
+{% for publi in site.data.publistpatent %}
+<div class="row">
+<div class="col-sm-11 clearfix">
+ <div class="well well-sm">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="11%" style="float: left" />
+  <p>{{ publi.title }}</p>
+  <p><em>{{ publi.authors }}</em></p>
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p><br>
+ </div>
+</div>
+</div>
+{% endfor %}
+
+## ​Book Chapters
+{% for publi in site.data.publistbook %}
+<div class="row">
+<div class="col-sm-11 clearfix">
+ <div class="well well-sm">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="11%" style="float: left" />
+  <p>{{ publi.title }}</p>
+  <p><em>{{ publi.authors }}</em></p>
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p><br>
  </div>
 </div>
 </div>
