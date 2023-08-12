@@ -13,15 +13,10 @@ permalink: /publications/
 
 {% for year in (lower_limit_yr..upper_limit_yr) reversed %}
 
-<div class="row">
-<div class="col-sm-12 clearfix">
-<div class="well well-sm">
-</div>
-</div>
-</div>
-<h1 class="float-right">
+
+<h3 class="float-right">
   {{ year }}
-</h1>
+</h3>
 
 {% for publi in site.data.publistjournal %}
 {% if publi.year == year -%}
