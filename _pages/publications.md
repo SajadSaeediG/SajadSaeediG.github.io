@@ -12,6 +12,14 @@ permalink: /publications/
 {%- assign upper_limit_yr = 2023 -%}
 
 {% for year in (lower_limit_yr..upper_limit_yr) reversed -%}
+
+<div class="row">
+<div class="col-sm-12 clearfix">
+<div class="well well-sm">
+</div>
+</div>
+</div>
+
 {% for publi in site.data.publistjournal %}
 {% if publi.year == year -%}
 
