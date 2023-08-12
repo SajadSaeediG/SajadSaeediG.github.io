@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 ## Journal and Conference Publications
 
-
+{%- assign number = 1 -%}
 {%- assign lower_limit_yr = 2005 -%}
 {%- assign upper_limit_yr = 2023 -%}
 
@@ -22,12 +22,13 @@ permalink: /publications/
 
 {% for publi in site.data.publistjournal %}
 {% if publi.year == year -%}
+{% assign number = number | plus: 1 %}
 
 <div class="row">
 <div class="col-sm-11 clearfix">
  <div class="well well-sm">
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="11%" style="float: left" />
-  <p>{{ publi.title }}  <br> 
+  <p>{{ [number] }}{{ publi.title }}  <br> 
   <em>{{ publi.authors }}</em> <br> 
   <strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong> <br>
   {% if publi.project != 0 %}
@@ -65,12 +66,13 @@ permalink: /publications/
 
 {% for publicon in site.data.publistconf %}
 {% if publicon.year == year -%}
+{% assign number = number | plus: 1 %}
 
 <div class="row">
 <div class="col-sm-11 clearfix">
 <div class="well well-sm">
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publicon.image }}" class="img-responsive" width="11%" style="float: left" />
-<p>{{ publicon.title }} <br> 
+<p>{{ [number] }}{{ publicon.title }} <br> 
 <em>{{ publicon.authors }}</em> <br>
 {{ publicon.venue }} <br>
 {{ publicon.location }} <br>
