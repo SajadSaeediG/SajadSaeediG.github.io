@@ -13,7 +13,7 @@ permalink: /publications/
 
 {% for year in (lower_limit_yr..upper_limit_yr) reversed %}
 
-{% if 2008 == year -%}
+{% if 2008 == year or 2007 == year -%}
 {% continue %}
 {% endif %}
 <h3 class="float-right">
