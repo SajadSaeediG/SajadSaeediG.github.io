@@ -111,7 +111,7 @@ SLIDES
 {% endfor %}
 {%- endfor %}
 
-
+<!--
 ## Journal Publications
 {% for publi in site.data.publistjournal %}
 
@@ -204,7 +204,7 @@ SLIDES
 </div>
 </div>
 {% endfor %}
-
+--->
 ## Patents
 {% for publi in site.data.publistpatent %}
 <div class="row">
