@@ -9,6 +9,7 @@
   codedown: 0
   pdf: 0
   pdflink: 0
+  thesislink: 0
   slides: 0
   type: conf
   year: 2023
@@ -24,6 +25,7 @@
   codedown: 0
   pdf: 0
   pdflink: 0
+  thesislink: 0
   slides: 0
   type: conf
   year: 2022
@@ -40,6 +42,7 @@
   codedown: 0
   pdf: 0
   pdflink: https://arxiv.org/abs/2111.02580
+  thesislink: 0
   slides: 0
   type: conf
   year: 2022
@@ -56,6 +59,7 @@
   codedown: 0
   pdf: 0
   pdflink: 0
+  thesislink: 0
   slides: 0
   type: conf
   year: 2022
@@ -72,6 +76,7 @@
   codedown: 0
   pdf: 0
   pdflink: 0
+  thesislink: 0
   slides: 0
   type: conf
   year: 2021
@@ -88,6 +93,7 @@
   codedown: 0
   pdf: 0
   pdflink: 0
+  thesislink: 0
   slides: 0
   type: conf
   year: 2021
@@ -104,6 +110,7 @@
   codedown: 0
   pdf: 0
   pdflink: https://arxiv.org/abs/2101.08715
+  thesislink: http://www.edstow.co.uk/pub/2020/MEngThesis.pdf
   slides: 0
   type: conf
   year: 2020
@@ -120,6 +127,7 @@
   codedown: 0
   pdf: 0
   pdflink: https://arxiv.org/abs/2004.11186
+  thesislink: https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1819-ug-projects/MuraiR-Visual-Odometry-Using-a-Focal-plane-Sensor-processor.pdf
   slides: 0
   type: conf
   year: 2020
@@ -135,6 +143,7 @@
   code: https://github.com/brouwa/CNNs-on-FPSPs
   codedown: 0
   pdf: wong_arxive_2020_analognet.pdf
+  thesislink: 0
   pdflink: 0
   slides: 0
   type: conf
@@ -152,6 +161,7 @@
   codedown: 0
   pdf: saeedi_icra_2019.pdf
   pdflink: 0
+  thesislink: 0
   slides: 0
   type: conf
   year: 2019
@@ -168,6 +178,7 @@
   codedown: 0
   pdf: bujanca_icra_2019_sb3.pdf
   pdflink: 0
+  thesislink: 0
   slides: 0
   type: conf
   year: 2019
@@ -184,6 +195,7 @@
   codedown: 0
   pdf: debrunner_hipeac_2019.pdf
   pdflink: 0
+  thesislink: 0
   slides: 0
   type: conf
   year: 2019
@@ -200,6 +212,7 @@
   codedown: 0
   pdf: debrunner_taco_2019.pdf
   pdflink: 0
+  thesislink: 0
   slides: 0
   type: conf
   year: 2019
@@ -216,6 +229,7 @@
   codedown: 0
   pdf: li_bmvc_2018.pdf
   pdflink: 0
+  thesislink: 0
   slides: 0
   type: conf
   year: 2018
@@ -232,6 +246,7 @@
   codedown: 0
   pdf: bodin_icra_2018_sb2.pdf
   pdflink: 0
+  thesislink: 0
   slides: 0
   type: conf
   year: 2018
@@ -248,6 +263,7 @@
   codedown: 0
   pdf: saeedi_icra_2017.pdf
   pdflink: 0
+  thesislink: 0
   slides: 0
   type: conf
   year: 2017
@@ -264,6 +280,7 @@
   codedown: 0
   pdf: 0
   pdflink: https://arxiv.org/abs/1702.00505
+  thesislink: 0
   slides: 0
   type: conf
   year: 2017
@@ -280,6 +297,7 @@
   codedown: 0
   pdf: saeedi1_ccece_2016.pdf
   pdflink: 0
+  thesislink: 0
   slides: 0
   type: conf
   year: 2016
@@ -296,6 +314,7 @@
   codedown: 0
   pdf: saeedi2_ccece_2016.pdf
   pdflink: 0
+  thesislink: 0
   slides: 0
   type: conf
   year: 2016
@@ -312,6 +331,7 @@
   codedown: 0
   pdf: saeedi_iros_2015.pdf
   pdflink: 0
+  thesislink: 0
   slides: saeedi_iros_2015_slides.pdf
   type: conf
   year: 2015
@@ -328,6 +348,7 @@
   codedown: 0
   pdf: saeedi_ccece_2015.pdf
   pdflink: 0
+  thesislink: 0
   slides: saeedi_ccece_2015_slides.pdf
   type: conf
   year: 2015
@@ -344,6 +365,7 @@
   codedown: 0
   pdf: saeedi_icius_2014.pdf
   pdflink: 0
+  thesislink: 0
   slides: saeedi_icius_2014_slides.pdf
   type: conf
   year: 2014
@@ -360,6 +382,7 @@
   codedown: hough_src.rar
   pdf: saeedi_iros_2012_b.pdf
   pdflink: 0
+  thesislink: 0
   slides: 0
   type: conf
   year: 2012
@@ -376,6 +399,7 @@
   codedown: 0
   pdf: saeedi_iros_2012_a.pdf
   pdflink: 0
+  thesislink: 0
   slides: saeedi_iros_2012a_slides.pdf
   type: conf
   year: 2012 
@@ -392,6 +416,7 @@
   codedown: 0
   pdf: paull_iros_2012a.pdf
   pdflink: 0
+  thesislink: 0
   slides: 0
   type: conf
   year: 2012
@@ -407,6 +432,7 @@
   codedown: 0
   pdf: paull_iros_2012b.pdf
   pdflink: 0
+  thesislink: 0
   slides: 0
   type: conf
   year: 2012
@@ -422,6 +448,7 @@
   codedown: 0
   pdf: nagaty_icuas_2012.pdf
   pdflink: 0
+  thesislink: 0
   slides: 0
   type: conf
   year: 2012
@@ -437,6 +464,7 @@
   codedown: 0
   pdf: saeedi_iros_2011_b.pdf
   pdflink: 0
+  thesislink: 0
   slides: saeedi_iros_2011b_slides.pdf
   type: conf
   year: 2011
@@ -452,6 +480,7 @@
   codedown: 0
   pdf: saeedi_iros_2011_a.pdf
   pdflink: 0
+  thesislink: 0
   slides: saeedi_iros_2011a_slides.pdf
   type: conf
   year: 2011
@@ -467,6 +496,7 @@
   codedown: 0
   pdf: paull_ais_2011.pdf
   pdflink: 0
+  thesislink: 0
   slides: 0
   type: conf
   year: 2011
@@ -482,6 +512,7 @@
   codedown: 0
   pdf: paull_case_2010.pdf
   pdflink: 0
+  thesislink: 0
   slides: 0
   type: conf
   year: 2010
@@ -497,6 +528,7 @@
   codedown: simulink.zip
   pdf: saeedi_acc_2009.pdf
   pdflink: 0
+  thesislink: 0
   slides: saeedi_acc_2009_slides.ppt
   type: conf
   year: 2009
@@ -513,6 +545,7 @@
   pdf: saeedi_cca_2005.pdf
   type: conf
   pdflink: 0
+  thesislink: 0
   slides: 0
   year: 2005
   
