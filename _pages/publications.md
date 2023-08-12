@@ -16,7 +16,7 @@ permalink: /publications/
 {% if 2008 == year or 2007 == year -%}
 {% continue %}
 {% endif %}
-<h4  style="color:  #87CEEB;">
+<h4  style="color:  #0000FF;">
   {{ year }}
 </h4>
 
@@ -28,7 +28,7 @@ permalink: /publications/
 <div class="col-sm-11 clearfix">
  <div class="well well-sm">
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="11%" style="float: left" />
-  <p>{{ [number] }}{{ publi.title }}  <br> 
+  <p>{{ number }}{{ publi.title }}  <br> 
   <em>{{ publi.authors }}</em> <br> 
   <strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong> <br>
   {% if publi.project != 0 %}
