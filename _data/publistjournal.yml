@@ -10,6 +10,7 @@
   pdf: 0
   pdflink: https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.22231
   type: journal
+  year: 2023
   
 - title: "High-frame-rate Homography and Visual Odometry by Tracking Binary Features from the Focal Plane"
   image: murai_ar_2023.jpg
@@ -23,7 +24,7 @@
   pdf: 0  
   pdflink: https://link.springer.com/content/pdf/10.1007/s10514-023-10122-8.pdf?pdf=button
   type: journal
-
+  year: 2023
 
 - title: "UVC Disinfection Robots: A Review"
   image: mehta_ras_2023.jpg
@@ -37,6 +38,7 @@
   pdf: mehta_ras_2023.pdf
   pdflink: 0
   type: journal
+  year: 2023
 
 - title: "Compiling CNNs with Cain: focal-plane processing for robot navigation"
   image: stow_ar_2022.jpg
@@ -50,6 +52,7 @@
   pdf: 0
   pdflink: https://link.springer.com/content/pdf/10.1007/s10514-022-10053-w.pdf?pdf=button
   type: journal
+  year: 2022
 
 
 - title: "Systematic Comparison of Path Planning Algorithms using PathBench"
@@ -64,6 +67,7 @@
   pdf: 0
   pdflink: https://arxiv.org/abs/2203.03092
   type: journal
+  year: 2022
 
 
 - title: "A Robot Web for Distributed Many-Device Localisation"
@@ -78,6 +82,7 @@
   pdf: 0
   pdflink: https://arxiv.org/abs/2202.03314
   type: journal
+  year: 2022
 
 
 - title: "AUKE: Automatic Kernel Code Generation for an Analogue SIMD Focal-Plane Sensor-Processor Array"
@@ -92,6 +97,7 @@
   pdf: 0
   pdflink: https://dl.acm.org/doi/pdf/10.1145/3291055
   type: journal
+  year: 2019
 
 
 - title: "Navigating the Landscape for Real-time Localisation and Mapping for Robotics Virtual and Augmented Reality"
@@ -106,6 +112,7 @@
   pdf: saeedi_pieee_2018.pdf
   pdflink: 0
   type: journal
+  year: 2018
 
 
 - title: "3D Mapping for Autonomous Quadrotor Aircraft"
@@ -120,6 +127,8 @@
   pdf: 0
   pdflink: https://www.worldscientific.com/doi/reader/10.1142/S2301385017400064
   type: journal
+  year: 2017
+  
 
 - title: "Multiple-robot Simultaneous Localization and Mapping - A Review"
   image: saeedi_jfr_2016.jpg
@@ -133,6 +142,8 @@
   pdf: saeedi_jfr_2016.pdf
   pdflink: 0
   type: journal
+  year: 2016
+  
 
 - title: "Requirements for building an ontology for autonomous robots"
   image: bayat_ir_2016.png
@@ -146,6 +157,8 @@
   pdf: 0
   pdflink: 0
   type: journal
+  year: 2016
+  
 
 - title: "The COBRA Fixed-wing Georeferenced Imagery Dataset"
   image: saeedi_ijius_2015.jpg
@@ -159,6 +172,8 @@
   pdf: saeedi_ijius_2015.pdf
   pdflink: 0
   type: journal
+  year: 2015
+  
 
 - title: "Perception and Navigation for an Autonomous Quadrotor in GPS-denied Environments"
   image: saeedi_acta_2015.jpg
@@ -172,20 +187,7 @@
   pdf: saeedi_ijra_2015b.pdf
   pdflink: 0
   type: journal
-
-
-- title: "Map Merging for Multiple Robots Using Hough Peak Matching"
-  image: saeedi_ras_2014.jpg
-  authors: Sajad Saeedi, Liam Paull, Michael Trentini, Mae Seto, and Howard Li
-  link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0921889014001134
-    display: Robotics and Autonomous Systems, 62(10), pp. 1408–1424, 2014
-  project: 0
-  video: 0
-  code: 0
-  pdf: saeedi_ras_2014.pdf
-  pdflink: 0
-  type: journal
+  year: 2015
 
 
 - title: "Occupancy Grid Map Merging for Multiple-robot Simultaneous Localization and Mapping"
@@ -200,6 +202,22 @@
   pdf: saeedi_ijra_2015.pdf
   pdflink: 0
   type: journal
+  year: 2015
+  
+
+- title: "Map Merging for Multiple Robots Using Hough Peak Matching"
+  image: saeedi_ras_2014.jpg
+  authors: Sajad Saeedi, Liam Paull, Michael Trentini, Mae Seto, and Howard Li
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0921889014001134
+    display: Robotics and Autonomous Systems, 62(10), pp. 1408–1424, 2014
+  project: 0
+  video: 0
+  code: 0
+  pdf: saeedi_ras_2014.pdf
+  pdflink: 0
+  type: journal
+  year: 2014
 
 
 - title: "Group Mapping: A Topological Approach to Map Merging for Multiple Robots"
@@ -214,6 +232,7 @@
   pdf: saeedi_ram_2014.pdf
   pdflink: 0
   type: journal
+  year: 2014
   
 
 - title: "AUV Navigation and Localization - A Review"
@@ -228,6 +247,7 @@
   pdf: paull_joe_2014.pdf
   pdflink: 0
   type: journal
+  year: 2014
   
 
 - title: "Control and Navigation Framework for Quadrotor Helicopters"
@@ -242,7 +262,7 @@
   pdf: nagaty_jirs_2013.pdf
   pdflink: 0
   type: journal
-  
+  year: 2013
 
 - title: "Sensor-Driven Online Coverage Planning for Autonomous Underwater Vehicles"
   image: paull_tmech_2013.png
@@ -256,7 +276,7 @@
   pdf: paull_tmech_2013.pdf
   pdflink: 0
   type: journal
-  
+  year: 2013  
   
 - title: "Neural Network-based Multiple-robot Simultaneous Localization and Mapping"
   image: saeedi_ieeenn_2011.jpg
@@ -270,7 +290,9 @@
   pdf: saeedi_tnn_2012.pdf
   pdflink: 0
   type: journal
+  year: 2012
 
+  
 - title: "Robust Window-Based Active Queue Management Based on H-infinity Control"
   image: monemi_cca_2006.png
   authors: Mehdi Monemi, Sajad Saeedi
@@ -283,4 +305,5 @@
   pdf: monemi_ijist_2006.pdf
   pdflink: 0
   type: journal
+  year: 2006
 
