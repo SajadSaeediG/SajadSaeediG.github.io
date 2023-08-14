@@ -21,6 +21,8 @@ I work on robotics. The focus is on Simultaneous Localization and Mapping (SLAM)
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
+        <li data-target="#carousel" data-slide-to="8"></li>        
     </ol>
 
 
@@ -44,6 +46,12 @@ I work on robotics. The focus is on Simultaneous Localization and Mapping (SLAM)
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ParallelRLDrones_short.gif" alt="Slide 6" />
         </div>
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bitvo.gif" alt="Slide 7" />
+        </div>
+             <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PathBench.gif" alt="Slide 8" />
+        </div>    
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
