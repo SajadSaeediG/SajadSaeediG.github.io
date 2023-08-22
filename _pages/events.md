@@ -17,7 +17,6 @@ permalink: /events/
   <p>{{ event.location }}</p>
   <p>{{ event.event }}</p>
   <p><a href="{{ event.link.url }}">{{ event.link.display }}</a></p>
-<br>
  </div>
 </div>
 </div>
