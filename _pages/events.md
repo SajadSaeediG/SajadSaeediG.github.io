@@ -14,7 +14,9 @@ permalink: /events/
  <div class="well well-sm">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teachingpic/{{ event.image }}" class="img-responsive" width="11%" style="float: left" />
   <p><b>{{ event.title }}</b></p>
-  <p>{{ event.description }}</p><br>
+  <p>{{ event.location }}</p>
+  <p>[event.link](event.link/)</p><br>
+<br>
  </div>
 </div>
 </div>
