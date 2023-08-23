@@ -65,7 +65,7 @@ permalink: /
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bitvo.gif" alt="Slide 7" />
             <div class="carousel-caption d-none d-md-block">
-               <p>BIT-VO: High-speed Visual Odometry</p>
+               <p>High-speed Visual Odometry</p>
             </div>             
         </div>
              <div class="item">
