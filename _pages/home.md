@@ -69,7 +69,7 @@ permalink: /
             </div>             
         </div>
              <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PathBench.gif" alt="Slide 8" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PathBench2.gif" alt="Slide 8" />
             <div class="carousel-caption d-none d-md-block">
                <p>PathBench</p>
             </div>              
