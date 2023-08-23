@@ -31,6 +31,9 @@ permalink: /
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grobot.gif" alt="Slide 2" />
+            <div class="carousel-caption d-none d-md-block">
+            <p>Ultraviolet Disinfection Robots</p>
+          </div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Rosor3.gif" alt="Slide 3" />
