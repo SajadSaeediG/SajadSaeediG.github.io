@@ -59,22 +59,19 @@ permalink: /
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ParallelRLDrones_short.gif" alt="Slide 6" />
             <div class="carousel-caption d-none d-md-block">
-               <h5>PRL4AirSim</h5>
-               <p>A Simulation Framework for Efficient Reinforcement Learning Training</p>
+               <p>Parallel Reinforcement Learning</p>
             </div>               
         </div>
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bitvo.gif" alt="Slide 7" />
             <div class="carousel-caption d-none d-md-block">
-               <h5>BIT-VO</h5>
-               <p>High-speed Visual Odometry using Binary Features from the Focal Plane</p>
+               <p>BIT-VO: High-speed Visual Odometry</p>
             </div>             
         </div>
              <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PathBench.gif" alt="Slide 8" />
             <div class="carousel-caption d-none d-md-block">
-               <h5>PathBench</h5>
-               <p>A Framework for Developing and Benchmarking of Path Planning Algorithms</p>
+               <p>PathBench</p>
             </div>              
         </div>    
     </div>
