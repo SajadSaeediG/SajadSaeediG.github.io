@@ -61,10 +61,8 @@ permalink: /
   </a>
 </div>
 
-<div style="text-align: right"> Here you will learn about recent advancements in robotics and its applications. For a robot to work autonomously, in addition to the mechanical and electrical components, various algorithmic and software components should be designed. Examples include control, path planning, and simultaneous localization and mapping (SLAM)\*. As you navigate this space, expect to discover not only the latest breakthroughs about these robotics components but also insights into the existing challenges.
+<div style="text-align: justify"> Here you will learn about recent advancements in robotics and its applications. For a robot to work autonomously, in addition to the mechanical and electrical components, various algorithmic and software components should be designed. Examples include control, path planning, and simultaneous localization and mapping (SLAM)\*. As you navigate this space, expect to discover not only the latest breakthroughs about these robotics components but also insights into the existing challenges.
  </div>
-
-Here you will learn about recent advancements in robotics and its applications. For a robot to work autonomously, in addition to the mechanical and electrical components, various algorithmic and software components should be designed. Examples include control, path planning, and simultaneous localization and mapping (SLAM)\*. As you navigate this space, expect to discover not only the latest breakthroughs about these robotics components but also insights into the existing challenges.
 
 ***
 
