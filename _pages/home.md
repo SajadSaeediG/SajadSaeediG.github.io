@@ -62,7 +62,8 @@ permalink: /
 </div>
 
 
-Here you will learn about recent advancements in robotics and its applications. For a robot to work autonomously, in addition to the mechanical and electrical components, various algorithmic and software components should be designed. Examples include control, path planning, and simultaneous localization and mapping (SLAM)*. As you navigate this space, expect to discover not only the latest breakthroughs about these robotics components but also insights into the existing challenges.
+Here you will learn about recent advancements in robotics and its applications. For a robot to work autonomously, in addition to the mechanical and electrical components, various algorithmic and software components should be designed. Examples include control, path planning, and simultaneous localization and mapping (SLAM)\*. As you navigate this space, expect to discover not only the latest breakthroughs about these robotics components but also insights into the existing challenges.
+
 ***
 
 \* SLAM is a technique that empowers robots to map their surroundings while accurately pinpointing their own location in real-time.
