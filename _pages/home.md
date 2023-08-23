@@ -28,30 +28,54 @@ permalink: /
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/quad.gif" alt="Slide 1" />
+            <div class="carousel-caption d-none d-md-block">
+               <p>2D SLAM</p>
+            </div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grobot.gif" alt="Slide 2" />
             <div class="carousel-caption d-none d-md-block">
-            <p>Ultraviolet Disinfection Robots</p>
-          </div>
+               <p>Ultraviolet Disinfection Robots</p>
+            </div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Rosor3.gif" alt="Slide 3" />
+            <div class="carousel-caption d-none d-md-block">
+               <p>Aeromagnetic Survey</p>
+            </div>            
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Rosor2.gif" alt="Slide 4" />
+            <div class="carousel-caption d-none d-md-block">
+               <p>Aeromagnetic Survey</p>
+            </div>               
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Rosor4.gif" alt="Slide 5" />
+            <div class="carousel-caption d-none d-md-block">
+               <p>Aeromagnetic Survey</p>
+            </div>               
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ParallelRLDrones_short.gif" alt="Slide 6" />
+            <div class="carousel-caption d-none d-md-block">
+               <h5>PRL4AirSim</h5>
+               <p>A Simulation Framework for Efficient Reinforcement Learning Training</p>
+            </div>               
         </div>
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bitvo.gif" alt="Slide 7" />
+            <div class="carousel-caption d-none d-md-block">
+               <h5>BIT-VO</h5>
+               <p>High-speed Visual Odometry using Binary Features from the Focal Plane</p>
+            </div>             
         </div>
              <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PathBench.gif" alt="Slide 8" />
+            <div class="carousel-caption d-none d-md-block">
+               <h5>PathBench</h5>
+               <p>A Framework for Developing and Benchmarking of Path Planning Algorithms</p>
+            </div>              
         </div>    
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
