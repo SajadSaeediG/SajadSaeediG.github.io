@@ -63,7 +63,7 @@ permalink: /
             </div>               
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bitvo.gif" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bitvo2.gif" alt="Slide 7" />
             <div class="carousel-caption d-none d-md-block">
                <p>High-speed Visual Odometry</p>
             </div>             
