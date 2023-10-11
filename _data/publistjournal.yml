@@ -1,3 +1,18 @@
+- title: "A Robot Web for Distributed Many-Device Localisation"
+  image: murai_ieee_2023.jpg
+  authors: Riku Murai, Joseph Ortiz, Sajad Saeedi, Paul HJ Kelly, Andrew J Davison
+  link:
+    url: 0
+    display: IEEE Transactions on Robotics (in press), 2023
+  project: 0
+  video: 0
+  code: 0
+  pdf: 0
+  pdflink: https://arxiv.org/abs/2202.03314
+  type: journal
+  year: 2023
+
+  
 - title: "Autonomous aerial robotics for package delivery: A technical review"
   image: saunders_jfr_2023.jpg
   authors: Jack Saunders, Sajad Saeedi, Wenbin Li
@@ -66,21 +81,6 @@
   code: 0
   pdf: 0
   pdflink: https://arxiv.org/abs/2203.03092
-  type: journal
-  year: 2022
-
-
-- title: "A Robot Web for Distributed Many-Device Localisation"
-  image: murai_ieee_2023.jpg
-  authors: Riku Murai, Joseph Ortiz, Sajad Saeedi, Paul HJ Kelly, Andrew J Davison
-  link:
-    url: https://arxiv.org/abs/2202.03314
-    display: arXiv
-  project: 0
-  video: 0
-  code: 0
-  pdf: 0
-  pdflink: https://arxiv.org/abs/2202.03314
   type: journal
   year: 2022
 
