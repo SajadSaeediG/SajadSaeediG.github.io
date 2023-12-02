@@ -1,3 +1,18 @@
+- title: "RL-PGO: Reinforcement Learning-based Planar Pose-Graph Optimization"
+  image: kourt_lcss_2023.jpg
+  authors: Nikolaos Kourtzanidis, Sajad Saeedi
+  link:
+    url: https://arxiv.org/abs/2202.13221
+    display: IEEE Control Systems Letters (L-CSS) (accepted), 2023
+  project: https://sites.google.com/view/rl-pgo
+  video: 0
+  code: 0
+  pdf: 0
+  pdflink: https://arxiv.org/abs/2202.13221
+  type: journal
+  year: 2023
+
+
 - title: "A Robot Web for Distributed Many-Device Localisation"
   image: murai_ieee_2023.jpg
   authors: Riku Murai, Joseph Ortiz, Sajad Saeedi, Paul HJ Kelly, Andrew J Davison
