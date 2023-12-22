@@ -1,16 +1,30 @@
+- title: "Scalable Multi-Robot Joint Planning and Control for Object Transport"
+  image: haj_lcss_2024.jpg
+  authors: Hussein Ali Jaafar, Cheng-Hao Kao, Sajad Saeedi
+  link:
+    url: 0
+    display: IEEE Control Systems Letters, 2024
+  project: https://sites.google.com/view/multi-robot-control-planner
+  video: 0
+  code: 0
+  pdf: 0
+  pdflink: 0
+  type: journal
+  year: 2024
+  
 - title: "RL-PGO: Reinforcement Learning-based Planar Pose-Graph Optimization"
   image: kourt_lcss_2023.jpg
   authors: Nikolaos Kourtzanidis, Sajad Saeedi
   link:
     url: https://ieeexplore.ieee.org/document/10347406
-    display: IEEE Control Systems Letters, 2023
+    display: IEEE Control Systems Letters, 2024
   project: https://sites.google.com/view/rl-pgo
   video: 0
   code: 0
   pdf: 0
   pdflink: https://arxiv.org/abs/2202.13221
   type: journal
-  year: 2023
+  year: 2024
 
 
 - title: "A Robot Web for Distributed Many-Device Localisation"
@@ -18,14 +32,14 @@
   authors: Riku Murai, Joseph Ortiz, Sajad Saeedi, Paul HJ Kelly, Andrew J Davison
   link:
     url: https://ieeexplore.ieee.org/document/10286058
-    display: IEEE Transactions on Robotics, 2023
+    display: IEEE Transactions on Robotics, 2024
   project: https://rmurai.co.uk/projects/RobotWeb
   video: 0
   code: 0
   pdf: 0
   pdflink: https://arxiv.org/abs/2202.03314
   type: journal
-  year: 2023
+  year: 2024
 
   
 - title: "Autonomous aerial robotics for package delivery: A technical review"
@@ -33,14 +47,14 @@
   authors: Jack Saunders, Sajad Saeedi, Wenbin Li
   link:
     url: https://onlinelibrary.wiley.com/doi/10.1002/rob.22231
-    display: Wiley, Journal of Field Robotics, 2023
+    display: Wiley, Journal of Field Robotics, 2024
   project: 0
   video: 0
   code: 0
   pdf: 0
   pdflink: https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.22231
   type: journal
-  year: 2023
+  year: 2024
   
 - title: "High-frame-rate Homography and Visual Odometry by Tracking Binary Features from the Focal Plane"
   image: murai_ar_2023.jpg
