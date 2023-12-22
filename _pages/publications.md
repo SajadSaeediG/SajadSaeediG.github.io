@@ -9,7 +9,7 @@ permalink: /publications/
 
 {%- assign pub_number = 0 -%}
 {%- assign lower_limit_yr = 2005 -%}
-{%- assign upper_limit_yr = 2023 -%}
+{%- assign upper_limit_yr = 2024 -%}
 
 {% for year in (lower_limit_yr..upper_limit_yr) reversed %}
 
