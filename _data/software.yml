@@ -1,3 +1,10 @@
+- title: RL-PGO
+  link: https://github.com/Nick-Kou/RL-PGO
+  image: kourt_lcss_2023.jpg
+  description: RL-PGO (Reinforcement Learning-based Planar Pose-Graph Optimization) is a deep reinforcement learning-based 2D pose-graph optimization. It shows that the pose-graph optimization problem can be modelled as a partially observable Markov Decision Process.   
+  project: https://sites.google.com/view/rl-pgo
+  keywords: Reinforcement Learning, Pose-Graph Optimization
+  
 - title: PRL4AirSim
   link: https://github.com/SaundersJE97/PRL4AirSim
   image: saunders_icra_2023.jpg
