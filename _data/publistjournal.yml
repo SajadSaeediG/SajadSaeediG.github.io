@@ -2,27 +2,13 @@
   image: haj_lcss_2024.jpg
   authors: Hussein Ali Jaafar, Cheng-Hao Kao, Sajad Saeedi
   link:
-    url: 0
-    display: IEEE Control Systems Letters, 2024
+    url: https://sites.google.com/view/multi-robot-control-planner
+    display: IEEE Control Systems Letters (in press), 2024
   project: https://sites.google.com/view/multi-robot-control-planner
   video: 0
   code: 0
   pdf: 0
   pdflink: 0
-  type: journal
-  year: 2024
-  
-- title: "RL-PGO: Reinforcement Learning-based Planar Pose-Graph Optimization"
-  image: kourt_lcss_2023.jpg
-  authors: Nikolaos Kourtzanidis, Sajad Saeedi
-  link:
-    url: https://ieeexplore.ieee.org/document/10347406
-    display: IEEE Control Systems Letters, 2024
-  project: https://sites.google.com/view/rl-pgo
-  video: 0
-  code: 0
-  pdf: 0
-  pdflink: https://arxiv.org/abs/2202.13221
   type: journal
   year: 2024
 
@@ -41,6 +27,21 @@
   type: journal
   year: 2024
 
+
+- title: "RL-PGO: Reinforcement Learning-based Planar Pose-Graph Optimization"
+  image: kourt_lcss_2023.jpg
+  authors: Nikolaos Kourtzanidis, Sajad Saeedi
+  link:
+    url: https://ieeexplore.ieee.org/document/10347406
+    display: IEEE Control Systems Letters, 2024
+  project: https://sites.google.com/view/rl-pgo
+  video: 0
+  code: 0
+  pdf: 0
+  pdflink: https://arxiv.org/abs/2202.13221
+  type: journal
+  year: 2024
+  
   
 - title: "Autonomous aerial robotics for package delivery: A technical review"
   image: saunders_jfr_2023.jpg
