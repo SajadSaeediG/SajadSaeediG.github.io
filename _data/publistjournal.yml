@@ -27,22 +27,7 @@
   type: journal
   year: 2024
 
-
-- title: "RL-PGO: Reinforcement Learning-based Planar Pose-Graph Optimization"
-  image: kourt_lcss_2023.jpg
-  authors: Nikolaos Kourtzanidis, Sajad Saeedi
-  link:
-    url: https://ieeexplore.ieee.org/document/10347406
-    display: IEEE Control Systems Letters, 2024
-  project: https://sites.google.com/view/rl-pgo
-  video: 0
-  code: 0
-  pdf: 0
-  pdflink: https://arxiv.org/abs/2202.13221
-  type: journal
-  year: 2024
-  
-  
+    
 - title: "Autonomous aerial robotics for package delivery: A technical review"
   image: saunders_jfr_2023.jpg
   authors: Jack Saunders, Sajad Saeedi, Wenbin Li
@@ -56,6 +41,22 @@
   pdflink: https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.22231
   type: journal
   year: 2024
+
+
+- title: "RL-PGO: Reinforcement Learning-based Planar Pose-Graph Optimization"
+  image: kourt_lcss_2023.jpg
+  authors: Nikolaos Kourtzanidis, Sajad Saeedi
+  link:
+    url: https://ieeexplore.ieee.org/document/10347406
+    display: IEEE Control Systems Letters, 2023
+  project: https://sites.google.com/view/rl-pgo
+  video: 0
+  code: 0
+  pdf: 0
+  pdflink: https://arxiv.org/abs/2202.13221
+  type: journal
+  year: 2023
+  
   
 - title: "High-frame-rate Homography and Visual Odometry by Tracking Binary Features from the Focal Plane"
   image: murai_ar_2023.jpg
