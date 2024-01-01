@@ -9,6 +9,9 @@ permalink: /about/
 # About
 \
 &nbsp;
+[Google Scholar](https://scholar.google.ca/citations?user=JvInxPIAAAAJ&hl=en) [LinkedIn](https://ca.linkedin.com/in/sajad-saeedi-8a156733)
+\
+&nbsp;
 ![]({{ site.url }}{{ site.baseurl }}/images/aboutpic/tmu_logo.png){: style="width: 150px; float: left; margin: 0px  10px"}
 I am an Assistant Professor in the Department of Mechanical and Industrial Engineering at [Toronto Metropolitan University](https://www.torontomu.ca/mechanical-industrial/people/faculty/sajad-saeedi/) (formerly Ryerson) in Toronto, Canada. My research at Ryerson focuses on robotics, SLAM, focal-plane sensor-processor arrays (FPSP), and deep learning.
 
