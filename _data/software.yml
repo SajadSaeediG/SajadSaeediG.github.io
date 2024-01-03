@@ -1,8 +1,8 @@
 - title: MR.CAP
   link: https://github.com/h2jaafar/mr.cap
   image: haj_lcss_2024.jpg
-  description: MR.CAP (Multi-robot Joint Control and Planning for Object Transport) is a novel approach to solve simultaneous multi-robot control and planning problems. The implementation is in C++, making use of factor graphs. 
-  project: https://sites.google.com/view/rl-pgo
+  description: MR.CAP (Multi-robot Joint Control and Planning for Object Transport) is a novel approach to solving simultaneous multi-robot control and planning problems. The implementation is in C++, making use of factor graphs. 
+  project: https://h2jaafar.github.io/projects/mrcap/
   keywords: Object Transport, Control, Planning, Multiple Robots, Factor Graph, MPC
   
 - title: RL-PGO
