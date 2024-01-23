@@ -1,3 +1,20 @@
+- title: "Structure from WiFi (SfW): RSSI-based Geometric Mapping of Indoor Environments"
+  image: kim_acc_2024.jpg
+  authors: Junseo Kim, Jill Aghyourli Zalat, Yeganeh Bahoo, Sajad Saeedi
+  venue: American Control Conference (ACC)
+  location: Toronto, Canada, July 10 - July 12, 2024
+  project: https://sites.google.com/view/structure-from-wifi/home
+  video: 0
+  code: 0
+  codedown: 0
+  pdf: 0
+  pdflink: 0
+  thesislink: 0
+  slides: 0
+  note: 0
+  type: conf
+  year: 2024
+  
 - title: "Parallel Reinforcement Learning Simulation for Visual Quadrotor Navigation"
   image: saunders_icra_2023.jpg
   authors: Jack Saunders, Sajad Saeedi, Wenbin Li
