@@ -1,8 +1,26 @@
+- title: "Visual Inertial Odometry using Focal Plane Binary Features (BIT-VIO)"
+  image: lisondra_icra_2024.jpg
+  authors: Matthew Lisondra, Junseo Kim, Riku Murai, Kourosh Zareinia, Sajad Saeedi
+  venue: IEEE International Conference on Robotics and Automation (ICRA)
+  location: Japan, Yokohama, May 13-17, 2024
+  project: https://sites.google.com/view/structure-from-wifi/home
+  video: 0
+  code: 0
+  codedown: 0
+  pdf: 0
+  pdflink: 0
+  thesislink: 0
+  slides: 0
+  note: 0
+  type: conf
+  year: 2024
+
+ 
 - title: "Structure from WiFi (SfW): RSSI-based Geometric Mapping of Indoor Environments"
   image: kim_acc_2024.jpg
   authors: Junseo Kim, Jill Aghyourli Zalat, Yeganeh Bahoo, Sajad Saeedi
   venue: American Control Conference (ACC)
-  location: Toronto, Canada, July 10 - July 12, 2024
+  location: Toronto, Canada, July 10 - 12, 2024
   project: https://sites.google.com/view/structure-from-wifi/home
   video: 0
   code: 0
