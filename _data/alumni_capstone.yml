@@ -1,142 +1,151 @@
-- year: 2024
 - project: Path Planning for Autonomous Vehicle with Multiple Trailers 
-  link: 0
-- name: Junseo (Jason) Kim
-  link: https://junseokim.org/
-- name: Rishabh Raja
-  link: https://www.linkedin.com/in/rishabh-raja-6a006822b/
-- name: Ateeb Jawaid
-  link: https://www.linkedin.com/in/ateeb-jawaid-706851234/
-- name: Raymond Ha
-  link: 0
-- sponsor: 0
-  link: 0
-- award: 0
-  link: 0
+  prlink: 0
+  year: 2024
+  name1: Junseo (Jason) Kim
+  link1: https://junseokim.org/
+  name2: Rishabh Raja
+  link2: https://www.linkedin.com/in/rishabh-raja-6a006822b/
+  name3: Ateeb Jawaid
+  link3: https://www.linkedin.com/in/ateeb-jawaid-706851234/
+  name4: Raymond Ha
+  link4: 0
+  sponsor: 0
+  splink: 0
+  award: 0
+  awlink: 0
 
-- year: 2024
+
 - project: Designing a Test System for Fusible Links Integrated in Spring Busbars
-  link: 0
-- name: Arthur Lu
-  link: https://www.linkedin.com/in/arthur-lu/
-- name: Youssef Afify
-  link: https://www.linkedin.com/in/youssef-afify999/
-- name: Maaz Rashid
-  link: https://www.linkedin.com/in/muhammadmaazrashid/?originalSubdomain=ca
-- name: Rishab Goel
-  link: https://www.linkedin.com/in/rishabkgoel/
-- sponsor: Litens Automotive Group
-  link: https://www.litens.com/
-- award: 0
-  link: 0
+  prlink: 0
+  year: 2024
+  name1: Arthur Lu
+  link1: https://www.linkedin.com/in/arthur-lu/
+  name2: Youssef Afify
+  link2: https://www.linkedin.com/in/youssef-afify999/
+  name3: Maaz Rashid
+  link3: https://www.linkedin.com/in/muhammadmaazrashid/?originalSubdomain=ca
+  name4: Rishab Goel
+  link4: https://www.linkedin.com/in/rishabkgoel/
+  sponsor: Litens Automotive Group
+  splink: https://www.litens.com/
+  award: 0
+  awlink: 0
 
-- year: 2023
+
 - project: Distributed Multi-Robotic Action-Task Collaboration
-  link: 0
-- name: Hussein Ali Jaafar
-  link: https://ca.linkedin.com/in/hussein-ali-jaafar
-- name: Cheng-Hao (Howard) Kao
-  link: https://ca.linkedin.com/in/cheng-hao-kao-64343b252
-- name: Hao Ya (Bruce) Hsueh
-  link: https://scholar.google.com/citations?user=qEYBrfcAAAAJ&hl=en
-- name: Talha Najam
-  link: https://ca.linkedin.com/in/talhan
-- sponsor: 0
-  link: 0
-- award: Best Student Project - 2023
-  link: 0
+  prlink: 0
+  year: 2023
+  name1: Hussein Ali Jaafar
+  link1: https://ca.linkedin.com/in/hussein-ali-jaafar
+  name2: Cheng-Hao (Howard) Kao
+  link2: https://ca.linkedin.com/in/cheng-hao-kao-64343b252
+  name3: Hao Ya (Bruce) Hsueh
+  link3: https://scholar.google.com/citations?user=qEYBrfcAAAAJ&hl=en
+  name4: Talha Najam
+  link4: https://ca.linkedin.com/in/talhan
+  sponsor: 0
+  splink: 0
+  award: Best Student Project - 2023
+  awlink: 0
 
-- year: 2023
+
 - project: Low-Cost 3D Photogrammetry Scanner
-  link: 0
-- name: Nillan Nimal
-  link: https://www.linkedin.com/in/nillan-nimal-823935164/
-- name: Abhishek Menon
-  link: https://ca.linkedin.com/in/abhi-menon
-- name: Mitchell Carlos-Carneiro
-  link: 0
-- name: Daniel Velyvis
-  link: https://ca.linkedin.com/in/daniel-velyvis
-- sponsor: 0
-  link: 0
-- award: Highly Commended Global Undergraduate Award
-  link: https://undergraduateawards.com/winners/highly-commended-2023
+  prlink: 0
+  year: 2023
+  name1: Nillan Nimal
+  link1: https://www.linkedin.com/in/nillan-nimal-823935164/
+  name2: Abhishek Menon
+  link2: https://ca.linkedin.com/in/abhi-menon
+  name3: Mitchell Carlos-Carneiro
+  link3: 0
+  name4: Daniel Velyvis
+  link4: https://ca.linkedin.com/in/daniel-velyvis
+  sponsor: 0
+  splink: 0
+  award: Highly Commended Global Undergraduate Award
+  awlink: https://undergraduateawards.com/winners/highly-commended-2023
 
-- year: 2022
+
 - project: Design of a 3D Printer End Effector
-  link: 0
-- name: Amin Ismail
-  link: https://www.linkedin.com/in/amin-i
-- name: Jathavan Sivanesan
-  link: https://ca.linkedin.com/in/jathavan1
-- name: Edwin Quang Trinh
-  link: 0
-- name: Daniel Hoac
-  link: 0
-- sponsor: Promation
-  link: https://promation.com/
-- award: 0
-  link: 0
+  prlink: 0
+  year: 2022
+  name1: Amin Ismail
+  link1: https://www.linkedin.com/in/amin-i
+  name2: Jathavan Sivanesan
+  link2: https://ca.linkedin.com/in/jathavan1
+  name3: Edwin Quang Trinh
+  link3: 0
+  name4: Daniel Hoac
+  link4: 0
+  sponsor: Promation
+  splink: https://promation.com/
+  award: 0
+  awlink: 0
   
-- year: 2022  
+
 - project: MeatMate - Innovative Meat Thermometer
-  link: 0
-- name: Trevor Slawson
-  link: https://ca.linkedin.com/in/trevor-slawson
-- name: Daniel Ahmady
-  link: https://ca.linkedin.com/in/danielahmady
-- name: Marc Buono
-  link: https://ca.linkedin.com/in/marc-buono-08462b178
-- name: Joseph Ajjan
-  link: https://ca.linkedin.com/in/josephajjan
-- sponsor: 0
-  link: 0
-- award: 0
-  link: 0
+  prlink: 0
+  year: 2022  
+  name1: Trevor Slawson
+  link1: https://ca.linkedin.com/in/trevor-slawson
+  name2: Daniel Ahmady
+  link2: https://ca.linkedin.com/in/danielahmady
+  name3: Marc Buono
+  link3: https://ca.linkedin.com/in/marc-buono-08462b178
+  name4: Joseph Ajjan
+  link4: https://ca.linkedin.com/in/josephajjan
+  sponsor: 0
+  splink: 0
+  award: 0
+  awlink: 0
 
-- year: 2021
-- project: Bedsheet Changing Robot - Concept
-  link: 0
-- name: Saith Kankatharan
-  link: 0
-- name: Iman Olfatian
-  link: 0
-- name: Ali Kermani
-  link: 0
-- name: Zhuocheng Chen
-  link: https://ca.linkedin.com/in/zhuocheng-chen-6118721b8
-- sponsor: 0
-  link: 0
-- award: 0
-  link: 0
 
-- year: 2021
-- project: Surface Cleaning Robot - Concept
-  link: 0
-- name: Ani Bhattarai
-  link: 0
-- name: Jenisha Patel
-  link: 0
-- name: Sebastian Rodriguez
-  link: 0
-- name: Saumya Sharma
-  link: https://ca.linkedin.com/in/saumya-sharma12
-- sponsor: 0
-  link: 0
-- award: 0
-  link: 0
+- project: Bedsheet Changing Robot for Hospitals
+  prlink: 0
+  year: 2021
+  name1: Saith Kankatharan
+  link1: 0
+  name2: Iman Olfatian
+  link2: 0
+  name3: Ali Kermani
+  link3: 0
+  name4: Zhuocheng Chen
+  link4: https://ca.linkedin.com/in/zhuocheng-chen-6118721b8
+  sponsor: 0
+  splink: 0
+  award: 0
+  awlink: 0
 
-- year: 2021
+
+- project: Surface Cleaning Robot for Automated Disinfection
+  prlink: 0
+  year: 2021
+  name1: Ani Bhattarai
+  link1: 0
+  name2: Jenisha Patel
+  link2: 0
+  name3: Sebastian Rodriguez
+  link3: 0
+  name4: Saumya Sharma
+  link4: https://ca.linkedin.com/in/saumya-sharma12
+  sponsor: 0
+  splink: 0
+  award: 0
+  awlink: 0
+
+
 - project: Experimental k-visibility WiFi-SLAM
-  link: 0
-- name: Yi Gan
-  link: https://ca.linkedin.com/in/yi-gan-30a009200
-- name: 0
-- name: YuJie Chen
-  link: 0
-- name: Yunfei Xie
-  link: 0
-- sponsor: 0
-  link: 0
-- award: 0
-  link: 0
+  prlink: 0
+  year: 2021
+  name1: Yi Gan
+  link1: https://ca.linkedin.com/in/yi-gan-30a009200
+  name2: Chin Wong
+  link2: 0
+  name3: YuJie Chen
+  link3: 0
+  name4: Yunfei Xie
+  link4: 0
+  sponsor: 0
+  splink: 0
+  award: 0
+  awlink: 0

@@ -80,3 +80,21 @@ permalink: /team/
 
 \
 &nbsp;
+
+
+
+{%- assign hqp_number = 0 -%}
+
+**Capstone Projects - Final Year Undergraduate Projects** 
+   
+{% for cap in site.data.alumni_capstone %}
+{% assign hqp_number = hqp_number | plus: 1 %}
+<div class="row">
+<div class="col-sm-11 clearfix">
+ <div class="well well-sm">
+  <p>{{ "[" }}{{ hqp_number }}{{ '] ' }}{{ cap.project }}</p>
+  <p>{{ cap.name1 }}{{ cap.name2 }}{{ cap.name3 }}{{ cap.name4 }}</p>
+ </div>
+</div>
+</div>
+{% endfor %}
