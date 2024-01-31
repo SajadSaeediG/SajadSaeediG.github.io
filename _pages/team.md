@@ -21,7 +21,7 @@ permalink: /team/
   {%- if msc.url != 0 %}
     <strong><a href="{{ msc.url }}">{{ msc.name }}</a></strong> <br>
   <% else %> 
-    <strong><a>{{ msc.name }}{{ msc.name }}</a></strong> <br>    
+    <strong><p>{{ msc.name }}{{ msc.name }}</p></strong> <br>    
   {%- endif %}
  </div>
 </div>
