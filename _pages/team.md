@@ -19,7 +19,7 @@ permalink: /team/
 <div class="row">
 <div class="col-sm-11 clearfix">
  <div class="well well-sm">
-  <p><b>{{ msc.name }}</b></p>
+  <p><b>{{ "[" }}{{ hqp_number }}{{ '] ' }}{{ msc.name }}</b></p>
  </div>
 </div>
 </div>
