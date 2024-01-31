@@ -19,10 +19,8 @@ permalink: /team/
 <div class="row">
 <div class="col-sm-11 clearfix">
  <div class="well well-sm">
-  {% if msc.url != 0 %}
     <strong><a href="{{ msc.url }}">{{ msc.name }}</a></strong> <br>
-    <strong><p>{{ "[" }}{{ pub_number }}{{ '] ' }}{{ msc.name }}</p></strong> <br>    
-  {% endif %}
+    <strong><p>{{ "[" }}{{ pub_number }}{{ '] ' }}{{ msc.name }}{{ msc.name }}</p></strong> <br>    
  </div>
 </div>
 </div>
