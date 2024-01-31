@@ -15,7 +15,11 @@ permalink: /team/
 <div class="row">
 <div class="col-sm-11 clearfix">
  <div class="well well-sm">
- <strong><a href="{{ msc.url }}">{{ msc.name }}</a></strong> <br>
+  {%- if msc.url != 0 %}
+    <strong><a href="{{ msc.url }}">{{ msc.name }}</a></strong> <br>
+  <%else%> 
+    <strong><a>{{ msc.name }}</a></strong> <br>    
+  {%- endif %}
  </div>
 </div>
 </div>
