@@ -14,7 +14,7 @@ permalink: /team/
 
 **PhD** 
    
-{% for msc in site.data.alumni_phd %}
+{% for phd in site.data.alumni_phd %}
 {% assign hqp_number = hqp_number | plus: 1 %}
 <div class="row">
 <div class="col-sm-11 clearfix">
