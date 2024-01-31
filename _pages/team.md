@@ -11,7 +11,6 @@ permalink: /team/
 
 {%- assign hqp_number = 0 -%}
 
-
 **Master of Applied Science (MASc)** - thesis-based
    
 {% for msc in site.data.alumni_msc %}
@@ -28,6 +27,29 @@ permalink: /team/
 </div>
 </div>
 {% endfor %}
+
+
+
+{%- assign hqp_number = 0 -%}
+
+**Undergraduate Research Assistant (URA)** 
+   
+{% for bsc in site.data.alumni_bsc %}
+{% assign hqp_number = hqp_number | plus: 1 %}
+<div class="row">
+<div class="col-sm-11 clearfix">
+ <div class="well well-sm">
+  {% if bsc.url != 0 %}
+  <p>{{ "[" }}{{ hqp_number }}{{ '] ' }}<a href="{{ msc.url }}">{{ bsc.name }}</a></p>
+  {% else %}
+  <p>{{ "[" }}{{ hqp_number }}{{ '] ' }}{{ bsc.name }}</p>
+  {% endif %}
+ </div>
+</div>
+</div>
+{% endfor %}
+
+
 
 \
 &nbsp;
