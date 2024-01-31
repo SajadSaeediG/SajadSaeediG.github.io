@@ -20,8 +20,7 @@ permalink: /team/
  <div class="well well-sm">
   {%- if msc.url != 0 %}
     <strong><a href="{{ msc.url }}">{{ msc.name }}</a></strong> <br>
-  <% else %> 
-    <strong><p>{{ msc.name }}{{ msc.name }}</p></strong> <br>    
+    <strong><p>{{ "[" }}{{ pub_number }}{{ '] ' }}{{ msc.name }}</p></strong> <br>    
   {%- endif %}
  </div>
 </div>
