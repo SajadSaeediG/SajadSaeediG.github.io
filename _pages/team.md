@@ -9,6 +9,9 @@ permalink: /team/
 # Research Team
 <p></p>
 
+{%- assign hqp_number = 0 -%}
+{% assign hqp_number = hqp_number | plus: 1 %}
+
 **Master of Applied Science (MASc)** - thesis-based
    
 {% for msc in site.data.alumni_msc %}
@@ -17,7 +20,7 @@ permalink: /team/
  <div class="well well-sm">
   {%- if msc.url != 0 %}
     <strong><a href="{{ msc.url }}">{{ msc.name }}</a></strong> <br>
-  <%else%> 
+  <%- else %> 
     <strong><a>{{ msc.name }}</a></strong> <br>    
   {%- endif %}
  </div>
