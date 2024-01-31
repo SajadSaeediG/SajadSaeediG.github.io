@@ -31,7 +31,7 @@ permalink: /team/
 
 
 {%- assign hqp_number = 0 -%}
-
+<p></p>
 **Undergraduate Research Assistant (URA)** 
    
 {% for bsc in site.data.alumni_bsc %}
