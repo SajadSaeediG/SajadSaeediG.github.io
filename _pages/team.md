@@ -93,7 +93,7 @@ permalink: /team/
 <div class="col-sm-11 clearfix">
  <div class="well well-sm">
   {% if cap.prlink == 0 %}
-  <p>{{ "[" }}{{ hqp_number }}{{ '] ' }}{{ cap.project }}</p>
+  <p>{{ "[" }}{{ hqp_number }}{{ '] ' }}{{ cap.project }}{{ ' - ' }}{{ cap.year }}</p>
   {% else %}
   <p>{{ "[" }}{{ hqp_number }}{{ '] ' }}<a href="{{ cap.prlink }}">{{ cap.project }}</a></p>
   {% endif %}  
@@ -101,7 +101,7 @@ permalink: /team/
   {% if cap.link1 != 0 %}
   {{ cap.name1 }}
   {% else %}
-  <p><a href="{{ cap.link1 }}">{{ cap.name1 }}</a></p>
+  <a href="{{ cap.link1 }}">{{ cap.name1 }}</a>
   {% endif %}
   {{ ', ' }}&nbsp;
   {{ cap.name2 }}
