@@ -111,7 +111,7 @@ permalink: /team/
   {{ cap.name4 }}
   </p>
   {% if cap.award != 0 %}
-  {% if cap.awlik != 0 %}
+  {% if cap.awlink != 0 %}
   <p><a href="{{ cap.awlink }}">{{ cap.award }}</a></p>
   {% else %}
   <p>{{ cap.award }}</p>
