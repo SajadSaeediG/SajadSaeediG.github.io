@@ -98,7 +98,17 @@ permalink: /team/
   <p>{{ "[" }}{{ hqp_number }}{{ '] ' }}<a href="{{ cap.prlink }}">{{ cap.project }}</a></p>
   {% endif %}  
   <p>{{ cap.name1 }}{{ ', ' }}&nbsp;{{ cap.name2 }}{{ ', ' }}&nbsp;{{ cap.name3 }}{{ ', ' }}&nbsp;{{ cap.name4 }}</p>
+  {% if cap.award != 0 %}
+  <p><a href="{{ cap.awlink }}">{{ cap.award }}</a></p>
+  {% endif %}
+  {% if cap.sponsor != 0 %}
+  <p><a href="{{ cap.splink }}">{{ cap.sponsor }}</a></p>
+  {% endif %}    
  </div>
 </div>
 </div>
 {% endfor %}
+
+\
+&nbsp;
+
