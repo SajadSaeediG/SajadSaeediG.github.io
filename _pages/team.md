@@ -99,7 +99,11 @@ permalink: /team/
   {% endif %}  
   <p>{{ cap.name1 }}{{ ', ' }}&nbsp;{{ cap.name2 }}{{ ', ' }}&nbsp;{{ cap.name3 }}{{ ', ' }}&nbsp;{{ cap.name4 }}</p>
   {% if cap.award != 0 %}
+  {% if cap.awlik != 0 %}
   <p><a href="{{ cap.awlink }}">{{ cap.award }}</a></p>
+  {% else %}
+  <p>{{ cap.award }}</p>
+  {% endif %}
   {% endif %}
   {% if cap.sponsor != 0 %}
   <p><a href="{{ cap.splink }}">{{ cap.sponsor }}</a></p>
