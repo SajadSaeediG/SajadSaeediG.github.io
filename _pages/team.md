@@ -104,11 +104,23 @@ permalink: /team/
   <a href="{{ cap.link1 }}">{{ cap.name1 }}</a>
   {% endif -%}
   {{ ', ' }}&nbsp;
+  {% if cap.link2 == 0 -%}
   {{ cap.name2 }}
+  {% else -%}
+  <a href="{{ cap.link2 }}">{{ cap.name2 }}</a>
+  {% endif -%}
   {{ ', ' }}&nbsp;
+  {% if cap.link3 == 0 -%}
   {{ cap.name3 }}
+  {% else -%}
+  <a href="{{ cap.link3 }}">{{ cap.name3 }}</a>
+  {% endif -%}
   {{ ', ' }}&nbsp;
+  {% if cap.link4 == 0 -%}
   {{ cap.name4 }}
+  {% else -%}
+  <a href="{{ cap.link4 }}">{{ cap.name4 }}</a>
+  {% endif -%}
   </p>
   {% if cap.award != 0 %}
   {% if cap.awlink != 0 %}
