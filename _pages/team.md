@@ -92,7 +92,11 @@ permalink: /team/
 <div class="row">
 <div class="col-sm-11 clearfix">
  <div class="well well-sm">
+  {% if cap.prlink == 0 %}
   <p>{{ "[" }}{{ hqp_number }}{{ '] ' }}{{ cap.project }}</p>
+  {% else %}
+  <p>{{ "[" }}{{ hqp_number }}{{ '] ' }}<a href="{{ cap.prlink }}">{{ cap.project }}</a></p>
+  {% endif %}  
   <p>{{ cap.name1 }}{{ ', ' }}&nbsp;{{ cap.name2 }}{{ ', ' }}&nbsp;{{ cap.name3 }}{{ ', ' }}&nbsp;{{ cap.name4 }}</p>
  </div>
 </div>
