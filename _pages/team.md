@@ -108,13 +108,13 @@ permalink: /team/
   {{ cap.name2 }}
   {% else -%}
   <a href="{{ cap.link2 }}">{{ cap.name2 }}</a>
-  {% endif -%}
+  {%- endif -%}
   {{ ', ' }}&nbsp;
   {% if cap.link3 == 0 -%}
   {{ cap.name3 }}
   {% else -%}
   <a href="{{ cap.link3 }}">{{ cap.name3 }}</a>
-  {% endif -%}
+  {%- endif -%}
   {{ ', ' }}&nbsp;
   {% if cap.link4 == 0 -%}
   {{ cap.name4 }}
