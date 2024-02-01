@@ -98,7 +98,7 @@ permalink: /team/
   <p>{{ "[" }}{{ hqp_number }}{{ '] ' }}<a href="{{ cap.prlink }}">{{ cap.project }}</a></p>
   {% endif %}  
   <p>
-  {% if cap.link1 != 0 %}
+  {% if cap.link1 == 0 %}
   {{ cap.name1 }}
   {% else %}
   <a href="{{ cap.link1 }}">{{ cap.name1 }}</a>
