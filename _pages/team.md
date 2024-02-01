@@ -95,14 +95,14 @@ permalink: /team/
   {% if cap.prlink == 0 %}
   <p>{{ "[" }}{{ hqp_number }}{{ '] ' }}{{ cap.project }}{{ ' - ' }}{{ cap.year }}</p>
   {% else %}
-  <p>{{ "[" }}{{ hqp_number }}{{ '] ' }}<a href="{{ cap.prlink }}">{{ cap.project }}</a></p>
+  <p>{{ "[" }}{{ hqp_number }}{{ '] ' }}<a href="{{ cap.prlink }}">{{ cap.project }}</a>{{ ' - ' }}{{ cap.year }}</p>
   {% endif %}  
   <p>
-  {% if cap.link1 == 0 %}
+  {% if cap.link1 == 0 -%}
   {{ cap.name1 }}
-  {% else %}
+  {% else -%}
   <a href="{{ cap.link1 }}">{{ cap.name1 }}</a>
-  {% endif %}
+  {% endif -%}
   {{ ', ' }}&nbsp;
   {{ cap.name2 }}
   {{ ', ' }}&nbsp;
