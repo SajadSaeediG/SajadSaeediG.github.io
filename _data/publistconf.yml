@@ -50,6 +50,62 @@
   type: conf
   year: 2024
 
+
+- title: "DIO: Dataset of 3D Mesh Models of Indoor Objects for Robotics and Computer Vision Applications"
+  image: nimal_2024_dio.gif
+  authors: Nillan Nimal, Wenbin Li, Ronald Clark, Sajad Saeedi
+  venue: arXiv:2402.00000
+  location: arXiv
+  project: https://sites.google.com/view/scanned-object-dataset
+  video: 0
+  code: 0
+  codedown: 0
+  pdf: 0
+  pdflink: https://arxiv.org/abs/
+  thesislink: 0
+  slides: 0
+  note: 0
+  type: conf
+  year: 2024
+
+
+
+- title: "Suspended Magnetometer Survey for Mineral Data Acquisition with Vertical Take-off and Landing Fixed-wing Aircraft"
+  image: efrem_2024_fw.gif
+  authors: Robel Efrem, Alex Coutu, Sajad Saeedi
+  venue: arXiv:2402.00000
+  location: arXiv
+  project: https://sites.google.com/view/mineral-aircraft/vtol-fixed-wing-uav
+  video: 0
+  code: 0
+  codedown: 0
+  pdf: 0
+  pdflink: https://arxiv.org/abs/
+  thesislink: 0
+  slides: 0
+  note: 0
+  type: conf
+  year: 2024
+
+
+- title: "Sensor Integration and Performance Optimizations for Mineral Exploration using Large-scale Hybrid Multirotor UAVs"
+  image: efrem_2024_quad.gif
+  authors: Robel Efrem, Alex Coutu, Sajad Saeedi
+  venue: arXiv:2402.00000
+  location: arXiv
+  project: https://sites.google.com/view/mineral-aircraft/multirotor-uav
+  video: 0
+  code: 0
+  codedown: 0
+  pdf: 0
+  pdflink: https://arxiv.org/abs/
+  thesislink: 0
+  slides: 0
+  note: 0
+  type: conf
+  year: 2024
+
+
 - title: "Parallel Reinforcement Learning Simulation for Visual Quadrotor Navigation"
   image: saunders_icra_2023.jpg
   authors: Jack Saunders, Sajad Saeedi, Wenbin Li
