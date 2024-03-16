@@ -109,14 +109,14 @@
 - title: "DPPE: Dense Pose Estimation in a Plenoxels Environment using Gradient Approximation"
   image: kolios_2024_dppe.gif
   authors: Christopher Kolios, Yeganeh Bahoo, Sajad Saeedi
-  venue: arXiv:xxxx.xxxxx
+  venue: arXiv
   location: arXiv
   project: https://sites.google.com/view/dppe
   video: 0
   code: 0
   codedown: 0
   pdf: 0
-  pdflink: http://arxiv.org/abs/xxxx.xxxxx
+  pdflink: http://arxiv.org/
   thesislink: 0
   slides: 0
   note: 0
@@ -124,17 +124,17 @@
   year: 2024
 
 
-  - title: "Identifying Optimal Launch Sites of High-Altitude Latex-Balloons using Bayesian Optimisation for the Task of Station-Keeping"
+- title: "Identifying Optimal Launch Sites of High-Altitude Latex-Balloons using Bayesian Optimisation for the Task of Station-Keeping"
   image: dummy.png
   authors: Jack Saunders, Sajad Saeedi, Adam Hartshorne, Binbin Xu, Ozgur Simsek, Alan Hunter, Wenbin Li
-  venue: arXiv:xxxx.xxxxx
+  venue: arXiv
   location: arXiv
   project: https://sites.google.com/view/bo-lauch-balloon/
   video: 0
   code: 0
   codedown: 0
   pdf: 0
-  pdflink: http://arxiv.org/abs/xxxx.xxxxx
+  pdflink: http://arxiv.org/
   thesislink: 0
   slides: 0
   note: 0
