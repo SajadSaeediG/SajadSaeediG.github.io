@@ -128,13 +128,13 @@
   image: dummy.png
   authors: Jack Saunders, Sajad Saeedi, Adam Hartshorne, Binbin Xu, Ozgur Simsek, Alan Hunter, Wenbin Li
   venue: arXiv
-  location: arXiv
+  location: arXiv:2403.10784
   project: https://sites.google.com/view/bo-lauch-balloon/
   video: 0
   code: 0
   codedown: 0
   pdf: 0
-  pdflink: http://arxiv.org/
+  pdflink: https://arxiv.org/abs/2403.10784
   thesislink: 0
   slides: 0
   note: 0
