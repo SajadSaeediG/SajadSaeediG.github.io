@@ -142,6 +142,24 @@
   year: 2024
 
 
+- title: "M3RS: Multi-robot, Multi-objective, and Multi-mode Routing and Scheduling"
+  image: mehta_2024_m3rs.gif
+  authors: Ishaan Mehta, Junseo Kim, Sharareh Taghipour, Sajad Saeedi
+  venue: arXiv
+  location: arXiv
+  projet: https://sites.google.com/view/g-robot/m3rs/
+  video: 0
+  code: 0
+  codedown: 0
+  pdf: 0
+  pdflink: https://arxiv.org/
+  thesislink: 0
+  slides: 0
+  note: 0
+  type: conf
+  year: 2024
+
+
 - title: "Parallel Reinforcement Learning Simulation for Visual Quadrotor Navigation"
   image: saunders_icra_2023.jpg
   authors: Jack Saunders, Sajad Saeedi, Wenbin Li
