@@ -1,10 +1,3 @@
-- title: DIO
-  link: https://sites.google.com/view/scanned-object-dataset
-  image: nimal_2024_dio2.gif
-  description: DIO is a dataset of high-quality mesh models and RGB images collected from small and large indoor objects. The models can be imported to Gazebo for robotic experiments. The images can also be used to train radiance field models. 
-  project: https://sites.google.com/view/scanned-object-dataset
-  keywords: Watertight Mesh, Dataset, RGB, Photogrammetry
-
 - title: MR.CAP
   link: https://github.com/h2jaafar/mr.cap
   image: haj_lcss_2024.jpg
@@ -15,21 +8,21 @@
 - title: RL-PGO
   link: https://github.com/Nick-Kou/RL-PGO
   image: kourt_lcss_2023.jpg
-  description: RL-PGO (Reinforcement Learning-based Planar Pose-Graph Optimization) is a deep reinforcement learning-based 2D pose-graph optimization. It shows that the PGO problem can be modelled as a partially observable Markov Decision Process.   
+  description: RL-PGO (Reinforcement Learning-based Planar Pose-Graph Optimization) is a deep reinforcement learning-based 2D pose-graph optimization. It shows that the PGO problem can be modeled as a partially observable Markov Decision Process.   
   project: https://sites.google.com/view/rl-pgo
   keywords: Reinforcement Learning, Pose-Graph Optimization
   
 - title: PRL4AirSim
   link: https://github.com/SaundersJE97/PRL4AirSim
   image: saunders_icra_2023.jpg
-  description: PRL4AirSim (Parallel Reinforcement Learning for AirSim) provide efficient parallel training for Reinforcement Learning-based quadrotor controllers. PRL4AirSim provides a simulation framework, built on AirSim, which provides efficient parallel training.  
+  description: PRL4AirSim (Parallel Reinforcement Learning for AirSim) provides efficient parallel training for Reinforcement Learning-based quadrotor controllers. PRL4AirSim provides a simulation framework, built on AirSim, which provides efficient parallel training.  
   project: https://sites.google.com/view/prl4airsim/home
   keywords: Reinforcement Learning, Quadrotor Controllers
 
 - title: Pareto Frontier Approximation Network (PA-NET) 
   link: https://github.com/ishaanmht/PANet
   image: mehta_case_2022.png
-  description: PA-Net presents a network that generates good approximations of the Pareto front for the bi-objective travelling salesperson problem (BTSP). It is based on the reinforcement learning, and is easily extendable to more objectives.  
+  description: PA-Net presents a network that generates good approximations of the Pareto front for the bi-objective traveling salesperson problem (BTSP). It is based on reinforcement learning and is easily extendable to more objectives.  
   project: https://sites.google.com/view/pa-net-btsp
   keywords: Reinforcement Learning, Travelling Salesperson Problem (TSP)
 
@@ -43,7 +36,7 @@
 - title: PathBench 
   link: https://github.com/perfectly-balanced/PathBench
   image: hsueh_ar_2022.jpg
-  description: PathBench is an open source platform for developing, visualizing, training, testing, and benchmarking of existing and future, classical and learned 2D and 3D path planning algorithms,  while offering support for Robot Operating System (ROS).
+  description: PathBench is an open-source platform for developing, visualizing, training, testing, and benchmarking of existing and future, classical and learned 2D and 3D path planning algorithms,  while offering support for Robot Operating System (ROS).
   project: https://sites.google.com/view/pathbench/
   keywords: Benchmarking, Path Planning
 
@@ -64,6 +57,6 @@
 - title: SLAMBench
   link: https://github.com/pamela-project/slambench
   image: bujanca_icra_2019.png
-  description: SLAMBench is a framework for benchmarking of SLAM algorithms across hardware and software. It offers a platform for a broad spectrum of future research in jointly exploring the design space of algorithmic and implementation-level optimisations.
+  description: SLAMBench is a framework for benchmarking of SLAM algorithms across hardware and software. It offers a platform for a broad spectrum of future research in jointly exploring the design space of algorithmic and implementation-level optimizations.
   project: https://apt.cs.manchester.ac.uk/projects/PAMELA/
   keywords: Benchmarking, Design Space Exploration, SLAM 
