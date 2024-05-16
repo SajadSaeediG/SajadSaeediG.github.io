@@ -1,3 +1,10 @@
+- title: DIO
+  link: https://sites.google.com/view/scanned-object-dataset
+  image: nimal_2024_dio2.gif
+  description: DIO is a dataset of high-quality mesh models and RGB images collected from small and large indoor objects. The models can be imported to Gazebo for robotic experiments. The images can also be used to train radiance field models. 
+  project: https://sites.google.com/view/scanned-object-dataset
+  keywords: Watertight Mesh, Dataset, RGB, Photogrammetry
+
 - title: InteriorNet
   link: https://docs.google.com/forms/d/15sjV-CAud1ENBxK-hJSSrweE7IGc8VXWDbgZiq1trGc
   image: li_bmvc_2019.png
