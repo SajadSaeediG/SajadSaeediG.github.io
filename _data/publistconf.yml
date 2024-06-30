@@ -1,7 +1,24 @@
+- title: "Identifying Optimal Launch Sites of High-Altitude Latex-Balloons using Bayesian Optimisation for the Task of Station-Keeping"
+  image: balloon.png
+  authors: Jack Saunders, Sajad Saeedi, Adam Hartshorne, Binbin Xu, Ozgur Simsek, Alan Hunter, Wenbin Li
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  location: Abu Dhabi, UAE,	October 14–18, 2024
+  project: https://sites.google.com/view/bo-lauch-balloon/
+  video: 0
+  code: 0
+  codedown: 0
+  pdf: 0
+  pdflink: https://arxiv.org/abs/2403.10784
+  thesislink: 0
+  slides: 0
+  note: 0
+  type: conf
+  year: 2024
+
 - title: "Visual Inertial Odometry using Focal Plane Binary Features (BIT-VIO)"
   image: lisondra_icra_2024.jpg
   authors: Matthew Lisondra, Junseo Kim, Riku Murai, Kourosh Zareinia, Sajad Saeedi
-  venue: IEEE International Conference on Robotics and Automation (ICRA) - Accepted
+  venue: IEEE International Conference on Robotics and Automation (ICRA)
   location: Yokohama, Japan, May 13-17, 2024
   project: https://sites.google.com/view/bit-vio/home
   video: 0
@@ -19,7 +36,7 @@
 - title: "Structure from WiFi (SfW): RSSI-based Geometric Mapping of Indoor Environments"
   image: kim_acc_2024.gif
   authors: Junseo Kim, Jill Aghyourli Zalat, Yeganeh Bahoo, Sajad Saeedi
-  venue: American Control Conference (ACC) - Accepted
+  venue: American Control Conference (ACC)
   location: Toronto, Canada, July 10 - 12, 2024
   project: https://sites.google.com/view/structure-from-wifi/home
   video: 0
@@ -117,24 +134,6 @@
   codedown: 0
   pdf: 0
   pdflink: https://arxiv.org/abs/2403.10773
-  thesislink: 0
-  slides: 0
-  note: 0
-  type: conf
-  year: 2024
-
-
-- title: "Identifying Optimal Launch Sites of High-Altitude Latex-Balloons using Bayesian Optimisation for the Task of Station-Keeping"
-  image: dummy.png
-  authors: Jack Saunders, Sajad Saeedi, Adam Hartshorne, Binbin Xu, Ozgur Simsek, Alan Hunter, Wenbin Li
-  venue: arXiv
-  location: arXiv:2403.10784
-  project: https://sites.google.com/view/bo-lauch-balloon/
-  video: 0
-  code: 0
-  codedown: 0
-  pdf: 0
-  pdflink: https://arxiv.org/abs/2403.10784
   thesislink: 0
   slides: 0
   note: 0
