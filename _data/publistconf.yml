@@ -158,6 +158,22 @@
   type: conf
   year: 2024
 
+- title: "Inverse k-visibility for RSSI-based Indoor Geometric Mapping"
+  image: sfw2.png
+  authors: Junseo Kim, Matthew Lisondra, Yeganeh Bahoo, Sajad Saeedi
+  venue: arXiv
+  location: arXiv:2408.07757
+  project: https://sites.google.com/view/structure-from-wifi/home
+  video: 0
+  code: 0
+  codedown: 0
+  pdf: 0
+  pdflink: http://arxiv.org/abs/2408.07757
+  thesislink: 0
+  slides: 0
+  note: 0
+  type: conf
+  year: 2024
 
 - title: "Parallel Reinforcement Learning Simulation for Visual Quadrotor Navigation"
   image: saunders_icra_2023.jpg
