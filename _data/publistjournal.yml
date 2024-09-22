@@ -1,3 +1,18 @@
+- title: "Di-NeRF: Distributed NeRF for Collaborative Learning with Relative Pose Refinement"
+  image: asadi_2024_dinerf.gif
+  authors: Mahboubeh Asadi, Kourosh Zareinia, Sajad Saeedi
+  link:
+    url: https://arxiv.org/abs/2402.01485
+    display: IEEE Robotics and Automation Letters (Accepted)
+  project: https://sites.google.com/view/di-nerf/home
+  video: 0
+  code: 0
+  pdf: 0
+  pdflink: 0
+  type: journal
+  year: 2024
+
+  
 - title: "MR.CAP: Multi-robot Joint Control and Planning for Object Transport"
   image: haj_lcss_2024.jpg
   authors: Hussein Ali Jaafar, Cheng-Hao Kao, Sajad Saeedi
