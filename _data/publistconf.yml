@@ -49,23 +49,7 @@
   note: 0
   type: conf
   year: 2024
-  
-- title: "Di-NeRF: Distributed NeRF for Multi-Robot Collaborative Learning with Unknown Relative Poses"
-  image: asadi_2024_dinerf.gif
-  authors: Mahboubeh Asadi, Kourosh Zareinia, Sajad Saeedi
-  venue: arXiv:2402.01485
-  location: arXiv
-  project: https://sites.google.com/view/di-nerf/home
-  video: 0
-  code: 0
-  codedown: 0
-  pdf: 0
-  pdflink: https://arxiv.org/abs/2402.01485
-  thesislink: 0
-  slides: 0
-  note: 0
-  type: conf
-  year: 2024
+
 
 
 - title: "DIO: Dataset of 3D Mesh Models of Indoor Objects for Robotics and Computer Vision Applications"
