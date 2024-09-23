@@ -159,6 +159,23 @@
   type: conf
   year: 2024
 
+- title: "Morphological Detection and Classification of Microplastics and Nanoplastics Emerged from Consumer Products by Deep Learning"
+  image: SEM_PS.png
+  authors: Hadi Rezvani, Navid Zarrabi, Ishaan Mehta, Christopher Kolios, Hussein Ali Jaafar, Cheng-Hao Kao, Sajad Saeedi, Nariman Yousefi
+  venue: arXiv
+  location: arXiv:http:2409.13688
+  project: https://sites.google.com/view/mp-detection-classification
+  video: 0
+  code: 0
+  codedown: 0
+  pdf: 0
+  pdflink: http://arxiv.org/abs/2409.13688
+  thesislink: 0
+  slides: 0
+  note: 0
+  type: conf
+  year: 2024
+
 - title: "Parallel Reinforcement Learning Simulation for Visual Quadrotor Navigation"
   image: saunders_icra_2023.jpg
   authors: Jack Saunders, Sajad Saeedi, Wenbin Li
