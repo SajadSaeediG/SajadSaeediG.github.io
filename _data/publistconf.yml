@@ -2,6 +2,7 @@
   image: balloon.png
   authors: Jack Saunders, Sajad Saeedi, Adam Hartshorne, Binbin Xu, Ozgur Simsek, Alan Hunter, Wenbin Li
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  venuelink: https://iros2024-abudhabi.org/
   location: Abu Dhabi, UAE,	October 14–18, 2024
   project: https://sites.google.com/view/bo-lauch-balloon/
   video: 0
@@ -19,13 +20,14 @@
   image: lisondra_icra_2024.jpg
   authors: Matthew Lisondra, Junseo Kim, Riku Murai, Kourosh Zareinia, Sajad Saeedi
   venue: IEEE International Conference on Robotics and Automation (ICRA)
+  venuelink: https://2024.ieee-icra.org/ 
   location: Yokohama, Japan, May 13-17, 2024
   project: https://sites.google.com/view/bit-vio/home
   video: 0
   code: 0
   codedown: 0
   pdf: 0
-  pdflink: 0
+  pdflink: https://arxiv.org/abs/2403.09882
   thesislink: 0
   slides: 0
   note: 0
@@ -37,13 +39,14 @@
   image: kim_acc_2024.gif
   authors: Junseo Kim, Jill Aghyourli Zalat, Yeganeh Bahoo, Sajad Saeedi
   venue: American Control Conference (ACC)
+  venuelink: https://acc2024.a2c2.org/
   location: Toronto, Canada, July 10 - 12, 2024
   project: https://sites.google.com/view/structure-from-wifi/home
   video: 0
   code: 0
   codedown: 0
   pdf: 0
-  pdflink: 0
+  pdflink: https://arxiv.org/html/2403.02235v1
   thesislink: 0
   slides: 0
   note: 0
