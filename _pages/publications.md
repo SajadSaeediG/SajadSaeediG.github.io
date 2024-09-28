@@ -74,7 +74,7 @@ permalink: /publications/
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publicon.image }}" class="img-responsive" width="11%" style="float: left" />
 <p>{{ "[" }}{{ pub_number }}{{ "] " }}{{ publicon.title }} <br> 
 <em>{{ publicon.authors }}</em> <br>
-{{ publicon.venue }} <br>
+<strong><a href="{{ publicon.venuelink }}">{{ publicon.venue }}</a></strong> <br>  
 {{ publicon.location }} <br>
 {% if publicon.project != 0 %}
 <button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publicon.project }}'">
