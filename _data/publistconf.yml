@@ -59,6 +59,7 @@
   image: nimal_2024_dio.gif
   authors: Nillan Nimal, Wenbin Li, Ronald Clark, Sajad Saeedi
   venue: arXiv:2402.11836
+  venuelink: http://arxiv.org/abs/2402.11836
   location: arXiv
   project: https://sites.google.com/view/scanned-object-dataset
   video: 0
@@ -78,6 +79,7 @@
   image: efrem_2024_fw.gif
   authors: Robel Efrem, Alex Coutu, Sajad Saeedi
   venue: arXiv:2402.11797
+  venuelink: http://arxiv.org/abs/2402.11797  
   location: arXiv
   project: https://sites.google.com/view/mineral-aircraft/vtol-fixed-wing-uav
   video: 0
@@ -96,6 +98,7 @@
   image: efrem_2024_quad.gif
   authors: Robel Efrem, Alex Coutu, Sajad Saeedi
   venue: arXiv:2402.11810
+  venuelink: http://arxiv.org/abs/2402.11810  
   location: arXiv
   project: https://sites.google.com/view/mineral-aircraft/multirotor-uav
   video: 0
@@ -113,8 +116,9 @@
 - title: "DPPE: Dense Pose Estimation in a Plenoxels Environment using Gradient Approximation"
   image: kolios_2024_dppe.gif
   authors: Christopher Kolios, Yeganeh Bahoo, Sajad Saeedi
-  venue: arXiv
-  location: arXiv:2403.10773
+  venue: arXiv:2403.10773
+  venuelink: https://arxiv.org/abs/2403.10773
+  location: arXiv
   project: https://sites.google.com/view/dppe
   video: 0
   code: 0
@@ -131,8 +135,9 @@
 - title: "M3RS: Multi-robot, Multi-objective, and Multi-mode Routing and Scheduling"
   image: mehta_2024_m3rs.gif
   authors: Ishaan Mehta, Junseo Kim, Sharareh Taghipour, Sajad Saeedi
-  venue: arXiv
-  location: arXiv:2403.16275
+  venue: arXiv:2403.16275
+  venuelink: https://arxiv.org/abs/2403.16275  
+  location: arXiv
   project: https://sites.google.com/view/g-robot/m3rs/
   video: 0
   code: 0
@@ -148,8 +153,9 @@
 - title: "Inverse k-visibility for RSSI-based Indoor Geometric Mapping"
   image: sfw2.png
   authors: Junseo Kim, Matthew Lisondra, Yeganeh Bahoo, Sajad Saeedi
-  venue: arXiv
-  location: arXiv:2408.07757
+  venue: arXiv:2408.07757
+  venuelink: http://arxiv.org/abs/2408.07757    
+  location: arXiv
   project: https://sites.google.com/view/structure-from-wifi/home
   video: 0
   code: 0
@@ -165,8 +171,9 @@
 - title: "Morphological Detection and Classification of Microplastics and Nanoplastics Emerged from Consumer Products by Deep Learning"
   image: SEM_PS.png
   authors: Hadi Rezvani, Navid Zarrabi, Ishaan Mehta, Christopher Kolios, Hussein Ali Jaafar, Cheng-Hao Kao, Sajad Saeedi, Nariman Yousefi
-  venue: arXiv
-  location: arXiv:http:2409.13688
+  venue: arXiv:2409.13688
+  venuelink: http://arxiv.org/abs/2409.13688      
+  location: arXiv
   project: https://sites.google.com/view/mp-detection-classification
   video: 0
   code: 0
@@ -183,6 +190,7 @@
   image: saunders_icra_2023.jpg
   authors: Jack Saunders, Sajad Saeedi, Wenbin Li
   venue: IEEE/RSJ International Conference on Robotics and Automation (ICRA)
+  venuelink: https://www.icra2023.org/
   location: London, UK, May 29 - June 2, 2023
   project: https://sites.google.com/view/prl4airsim/home
   video: 0
@@ -200,6 +208,7 @@
   image: mehta_case_2022.png
   authors: Ishaan Mehta, Sharareh Taghipour, Sajad Saeedi
   venue: IEEE International Conference on Automation Science and Engineering (CASE)
+  venuelink: http://case2022.org/
   location: Mexico City, Mexico, August 20-24, 2022
   project: https://sites.google.com/view/pa-net-btsp
   video: 0
@@ -218,6 +227,7 @@
   image: abdulhafiz_case_2022.png
   authors: Ibrahim Abdulhafiz, Ali A Nazari, Taha Abbasi-Hashemi, Amir Jalali, Kourosh Zareinia, Sajad Saeedi, Farrokh Janabi-Sharifi
   venue: IEEE International Conference on Automation Science and Engineering (CASE)
+  venuelink: http://case2022.org/  
   location: Mexico City, Mexico, August 20-24, 2022
   project: 0
   video: 0
@@ -236,6 +246,7 @@
   image: mehta_ismr_2022.png
   authors: Ishaan Mehta, Hao-Ya Hsueh, Nikolaos Kourtzanidis, Sajad Saeedi
   venue: IEEE International Symposium on Medical Robotics (ISMR)
+  venuelink: https://ismr.gatech.edu/
   location: Georgia, USA, April 13-15, 2022
   project: https://sites.google.com/view/g-robot/home
   video: 0
@@ -254,6 +265,7 @@
   image: toma_crv_2021_pb.jpg
   authors: Alexandru-Iosif Toma, Hao-Ya Hsueh, Hussein Ali Jaafar, Riku Murai, Paul H.J. Kelly, Sajad Saeedi
   venue: 18th Conference on Robots and Vision (CRV)
+  venuelink: https://www.computerrobotvision.org/2021/
   location: Burnaby, BC, Canada, May 26-28, 2021
   project: https://sites.google.com/view/pathbench/
   video: 0
@@ -272,6 +284,7 @@
   image: toma_crv_2021_wpn.jpg
   authors: Alexandru-Iosif Toma, Hussein Ali Jaafar, Hao-Ya Hsueh, Stephen James, Daniel Lenton, Ronald Clark, Sajad Saeedi
   venue: 18th Conference on Robots and Vision (CRV)
+  venuelink: https://www.computerrobotvision.org/2021/  
   location: Burnaby, BC, Canada, May 26-28, 2021
   project: https://sites.google.com/view/waypoint-planning-networks
   video: 0
@@ -290,6 +303,7 @@
   image: stow_lcpc_2020.jpg
   authors: Edward Stow, Riku Murai, Sajad Saeedi, and Paul HJ Kelly
   venue: Languages and Compilers for Parallel Computing (LCPC)
+  venuelink: https://lcpc2020.cs.stonybrook.edu/
   location: Stony Brook, NY, USA, Oct 14-16, 2020
   project: 0
   video: 0
@@ -308,6 +322,7 @@
   image: murai_iros_2020.png
   authors: Riku Murai, Sajad Saeedi, and Paul HJ Kelly
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  venuelink: https://www.ieee-ras.org/component/rseventspro/event/1714-iros-2020-international-conference-on-intelligent-robots-and-systems
   location: Las Vegas, NV, USA, Oct 25-29, 2020
   project: https://rmurai0610.github.io/projects/BIT-VO/
   video: https://www.youtube.com/watch?v=tnPfbJaPrSQ&feature=youtu.be
@@ -326,6 +341,7 @@
   image: wong_arxive_2020.png
   authors: Matthew Z Wong, Benoit Guillard, Riku Murai, Sajad Saeedi, and Paul HJ Kelly
   venue: arXiv:2006.01765
+  venuelink: https://arxiv.org/abs/2006.01765
   location: arXiv
   project: 0
   video: 0
@@ -344,6 +360,7 @@
   image: saeedi_icra_2019.png
   authors: Sajad Saeedi, Eduardo DC Carvalho, Wenbin Li, Dimos Tzoumanikas, Stefan Leutenegger, Paul HJ Kelly, Andrew J Davison
   venue: IEEE/RSJ International Conference on Robotics and Automation (ICRA)​
+  venuelink: https://ieeexplore.ieee.org/xpl/conhome/8780387/proceeding
   location: Montreal, Canada, May 20-24, 2019
   project: http://vinben.github.io/lmdata
   video: https://youtu.be/XjJJ73laaqk
@@ -362,6 +379,7 @@
   image: bujanca_icra_2019.png
   authors: M. Bujanca, P. Gafton, S. Saeedi, A. Nisbet, B. Bodin, M. F. P. O’Boyle, A. J. Davison, P. H. J. Kelly, G. Riley, B. Lennox, M. Lujan, S. Furber
   venue: IEEE/RSJ International Conference on Robotics and Automation (ICRA)​
+  venuelink: https://ieeexplore.ieee.org/xpl/conhome/8780387/proceeding  
   location: Montreal, Canada, May 20-24, 2019
   project: 0
   video: 0
@@ -380,6 +398,7 @@
   image: debrunner_hipeac_2019_tracking.png
   authors: Thomas Debrunner, Sajad Saeedi, Laurie Bose, Andrew J Davison, Paul H J Kelly
   venue: High Performance and Embedded Architecture and Compilation (HiPEAC), Workshop on Programmability and Architectures for Heterogeneous Multicores (MULTIPROG)
+  venuelink: https://research.ac.upc.edu/multiprog/
   location: Valencia, Spain, January 21-23, 2019
   project: 0
   video: https://www.youtube.com/watch?v=GADrV-27hD8&feature=youtu.be
@@ -398,6 +417,7 @@
   image: debrunner_hipeac_2019_auke.png
   authors: Thomas Debrunner, Sajad Saeedi, Paul H J Kelly
   venue: High Performance and Embedded Architecture and Compilation (HiPEAC)
+  venuelink: https://research.ac.upc.edu/multiprog/  
   location: Valencia, Spain, January 21-23, 2019
   project: 0
   video: https://www.youtube.com/watch?v=NILZILnEevA&feature=youtu.be
