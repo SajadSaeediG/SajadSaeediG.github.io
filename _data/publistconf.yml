@@ -436,6 +436,7 @@
   authors: Wenbin Li, Sajad Saeedi, John McCormac, Ronald Clark, Dimos Tzoumanikas, Qing Ye, Yuzhong Huang, Rui Tang, Stefan Leutenegger
   image: li_bmvc_2019.png
   venue: British Machine Vision Conference (BMVC)
+  venuelink: http://bmvc2018.org/
   location: Newcastle upon Tyne, UK, September 3 - 25, 2018
   project: http://interiornetdataset.github.io/
   video: 0
@@ -454,6 +455,7 @@
   image: bodin_icra_2018.png
   authors: Bruno Bodin, Harry Wagstaff, Sajad Saeedi, Luigi Nardi, Emanuele Vespa, John Mawer, Andy Nisbet, Mikel Lujan, Steve Furber, Andrew J. Davison, Paul Kelly, and Michael F. P. O'Boyle
   venue: IEEE International Conference on Robotics and Automation (ICRA)
+  venuelink: https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/2018/ICRA2018/icra2018.org/index.html
   location: Brisbane, Australia, May 21 -  25, 2018
   project: 0
   video: 0
@@ -472,6 +474,7 @@
   image: saeedi_icra_2017.png
   authors: Sajad Saeedi, Luigi Nardi, Edward Johns, Bruno Bodin, Paul H J Kelly, Andrew J Davison
   venue: IEEE International Conference on Robotics and Automation (ICRA)
+  venuelink: https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/2017/www.icra2017.org/index.html
   location: Singapore, May 29 - June 3, 2017
   project: 0
   video: https://www.youtube.com/watch?v=g1kXE_1K7u8
@@ -544,6 +547,7 @@
   image: saeedi_iros_2015.jpg
   authors: Sajad Saeedi, Michael Trentini, Howard Li
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  venuelink: https://iros2015.informatik.uni-hamburg.de/index.html
   location: Hamburg, Germany, Sep 28- Oct 2, pp. 3421 - 3426, 2015
   project: 0
   video: 0
@@ -598,6 +602,7 @@
   image: saeedi_iros_2012_ht.png
   authors: Sajad Saeedi, Liam Paull, Michael Trentini, Mae Seto, Howard Li
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  venuelink: https://ewh.ieee.org/soc/ras/conf/financiallycosponsored/IROS/2012/www.iros2012.org/site/node/2.html
   location: Vilamoura, Algarve, Portugal, Oct 7-12, pp. 4683-4688, 2012
   project: 0
   video: 0
@@ -616,6 +621,7 @@
   image: saeedi_iros_2012_pgvd.jpg
   authors: Sajad Saeedi, Liam Paull, Michael Trentini, Mae Seto, Howard Li
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  venuelink: https://ewh.ieee.org/soc/ras/conf/financiallycosponsored/IROS/2012/www.iros2012.org/site/node/2.html
   location: Vilamoura, Algarve, Portugal, Oct 7-12, pp. 4419-4424, 2012
   project: 0
   video: 0
@@ -634,6 +640,7 @@
   image: Paull_iros_2012_sensor.jpg
   authors: Liam Paull, Sajad Saeedi, Mae Seto, Howard Li
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  venuelink: https://ewh.ieee.org/soc/ras/conf/financiallycosponsored/IROS/2012/www.iros2012.org/site/node/2.html
   location: Vilamoura, Algarve, Portugal, Oct 7-12, pp. 2875-2880, 2012
   project: 0
   video: 0
@@ -651,6 +658,7 @@
   image: Paull_iros_2012_ont.jpg
   authors: Liam Paull, Gaetan Severac, Guilherme V. Rao, Julian M. Angel, Harold Boley, Maki K. Habib, Bao Nguyen, Veera R. S. Kumar, Sajad Saeedi, Ricardo Sanz, Mae Seto, Aleksandar Stefanovski, Michael Trentini, Howard Li
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  venuelink: https://ewh.ieee.org/soc/ras/conf/financiallycosponsored/IROS/2012/www.iros2012.org/site/node/2.html
   location: Vilamoura, Algarve, Portugal, Oct 7-12, pp. 2875-2880, 2012
   project: 0
   video: 0
@@ -685,6 +693,7 @@
   image: saeedi_iros_2011_nn.jpg
   authors: Sajad Saeedi, Liam Paull, Michael Trentini, Howard Li
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  venuelink: https://ewh.ieee.org/soc/ras/conf/financiallycosponsored/IROS/2011/IROS/www.iros2011.org/index.html
   location: San Francisco, CA, USA, Sept 25-30, pp. 880-885, 2011
   project: 0
   video: 0
@@ -702,6 +711,7 @@
   image: saeedi_iros_2011_mrslam.jpg
   authors: Sajad Saeedi, Liam Paull, Michael Trentini, Howard Li
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  venuelink: https://ewh.ieee.org/soc/ras/conf/financiallycosponsored/IROS/2011/IROS/www.iros2011.org/index.html  
   location: San Francisco, CA, USA, Sept 25-30, pp. 853-888, 2011
   project: 0
   video: 0
@@ -719,6 +729,7 @@
   image: paull_ais_2011.png
   authors: Liam Paull, Sajad Saeedi, Mae Seto, Howard Li
   venue: International Conference on Autonomous and Intelligent Systems (AIS)
+  venuelink: https://link.springer.com/book/10.1007/978-3-642-21538-4
   location: Burnaby, BC, Canada, June 22-24, pp. 41-50, 2011
   project: 0
   video: 0
@@ -736,6 +747,7 @@
   image: paull_case_2011.png
   authors: Liam Paull, Sajad Saeedi, Howard Li, Vincent Myers
   venue: IEEE Conference on Automation Science and Engineering (CASE)
+  venuelink: https://ewh.ieee.org/soc/ras/conf/fullysponsored/case/2010/case2010.org/index.html
   location: Toronto, ON, Canada, Aug 21-24, pp. 835-840, 2010
   project: 0
   video: 0
@@ -753,6 +765,7 @@
   image: saeedi_acc_2009.png
   authors: Sajad Saeedi, Mohammad Beheshti
   venue: American Control Conference (ACC)
+  venuelink: https://acc2009.a2c2.org/
   location: St. Louis, MO, USA, June 10-12, pp. 774-777, 2009
   project: 0
   video: 0
@@ -770,6 +783,7 @@
   image: saeedi_caa_2005.png
   authors: Sajad Saeedi, Mohammad Beheshti, Mehdi Monemi
   venue: IEEE Conference on Control Applications (CCA)
+  venuelink: https://ieeecss.org/event/conference-control-applications-4
   location: Toronto, ON, Canada, Aug 28-30, pp. 727-730, 2005
   project: 0
   video: 0
