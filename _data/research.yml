@@ -1,10 +1,12 @@
 - title: Simultaneous Localization and Mapping (SLAM)
   image: li_bmvc_2019.png
   description: ​In the computer vision and robotics community, SLAM is a well-known problem. Using SLAM, a sensor, such as a camera, can localize itself in an unknown environment by incrementally building a map and at the same time localizing itself within the map. Various methods have been proposed to solve the SLAM problem, but robustness and real-time performance are still challenging. Various research objectives are being pursued in industry and academia, including developing systems with 1) efficient map representation; 2) power and energy efficiency; 3) speed and runtime improvement; 4) improved results in terms of accuracy and robustness; 5) adopting to various hardware; and 5) scaling up to many devices.
+  url: 0
 
 - title: Multiple-robot SLAM
   image: saeedi_jfr_2016.jpg
   description: While single-robot SLAM is challenging enough, moving to a platform of multiple robots adds another layer of challenge. In a multiple-robot environment, robots must incorporate all available data to construct a consistent global map, meanwhile, localize themselves within the global map. Multiple-robot SLAM has benefits such as performing missions faster and being robust to the failure of any one of the robots; however, these benefits come at the price of having a complex system that requires coordination and cooperation of the robots. There are many open problems in multiple-robot SLAM, such as dealing with communication delays and blackouts, performing the computation in a distributed manner, and designing algorithms to work with heterogeneous sensing modalities.
+  url: 0
 
 - title: ​Focal-plane Sensor-processor Arrays (FPSP)
   image: debrunner_taco_2019.png
@@ -14,15 +16,19 @@
 - title: Autonomous Mobile Robotics
   image: mehta_ismr_2022.png
   description: Mobile robots have numerous applications such as vacuuming, moving loads, surveying, and patrolling. The ones with manipulators are further able to interact with the environment. A good example is the mobile manipulators that can disinfect sensitive environments such as hospitals, schools, and long-term care homes. Such robots are composed of a high-degrees-of-freedom manipulator with end-effectors that are equipped with chemical or ultraviolet disinfectants. Mobile manipulators need to have a comprehensive perception of the environment to interact with the objects. Therefore, SLAM is the core component of such robots. Additionally, controlling the manipulators to avoid collisions with the objects is another important research area in mobile manipulators.
+  url: 0
 
 - title: Aerial Robotics
   image: saeedi_ijius_2015.jpg
   description: In recent years, researchers have intensively worked on the development of flying machines capable of performing complicated missions with little human supervision. These vehicles are commonly known as unmanned aerial vehicles (UAVs). UAVs have no crew onboard and are flown either remotely by a pilot at a ground control station or autonomously through a pre-planned program. Rotorcraft, vehicles with multiple rotors, have attracted more attention recently, with quadrotors being the most popular. Multiple-rotor vehicles, also known as flying robots, have outstanding maneuverability. Furthermore, they are less complex compared with other rotorcraft, such as helicopters. The previously mentioned advantages have made quadrotors more suitable for civil and military applications. 
+  url: 0
 
 - title: Marine Robotics
   image: saeedi_ccece_2015.jpg
   description: Autonomous underwater vehicles (AUVs) are now being used for a variety of tasks, including oceanographic surveys, exploration, de-mining, detection and classification of microplastics, monitoring of marine mammals, and bathymetric data collection in marine and riverine environments. Accurate localization and navigation are essential to ensure the accuracy of the gathered data for these applications. Canada has many small and large lakes and possesses the world's longest coastal lines, measuring 243,042 km, including the mainland coast and the coasts of offshore islands. These resources provide Canadian researchers with outstanding opportunities to develop and pioneer marine robotics.
+  url: 0
 
 - title: Control Systems 
   image: nagaty_icuas_2012.png
   description: Control systems are being used in a vast variety of applications ranging from traffic engineering in communication networks to motion control in robotic systems. To apply advanced control algorithms, these systems need to be modeled mathematically or by machine learning/artificial intelligence systems. Fast, robust, and multi-agent distributed control algorithms are being actively researched with application in heterogeneous robotic systems.
+  url: 0
