@@ -9,12 +9,12 @@ permalink: /research/fpsp/
 ## Focal-plane Sensor-processor Arrays (FPSP)
 
 <p></p>
-<strong class="custom-highlight">{{ What is Focal-plane Sensor-processor Arrays (FPSP)?}}</strong>  
+<strong class="custom-highlight">What is Focal-plane Sensor-processor Arrays (FPSP)?</strong>  
 #### A traditional camera consists of a 2D array of light-sensitive pixels. In contrast, FPSPs integrate a processor within each pixel on the same chip. FPSPs are also referred to as processor-per-pixel arrays (PPA) or cellular-processor arrays (CPA). 
 
 <p></p>
-
-####  
+<strong class="custom-highlight">Are there any existing hardware implementations of FPSPs?</strong>  
+#### One notable example is SCAMP5, an FPSP designed and developed by Dr. Piotr Dudek and his team at the University of Manchester. Below are some key applications and advantages of Focal-Plane Sensor-Processors (FPSPs), demonstrated using the SCAMP5 device.  
 
 
 {%- assign pub_number = 0 -%}
