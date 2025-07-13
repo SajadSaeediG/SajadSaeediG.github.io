@@ -125,7 +125,6 @@ SLIDES
 
 {%- endif %}    
 {% endfor %}
-{%- endfor %}
 
 \
 &nbsp;
