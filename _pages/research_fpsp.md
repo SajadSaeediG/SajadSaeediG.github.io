@@ -27,6 +27,21 @@ permalink: /research/fpsp/
 </ul>
 
 
+
+<h4 class="custom-highlight">What are the challenges of working with FPSPs?</h4>
+
+<p>While FPSPs offer powerful advantages, they also present unique challenges that researchers and engineers must overcome:</p>
+
+<ul>
+  <li><strong>Limited On-Chip Memory:</strong> Each pixel has minimal storage, which restricts the complexity of algorithms that can be executed locally.</li>
+  <li><strong>Programming Complexity:</strong> Developing code for massively parallel pixel arrays requires specialized knowledge and tools not common in traditional image processing workflows.</li>
+  <li><strong>Hardware Constraints:</strong> Most FPSPs operate with low-resolution grayscale output and limited dynamic range compared to conventional image sensors.</li>
+  <li><strong>Lack of Standardization:</strong> Few commercial platforms are available, and tools are often custom or experimental, making development and deployment harder.</li>
+  <li><strong>Data Extraction Bottlenecks:</strong> Although local processing reduces bandwidth, extracting intermediate data from the chip can still be challenging and slow.</li>
+  <li><strong>Debugging and Visualization:</strong> The parallel nature of computation makes it difficult to monitor or debug pixel-level operations in real-time.</li>
+</ul>
+
+
 <p></p>
 <h4 class="custom-highlight">Are there any existing hardware implementations of FPSPs?</h4>  
 <p>One notable example is <a href="https://personalpages.manchester.ac.uk/staff/p.dudek/scamp/default.htm" target="_blank">SCAMP5</a>, an FPSP designed and developed by Dr. Piotr Dudek and his team at the University of Manchester. Below are some key applications and advantages of Focal-Plane Sensor-Processors (FPSPs), demonstrated using the SCAMP5 device.</p>  
