@@ -14,7 +14,7 @@ permalink: /research/fpsp/
 
 <p></p>
 
-#### Below, you will see some of the applications and advantages of FPSPs. 
+####  
 
 
 {%- assign pub_number = 0 -%}
