@@ -28,6 +28,7 @@ permalink: /research/fpsp/
 </h4>
 
 {% for publi in site.data.publistjournal %}
+{% if publi.topic == fpsp -%}
 {% if publi.year == year -%}
 {% assign pub_number = pub_number | plus: 1 %}
 
@@ -68,6 +69,7 @@ permalink: /research/fpsp/
 </div>
 </div>
 
+{%- endif %}
 {%- endif %}
 {% endfor %}
 
