@@ -13,7 +13,7 @@ permalink: /research/fpsp/
 <p>A traditional camera consists of a 2D array of light-sensitive pixels. In contrast, FPSPs integrate a processor within each pixel on the same chip. FPSPs are also referred to as processor-per-pixel arrays (PPA) or cellular-processor arrays (CPA).</p> 
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/debrunner_taco_2019.png" 
      class="img-responsive" 
-     style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
+     style="display: block; margin-left: auto; margin-right: auto; width: 25%;" />
 
 <h4 class="custom-highlight">Why use FPSPs instead of traditional image sensors?</h4>
 
@@ -83,7 +83,9 @@ permalink: /research/fpsp/
 <p></p>
 <h4 class="custom-highlight">Are there any existing hardware implementations of FPSPs?</h4>  
 <p>One notable example is <a href="https://personalpages.manchester.ac.uk/staff/p.dudek/scamp/default.htm" target="_blank">SCAMP5</a>, an FPSP designed and developed by Dr. Piotr Dudek and his team at the University of Manchester. Below are some key applications and advantages of Focal-Plane Sensor-Processors (FPSPs), demonstrated using the SCAMP5 device.</p>  
-
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/debrunner_hipeac_2019_auke.png.png" 
+     class="img-responsive" 
+     style="display: block; margin-left: auto; margin-right: auto; width: 25%;" />
   
 
 {%- assign pub_number = 0 -%}
