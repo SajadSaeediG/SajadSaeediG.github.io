@@ -11,7 +11,7 @@
   pdflink: https://arxiv.org/abs/2402.01485
   type: journal
   year: 2024
-  topic: mrs
+  topic: "mrs"
 
   
 - title: "MR.CAP: Multi-robot Joint Control and Planning for Object Transport"
@@ -27,7 +27,7 @@
   pdflink: https://arxiv.org/abs/2401.11634
   type: journal
   year: 2024
-  topic: mrs
+  topic: "mrs"
 
 - title: "A Robot Web for Distributed Many-Device Localisation"
   image: murai_ieee_2023.jpg
@@ -42,7 +42,7 @@
   pdflink: https://arxiv.org/abs/2202.03314
   type: journal
   year: 2024
-  topic: mrs
+  topic: "mrs"
 
     
 - title: "Autonomous aerial robotics for package delivery: A technical review"
@@ -58,7 +58,7 @@
   pdflink: https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.22231
   type: journal
   year: 2024
-  topic: aerial
+  topic: "aerial"
 
 - title: "RL-PGO: Reinforcement Learning-based Planar Pose-Graph Optimization"
   image: kourt_lcss_2023.jpg
@@ -73,7 +73,7 @@
   pdflink: https://arxiv.org/abs/2202.13221
   type: journal
   year: 2023
-  topic: slam
+  topic: "slam"
   
 - title: "High-frame-rate Homography and Visual Odometry by Tracking Binary Features from the Focal Plane"
   image: murai_ar_2023.jpg
@@ -88,7 +88,7 @@
   pdflink: https://link.springer.com/content/pdf/10.1007/s10514-023-10122-8.pdf?pdf=button
   type: journal
   year: 2023
-  topic: fpsp
+  topic: "fpsp"
 
 - title: "UVC Disinfection Robots: A Review"
   image: mehta_ras_2023.jpg
@@ -103,7 +103,7 @@
   pdflink: 0
   type: journal
   year: 2023
-  topic: app
+  topic: "app"
 
 - title: "Compiling CNNs with Cain: focal-plane processing for robot navigation"
   image: stow_ar_2022.jpg
@@ -118,7 +118,7 @@
   pdflink: https://link.springer.com/content/pdf/10.1007/s10514-022-10053-w.pdf?pdf=button
   type: journal
   year: 2022
-  topic: fpsp
+  topic: "fpsp"
 
 
 - title: "Systematic Comparison of Path Planning Algorithms using PathBench"
@@ -134,7 +134,7 @@
   pdflink: https://arxiv.org/abs/2203.03092
   type: journal
   year: 2022
-  topic: planning
+  topic: "planning"
 
 - title: "AUKE: Automatic Kernel Code Generation for an Analogue SIMD Focal-Plane Sensor-Processor Array"
   image: debrunner_taco_2019.png
@@ -149,7 +149,7 @@
   pdflink: https://dl.acm.org/doi/pdf/10.1145/3291055
   type: journal
   year: 2019
-  topic: fpsp
+  topic: "fpsp"
 
 - title: "Navigating the Landscape for Real-time Localisation and Mapping for Robotics Virtual and Augmented Reality"
   image: saeedi_ieeep_2018.png
@@ -164,7 +164,7 @@
   pdflink: 0
   type: journal
   year: 2018
-  topic: fpsp
+  topic: "fpsp"
 
 - title: "3D Mapping for Autonomous Quadrotor Aircraft"
   image: saeedi_us_2016.png
@@ -179,7 +179,7 @@
   pdflink: https://www.worldscientific.com/doi/reader/10.1142/S2301385017400064
   type: journal
   year: 2017
-  topic: aerial  
+  topic: "aerial"  
 
 - title: "Multiple-robot Simultaneous Localization and Mapping - A Review"
   image: saeedi_jfr_2016.jpg
@@ -194,7 +194,7 @@
   pdflink: 0
   type: journal
   year: 2016
-  topic: mrs  
+  topic: "mrs"  
 
 - title: "Requirements for building an ontology for autonomous robots"
   image: bayat_ir_2016.png
@@ -209,7 +209,7 @@
   pdflink: 0
   type: journal
   year: 2016
-  topic: app  
+  topic: "app"  
 
 - title: "The COBRA Fixed-wing Georeferenced Imagery Dataset"
   image: saeedi_ijius_2015.jpg
@@ -224,7 +224,7 @@
   pdflink: 0
   type: journal
   year: 2015
-  topic: aerial  
+  topic: "aerial"  
 
 - title: "Perception and Navigation for an Autonomous Quadrotor in GPS-denied Environments"
   image: saeedi_acta_2015.jpg
@@ -239,7 +239,7 @@
   pdflink: 0
   type: journal
   year: 2015
-  topic: aerial
+  topic: "aerial"
 
 - title: "Occupancy Grid Map Merging for Multiple-robot Simultaneous Localization and Mapping"
   image: saeedi_acta_2015.png
@@ -254,7 +254,7 @@
   pdflink: 0
   type: journal
   year: 2015
-  topic: mrs  
+  topic: "mrs"  
 
 - title: "Map Merging for Multiple Robots Using Hough Peak Matching"
   image: saeedi_ras_2014.jpg
@@ -269,7 +269,7 @@
   pdflink: 0
   type: journal
   year: 2014
-  topic: mrs
+  topic: "mrs"
 
 - title: "Group Mapping: A Topological Approach to Map Merging for Multiple Robots"
   image: saeedi_ram_2014.png
@@ -284,7 +284,7 @@
   pdflink: 0
   type: journal
   year: 2014
-  topic: mrs  
+  topic: "mrs"  
 
 - title: "AUV Navigation and Localization - A Review"
   image: paull_joe_2014.jpg
@@ -299,7 +299,7 @@
   pdflink: 0
   type: journal
   year: 2014
-  topic: marine  
+  topic: "marine"  
 
 - title: "Control and Navigation Framework for Quadrotor Helicopters"
   image: nagaty_jirs_2013.jpg
@@ -314,7 +314,7 @@
   pdflink: 0
   type: journal
   year: 2013
-  topic: aerial
+  topic: "aerial"
   
 - title: "Sensor-Driven Online Coverage Planning for Autonomous Underwater Vehicles"
   image: paull_tmech_2013.png
@@ -329,7 +329,7 @@
   pdflink: 0
   type: journal
   year: 2013
-  topic: marine  
+  topic: "marine"  
   
 - title: "Neural Network-based Multiple-robot Simultaneous Localization and Mapping"
   image: saeedi_ieeenn_2011.jpg
@@ -344,7 +344,7 @@
   pdflink: 0
   type: journal
   year: 2012
-  topic: mrs
+  topic: "mrs"
   
 - title: "Robust Window-Based Active Queue Management Based on H-infinity Control"
   image: monemi_cca_2006.png
@@ -359,4 +359,4 @@
   pdflink: 0
   type: journal
   year: 2006
-  topic: control
+  topic: "control"
