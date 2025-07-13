@@ -40,7 +40,7 @@ permalink: /research/fpsp/
 
 <p class="custom-highlight">{{  }}</p>
 <p class="custom-highlight">{{  }}</p>
-<p class="custom-highlight">{{ publi.highlight }}</p>
+<strong><a class="custom-highlight">{{ publi.highlight }}</a></strong>
 <div class="row">
 <div class="col-sm-11 clearfix">
  <div class="well well-sm">
