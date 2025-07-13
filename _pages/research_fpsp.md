@@ -14,12 +14,22 @@ permalink: /research/fpsp/
 
 #### Below, you will see some of the applications and advantages of FPSPs. 
    
+{%- assign pub_number = 0 -%}
+{%- assign lower_limit_yr = 2015 -%}
+{%- assign upper_limit_yr = 2024 -%}
 
-{%- assign topic = fpsp -%}
+{% for year in (lower_limit_yr..upper_limit_yr) reversed %}
+
+{% if 2008 == year or 2007 == year -%}
+{% continue %}
+{% endif %}
+<h4  style="color:  #0000FF;">
+  {{ year }}
+</h4>
 
 {% for publi in site.data.publistjournal %}
-{% if publi.topic == topic -%}
-
+{% if publi.year == year -%}
+{% assign pub_number = pub_number | plus: 1 %}
 
 <div class="row">
 <div class="col-sm-11 clearfix">
@@ -62,7 +72,8 @@ permalink: /research/fpsp/
 {% endfor %}
 
 {% for publicon in site.data.publistconf %}
-{% if publicon.topic == topic -%}
+{% if publicon.year == year -%}
+{% assign pub_number = pub_number | plus: 1 %}
 
 <div class="row">
 <div class="col-sm-11 clearfix">
@@ -125,6 +136,7 @@ SLIDES
 
 {%- endif %}    
 {% endfor %}
+{%- endfor %}
 
 \
 &nbsp;
