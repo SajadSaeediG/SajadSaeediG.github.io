@@ -77,7 +77,7 @@ permalink: /research/fpsp/
       <li><strong>Event Cameras:</strong> Best for high-speed motion detection, low-light conditions, and sparse data processing.</li>
     </ul>
   </li>
-
+<ul>
 
 
 <p></p>
