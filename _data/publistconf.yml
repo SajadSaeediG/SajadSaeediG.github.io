@@ -15,7 +15,7 @@
   note: 0
   type: conf
   year: 2024
-  topic: aerial  
+  topic: "aerial"
 
 - title: "Visual Inertial Odometry using Focal Plane Binary Features (BIT-VIO)"
   image: lisondra_icra_2024.jpg
@@ -34,7 +34,7 @@
   note: 0
   type: conf
   year: 2024
-  topic: fpsp
+  topic: "fpsp"
  
 - title: "Structure from WiFi (SfW): RSSI-based Geometric Mapping of Indoor Environments"
   image: kim_acc_2024.gif
@@ -53,7 +53,7 @@
   note: 0
   type: conf
   year: 2024
-  topic: slam
+  topic: "slam"
 
 
 - title: "DIO: Dataset of 3D Mesh Models of Indoor Objects for Robotics and Computer Vision Applications"
@@ -73,7 +73,7 @@
   note: 0
   type: conf
   year: 2024
-  topic: dataset
+  topic: "dataset"
 
 
 - title: "Suspended Magnetometer Survey for Mineral Data Acquisition with Vertical Take-off and Landing Fixed-wing Aircraft"
@@ -93,7 +93,7 @@
   note: 0
   type: conf
   year: 2024
-  topic: aerial
+  topic: "aerial"
 
 - title: "Sensor Integration and Performance Optimizations for Mineral Exploration using Large-scale Hybrid Multirotor UAVs"
   image: efrem_2024_quad.gif
@@ -112,7 +112,7 @@
   note: 0
   type: conf
   year: 2024
-  topic: aerial
+  topic: "aerial"
 
 - title: "DPPE: Dense Pose Estimation in a Plenoxels Environment using Gradient Approximation"
   image: kolios_2024_dppe.gif
@@ -131,7 +131,7 @@
   note: 0
   type: conf
   year: 2024
-  topic: slam
+  topic: "slam"
 
 - title: "M3RS: Multi-robot, Multi-objective, and Multi-mode Routing and Scheduling"
   image: mehta_2024_m3rs.gif
@@ -150,7 +150,7 @@
   note: 0
   type: conf
   year: 2024
-  topic: mrs
+  topic: "mrs"
 
 - title: "Inverse k-visibility for RSSI-based Indoor Geometric Mapping"
   image: sfw2.png
@@ -169,7 +169,7 @@
   note: 0
   type: conf
   year: 2024
-  topic: slam
+  topic: "slam"
   
 - title: "Morphological Detection and Classification of Microplastics and Nanoplastics Emerged from Consumer Products by Deep Learning"
   image: SEM_PS.png
@@ -188,7 +188,7 @@
   note: 0
   type: conf
   year: 2024
-  topic: marine
+  topic: "marine"
   
 - title: "Raspberry PhenoSet: A Phenology-based Dataset for Automated Growth Detection and Yield Estimation"
   image: raspberry2.JPG
@@ -207,7 +207,7 @@
   note: 0
   type: conf
   year: 2024
-  topic: agri
+  topic: "agri"
 
 - title: "Parallel Reinforcement Learning Simulation for Visual Quadrotor Navigation"
   image: saunders_icra_2023.jpg
@@ -226,7 +226,7 @@
   note: 0
   type: conf
   year: 2023
-  topic: aerial
+  topic: "aerial"
 
 - title: "Pareto Frontier Approximation Network (PA-Net) to Solve Bi-objective TSP"
   image: mehta_case_2022.png
@@ -245,7 +245,7 @@
   note: 0
   type: conf
   year: 2022
-  topic: mrs
+  topic: "mrs"
 
 
 - title: "Deep Direct Visual Servoing of Tendon-Driven Continuum Robots"
@@ -265,7 +265,7 @@
   note: 0
   type: conf
   year: 2022
-  topic: app
+  topic: "app"
 
 - title: "Far-UV Disinfection with Mobile Manipulator Robotic System"
   image: mehta_ismr_2022.png
@@ -284,7 +284,7 @@
   note: 0
   type: conf
   year: 2022
-  topic: app
+  topic: "app"
 
 - title: "PathBench A Benchmarking Platform for Classical and Learned Path Planning Algorithms"
   image: toma_crv_2021_pb.jpg
@@ -303,7 +303,7 @@
   note: Best Robotics Paper
   type: conf
   year: 2021
-  topic: planning
+  topic: "planning"
 
 - title: "Waypoint Planning Networks (WPN)"
   image: toma_crv_2021_wpn.jpg
@@ -322,7 +322,7 @@
   note: 0
   type: conf
   year: 2021
-  topic: planning
+  topic: "planning"
 
 - title: "Cain: Automatic Code Generation for Simultaneous Convolutional Kernels on Focal-plane Sensor-processors"
   image: stow_lcpc_2020.jpg
@@ -341,7 +341,7 @@
   note: 0
   type: conf
   year: 2020
-  topic: fpsp
+  topic: "fpsp"
 
 - title: "BIT-VO: Visual Odometry at 300 FPS using Binary Features from the Focal Plane"
   image: murai_iros_2020.png
@@ -360,7 +360,7 @@
   note: 0
   type: conf
   year: 2020
-  topic: fpsp
+  topic: "fpsp"
 
 - title: "AnalogNet: Convolutional Neural Network Inference on Analog Focal Plane Sensor Processors"
   image: wong_arxive_2020.png
@@ -379,7 +379,7 @@
   note: 0
   type: conf
   year: 2020
-  topic: fpsp
+  topic: "fpsp"
 
 - title: "Characterizing Visual Localization and Mapping Datasets"
   image: saeedi_icra_2019.png
@@ -398,7 +398,7 @@
   note: 0
   type: conf
   year: 2019
-  topic: dataset
+  topic: "dataset"
 
 - title: "SLAMBench 3.0: Systematic Automated Reproducible Evaluation of SLAM Systems for Robot Vision Challenges"
   image: bujanca_icra_2019.png
@@ -417,7 +417,7 @@
   note: 0
   type: conf
   year: 2019
-  topic: slam
+  topic: "slam"
 
 - title: "Camera Tracking on  Focal-Plane Sensor-Processor Arrays"
   image: debrunner_hipeac_2019_tracking.png
@@ -436,7 +436,7 @@
   note: 0
   type: conf
   year: 2019
-  topic: fpsp
+  topic: "fpsp"
 
 - title: "AUKE: Automatic Kernel Code Generation for an Analogue SIMD Focal-Plane Sensor-Processor Array"
   image: debrunner_hipeac_2019_auke.png
@@ -455,7 +455,7 @@
   note: 0
   type: conf
   year: 2019
-  topic: fpsp
+  topic: "fpsp"
 
 - title: "InteriorNet: Mega-scale Multi-sensor Photo-realistic Indoor Scenes Dataset"
   authors: Wenbin Li, Sajad Saeedi, John McCormac, Ronald Clark, Dimos Tzoumanikas, Qing Ye, Yuzhong Huang, Rui Tang, Stefan Leutenegger
@@ -474,7 +474,7 @@
   note: 0
   type: conf
   year: 2018
-  topic: dataset
+  topic: "dataset"
 
 - title: "SLAMBench2: Multi-Objective Head-to-Head Benchmarking for Visual SLAM"
   image: bodin_icra_2018.png
@@ -493,7 +493,7 @@
   note: 0
   type: conf
   year: 2018
-  topic: slam
+  topic: "slam"
 
 - title: "Application-oriented Design Space Exploration for SLAM Algorithms"
   image: saeedi_icra_2017.png
@@ -512,7 +512,7 @@
   note: 0
   type: conf
   year: 2017
-  topic: slam
+  topic: "slam"
 
 - title: "Algorithmic Performance-Accuracy Trade-off in 3D Vision Applications Using HyperMapper"
   image: nardi_iwapt_2017.png
@@ -530,7 +530,7 @@
   note: 0
   type: conf
   year: 2017
-  topic: slam
+  topic: "slam"
 
 - title: "3D Mapping and Navigation for Autonomous Rotorcraft"
   image: saeedi_ccece_2016_quad.jpg
@@ -548,7 +548,7 @@
   note: 0
   type: conf
   year: 2016
-  topic: aerial
+  topic: "aerial"
 
 - title: "The COBRA Heterogenous Multiple-robot Localization and Mapping Dataset"
   image: saeedi_ccece_2016_dataset.jpg
@@ -566,7 +566,7 @@
   note: 0
   type: conf
   year: 2016
-  topic: aerial
+  topic: "aerial"
 
 - title: "Hybrid Approach for Multiple-robot SLAM with Particle Filtering"
   image: saeedi_iros_2015.jpg
@@ -585,7 +585,7 @@
   note: 0
   type: conf
   year: 2015
-  topic: slam
+  topic: "slam"
 
 - title: "Fast Monte Carlo Localization of AUV Using Acoustic Range Measurement"
   image: saeedi_ccece_2015.jpg
@@ -603,7 +603,7 @@
   note: 0
   type: conf
   year: 2015
-  topic: marine
+  topic: "marine"
 
 - title: "Perception and Navigation for Autonomous Rotorcraft"
   image: saeedi_icius_2014.jpg
@@ -621,7 +621,7 @@
   note: 0
   type: conf
   year: 2014
-  topic: aerial
+  topic: "aerial"
 
 - title: "Map Merging Using Hough Peak Matching"
   image: saeedi_iros_2012_ht.png
@@ -640,7 +640,7 @@
   note: 0
   type: conf
   year: 2012
-  topic: mrs
+  topic: "mrs"
 
 - title: "Efficient Map Merging Using a Probabilistic Generalized Voronoi Diagram"
   image: saeedi_iros_2012_pgvd.jpg
@@ -659,7 +659,7 @@
   note: 0
   type: conf
   year: 2012 
-  topic: mrs
+  topic: "mrs"
 
 - title: "Sensor Driven Online Coverage Planning for Autonomous Underwater Vehicles"
   image: Paull_iros_2012_sensor.jpg
@@ -678,7 +678,7 @@
   note: 0
   type: conf
   year: 2012
-  topic: marine
+  topic: "marine"
   
 - title: "Towards An Ontology for Autonomous Robots"
   image: Paull_iros_2012_ont.jpg
@@ -697,7 +697,7 @@
   note: 0
   type: conf
   year: 2012
-  topic: app
+  topic: "app"
 
 - title: "Control and Navigation Framework for Quadrotor Helicopters"
   image: nagaty_icuas_2012.png
@@ -715,7 +715,7 @@
   note: 0
   type: conf
   year: 2012
-  topic: aerial  
+  topic: "aerial"
 
 - title: "Neural Network-based Multiple-robot Simultaneous Localization and Mapping"
   image: saeedi_iros_2011_nn.jpg
@@ -734,7 +734,7 @@
   note: 0
   type: conf
   year: 2011
-  topic: mrs
+  topic: "mrs"
   
 - title: "Multiple-robot Simultaneous Localization and Mapping"
   image: saeedi_iros_2011_mrslam.jpg
@@ -753,7 +753,7 @@
   note: 0
   type: conf
   year: 2011
-  topic: mrs
+  topic: "mrs"
   
 - title: "A Multi-agent Framework with MOOS-IvP for Autonomous Underwater Vehicles with Sidescan Sonar Sensors"
   image: paull_ais_2011.png
@@ -772,7 +772,7 @@
   note: 0
   type: conf
   year: 2011
-  topic: marine
+  topic: "marine"
 
 - title: "An Information Gain Based Adaptive Path Planning Method for an Autonomous Underwater Vehicle Using Sidescan Sonar"
   image: paull_case_2011.png
@@ -791,7 +791,7 @@
   note: 0
   type: conf
   year: 2010
-  topic: planning
+  topic: "planning"
 
 - title: "Optimal Design of Rotating Sliding Surface for Sliding Mode Control"
   image: saeedi_acc_2009.png
@@ -810,7 +810,7 @@
   note: 0
   type: conf
   year: 2009
-  topic: control
+  topic: "control"
 
 - title: "Active Queue Management (AQM) for TCP/IP networks Using Discrete-Time Sliding Mode Control (DSMC)"
   image: saeedi_caa_2005.png
@@ -829,4 +829,4 @@
   slides: 0  
   note: 0
   year: 2005
-  topic: control
+  topic: "control"
