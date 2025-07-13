@@ -10,18 +10,12 @@ permalink: /research/fpsp/
 
 <p></p>
 <h4 class="custom-highlight">What is Focal-plane Sensor-processor Arrays (FPSP)?</h4>  
-#### A traditional camera consists of a 2D array of light-sensitive pixels. In contrast, FPSPs integrate a processor within each pixel on the same chip. FPSPs are also referred to as processor-per-pixel arrays (PPA) or cellular-processor arrays (CPA). 
-
-<!--
-<p></p>
-<h4 class="custom-highlight"> Why use FPSPs instead of traditional image sensors?</h4>  
-#### FPSPs offer unique advantages over traditional image sensors and vision systems by embedding computation directly into the image sensor array. Here are the main benefits:  
--->
+<p>A traditional camera consists of a 2D array of light-sensitive pixels. In contrast, FPSPs integrate a processor within each pixel on the same chip. FPSPs are also referred to as processor-per-pixel arrays (PPA) or cellular-processor arrays (CPA).</p> 
 
 
 <h4 class="custom-highlight">Why use FPSPs instead of traditional image sensors?</h4>
 
-<p><strong>FPSPs offer unique advantages over traditional image sensors and vision systems by embedding computation directly into the image sensor array. Here are the main benefits:</strong></p>
+<p>FPSPs offer unique advantages over traditional image sensors and vision systems by embedding computation directly into the image sensor array. Here are the main benefits:</p>
 
 <ul>
   <li><strong>Low Latency:</strong> Processing happens directly at the pixel level, enabling ultra-fast response times.</li>
@@ -33,14 +27,9 @@ permalink: /research/fpsp/
 </ul>
 
 
-
-
-
-
-
 <p></p>
 <h4 class="custom-highlight">Are there any existing hardware implementations of FPSPs?</h4>  
-#### One notable example is <a href="https://personalpages.manchester.ac.uk/staff/p.dudek/scamp/default.htm" target="_blank">SCAMP5</a>, an FPSP designed and developed by Dr. Piotr Dudek and his team at the University of Manchester. Below are some key applications and advantages of Focal-Plane Sensor-Processors (FPSPs), demonstrated using the SCAMP5 device.  
+<p>One notable example is <a href="https://personalpages.manchester.ac.uk/staff/p.dudek/scamp/default.htm" target="_blank">SCAMP5</a>, an FPSP designed and developed by Dr. Piotr Dudek and his team at the University of Manchester. Below are some key applications and advantages of Focal-Plane Sensor-Processors (FPSPs), demonstrated using the SCAMP5 device.</p>  
 
 
 {%- assign pub_number = 0 -%}
