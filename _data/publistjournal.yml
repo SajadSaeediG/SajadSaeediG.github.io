@@ -120,7 +120,7 @@
   type: journal
   year: 2022
   topic: "fpsp"
-  highlight: "High-speed robot navigation using FPSPs"  
+  highlight: "High-speed robot navigation with the CAIN compiler"  
 
 
 - title: "Systematic Comparison of Path Planning Algorithms using PathBench"
@@ -152,7 +152,7 @@
   type: journal
   year: 2019
   topic: "fpsp"
-  highlight: "A compiler to generate code for FPSPs to run CNNs"    
+  highlight: "High-speed face recognition with the AUKE compiler"    
 
 - title: "Navigating the Landscape for Real-time Localisation and Mapping for Robotics Virtual and Augmented Reality"
   image: saeedi_ieeep_2018.png
