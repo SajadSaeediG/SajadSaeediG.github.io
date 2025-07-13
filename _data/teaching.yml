@@ -1,5 +1,5 @@
 - title: System Engineering for Real-time Systems - COMP0216 (2025 - 2026) 
-  image: sys_eng.jpeg
+  image: sys_eng.jpg
   description: This course provides an introduction to systems engineering, with a focus on real-time systems. Main topics include Model-Based Systems Engineering (MBSE) and SysML, project management approaches (waterfall, agile), hardware and software for real-time systems, and ethical considerations.
   lab:
     url: 0
