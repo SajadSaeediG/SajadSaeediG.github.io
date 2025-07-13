@@ -35,6 +35,7 @@ permalink: /research/fpsp/
 {% if publi.topic == "fpsp" -%}
   <p>{{ publi.title }} – {{ publi.topic }} - {{ publi.year }}</p>
 {% if publi.year == year -%}
+  <p>{{ publi.title }} – {{ publi.topic }} - {{ publi.year }} - {{ publi.year }}</p>
 {% assign pub_number = pub_number | plus: 1 %}
 
 <div class="row">
