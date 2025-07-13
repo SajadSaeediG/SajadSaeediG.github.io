@@ -24,7 +24,6 @@ permalink: /publications/
 {% if publi.year == year -%}
 {% assign pub_number = pub_number | plus: 1 %}
 
-<p>{{ publi.highlight }}</p>
 <div class="row">
 <div class="col-sm-11 clearfix">
  <div class="well well-sm">
