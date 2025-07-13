@@ -83,7 +83,7 @@ permalink: /research/fpsp/
 <p></p>
 <h4 class="custom-highlight">Are there any existing hardware implementations of FPSPs?</h4>  
 <p>One notable example is <a href="https://personalpages.manchester.ac.uk/staff/p.dudek/scamp/default.htm" target="_blank">SCAMP5</a>, an FPSP designed and developed by Dr. Piotr Dudek and his team at the University of Manchester. Below are some key applications and advantages of Focal-Plane Sensor-Processors (FPSPs), demonstrated using the SCAMP5 device.</p>  
-<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/debrunner_hipeac_2019_auke.png.png" 
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/debrunner_hipeac_2019_auke.png" 
      class="img-responsive" 
      style="display: block; margin-left: auto; margin-right: auto; width: 25%;" />
   
