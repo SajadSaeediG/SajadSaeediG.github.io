@@ -40,10 +40,11 @@ permalink: /research/fpsp/
 
 <p class="custom-highlight">{{  }}</p>
 <p class="custom-highlight">{{  }}</p>
+<p class="custom-highlight">{{  }}</p>
 <div class="row">
-<strong class="custom-highlight">{{ publi.highlight }}</strong>  
 <div class="col-sm-11 clearfix">
  <div class="well well-sm">
+  <strong class="custom-highlight">{{ publi.highlight }}</strong>  
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="11%" style="float: left" />
   <p>{{ "[" }}{{ pub_number }}{{ '] ' }}{{ publi.title }}  <br> 
   <em>{{ publi.authors }}</em> <br> 
@@ -87,6 +88,7 @@ permalink: /research/fpsp/
 {% if publicon.topic == "fpsp" -%}
 {% assign pub_number = pub_number | plus: 1 %}
 
+<p class="custom-highlight">{{  }}</p>
 <p class="custom-highlight">{{  }}</p>
 <p class="custom-highlight">{{  }}</p>
 <div class="row">
