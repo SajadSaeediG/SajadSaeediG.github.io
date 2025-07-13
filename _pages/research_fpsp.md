@@ -32,10 +32,8 @@ permalink: /research/fpsp/
 </h4>
 
 {% for publi in site.data.publistjournal %}
-  <p>{{ publi.title }} – {{ publi.topic }} - {{ publi.year }} - {{ year }}</p>
 {% if publi.year == year -%}
 {% assign pub_number = pub_number | plus: 1 %}
-  <p>{{ publi.title }} – {{ publi.topic }} - {{ publi.year }} + {{ year }} </p>
 {% if publi.topic == "fpsp" -%}
   <p>{{ publi.title }} – {{ publi.topic }} - {{ publi.year }} * {{ year }}</p>
 
@@ -80,72 +78,6 @@ permalink: /research/fpsp/
 {%- endif %}
 {% endfor %}
 
-{% for publicon in site.data.publistconf %}
-  <p>{{ publicon.title }} – {{ publicon.topic }}</p>
-{% if publicon.year == year -%}
-{% assign pub_number = pub_number | plus: 1 %}
-
-<div class="row">
-<div class="col-sm-11 clearfix">
-<div class="well well-sm">
-<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publicon.image }}" class="img-responsive" width="11%" style="float: left" />
-<p>{{ "[" }}{{ pub_number }}{{ "] " }}{{ publicon.title }} <br> 
-<em>{{ publicon.authors }}</em> <br>
-<strong><a href="{{ publicon.venuelink }}">{{ publicon.venue }}</a></strong>  
-{{ publicon.location }} <br>
-{% if publicon.project != 0 %}
-<button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publicon.project }}'">
-PROJECT
-</button> 
-{%- endif %}
-{%- if publicon.video != 0 %}
-<button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publicon.video }}'">
-VIDEO
-</button> 
-{%- endif %}
-{%- if publicon.code != 0 %}
-<button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publicon.code }}'">
-CODE
-</button> 
-{%- endif %}
-{%- if publicon.codedown != 0 %}
-<button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ site.baseurl }}/downloads/{{ publicon.codedown }}'">
-CODE
-</button> 
-{%- endif %} 
-{%- if publicon.pdf != 0 %}
-<button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ site.baseurl }}/downloads/{{ publicon.pdf }}'">
-PDF
-</button>
-{%- endif %}
-{%- if publicon.pdflink != 0 %}
-<button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publicon.pdflink }}'">
-PDF
-</button>
-{%- endif %}
-{%- if publicon.thesislink != 0 %}
-<button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ publicon.thesislink }}'">
-THESIS
-</button>
-{%- endif %}  
-{%- if publicon.slides != 0 %}
-<button type="button" class="btn-xs btn-info" onclick="window.location.href= '{{ site.baseurl }}/downloads/{{ publicon.slides }}'">
-SLIDES
-</button>
-{%- endif %}  
-{%- if publicon.note != 0 %}
-<button type="button" class="btn-xs btn-success" >
-{{ publicon.note }}
-</button>
-{% endif %}    
-</p>
-</div>
-</div>
-</div>
-
-
-{%- endif %}    
-{% endfor %}
 {%- endfor %}
 
 \
