@@ -39,6 +39,7 @@ permalink: /research/fpsp/
 {% assign pub_number = pub_number | plus: 1 %}
 
 <p class="custom-highlight">{{  }}</p>
+<p class="custom-highlight">{{  }}</p>
 <p class="custom-highlight">{{ publi.highlight }}</p>
 <div class="row">
 <div class="col-sm-11 clearfix">
@@ -87,7 +88,8 @@ permalink: /research/fpsp/
 {% assign pub_number = pub_number | plus: 1 %}
 
 <p class="custom-highlight">{{  }}</p>
-<p class="custom-highlight">{{ publi.highlight }}</p>
+<p class="custom-highlight">{{  }}</p>
+<p class="custom-highlight">{{ publicon.highlight }}</p>
 <div class="row">
 <div class="col-sm-11 clearfix">
 <div class="well well-sm">
