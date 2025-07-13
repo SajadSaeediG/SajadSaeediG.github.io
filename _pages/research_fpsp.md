@@ -33,8 +33,8 @@ permalink: /research/fpsp/
 
 {% for publi in site.data.publistjournal %}
 {% if publi.year == year -%}
-{% assign pub_number = pub_number | plus: 1 %}
 {% if publi.topic == "fpsp" -%}
+{% assign pub_number = pub_number | plus: 1 %}
 
 <div class="row">
 <div class="col-sm-11 clearfix">
@@ -79,8 +79,8 @@ permalink: /research/fpsp/
 
 {% for publicon in site.data.publistconf %}
 {% if publicon.year == year -%}
+{% if publicon.topic == "fpsp" -%}
 {% assign pub_number = pub_number | plus: 1 %}
-{% if publi.topic == "fpsp" -%}
 
 <div class="row">
 <div class="col-sm-11 clearfix">
