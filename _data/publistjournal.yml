@@ -89,6 +89,7 @@
   type: journal
   year: 2023
   topic: "fpsp"
+  highlight: "Fast homography and visual Odometry running at 300 FPS"  
 
 - title: "UVC Disinfection Robots: A Review"
   image: mehta_ras_2023.jpg
@@ -119,6 +120,7 @@
   type: journal
   year: 2022
   topic: "fpsp"
+  highlight: "High-speed robot navigation using FPSPs"  
 
 
 - title: "Systematic Comparison of Path Planning Algorithms using PathBench"
@@ -150,6 +152,7 @@
   type: journal
   year: 2019
   topic: "fpsp"
+  highlight: "A compiler to generate code for FPSPs to run CNNs"    
 
 - title: "Navigating the Landscape for Real-time Localisation and Mapping for Robotics Virtual and Augmented Reality"
   image: saeedi_ieeep_2018.png
@@ -165,6 +168,7 @@
   type: journal
   year: 2018
   topic: "fpsp"
+  highlight: "What do we need to run high-speed low-power SLAM algorithms?"  
 
 - title: "3D Mapping for Autonomous Quadrotor Aircraft"
   image: saeedi_us_2016.png
