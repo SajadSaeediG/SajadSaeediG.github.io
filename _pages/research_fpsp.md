@@ -9,7 +9,7 @@ permalink: /research/fpsp/
 ## Focal-plane Sensor-processor Arrays (FPSP)
 
 <p></p>
-
+<strong class="custom-highlight">{{ What is Focal-plane Sensor-processor Arrays (FPSP)?}}</strong>  
 #### A traditional camera consists of a 2D array of light-sensitive pixels. In contrast, FPSPs integrate a processor within each pixel on the same chip. FPSPs are also referred to as processor-per-pixel arrays (PPA) or cellular-processor arrays (CPA). 
 
 <p></p>
