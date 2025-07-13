@@ -1,6 +1,6 @@
 ---
 title: "Focal-plane Sensor-processor Arrays (FPSP)"
-layout: page
+layout: gridlay
 excerpt: "FPSP"
 sitemap: false
 permalink: /research/fpsp/
@@ -14,9 +14,6 @@ permalink: /research/fpsp/
 
 #### Below, you will see some of the applications and advantages of FPSPs. 
 
-{% for publi in site.data.publistjournal %}
-  <p>{{ publi.title }} – {{ publi.topic }}</p>
-{% endfor %}
 
 {%- assign pub_number = 0 -%}
 {%- assign lower_limit_yr = 2015 -%}
@@ -27,15 +24,17 @@ permalink: /research/fpsp/
 {% if 2008 == year or 2007 == year -%}
 {% continue %}
 {% endif %}
+
+<!--
 <h4  style="color:  #0000FF;">
   {{ year }}
 </h4>
+-->
 
 {% for publi in site.data.publistjournal %}
 {% if publi.year == year -%}
 {% assign pub_number = pub_number | plus: 1 %}
 {% if publi.topic == "fpsp" -%}
-  <p>{{ publi.title }} – {{ publi.topic }} - {{ publi.year }} * {{ year }}</p>
 
 <div class="row">
 <div class="col-sm-11 clearfix">
