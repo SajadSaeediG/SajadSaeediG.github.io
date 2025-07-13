@@ -93,8 +93,8 @@ permalink: /research/fpsp/
 <p class="custom-highlight">{{  }}</p>
 <div class="row">
 <div class="col-sm-11 clearfix">
-<strong class="custom-highlight">{{ publicon.highlight }}</strong>    
 <div class="well well-sm">
+<strong class="custom-highlight">{{ publicon.highlight }}</strong>    
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publicon.image }}" class="img-responsive" width="11%" style="float: left" />
 <p>{{ "[" }}{{ pub_number }}{{ "] " }}{{ publicon.title }} <br> 
 <em>{{ publicon.authors }}</em> <br>
