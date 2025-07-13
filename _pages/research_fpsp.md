@@ -32,8 +32,8 @@ permalink: /research/fpsp/
 </h4>
 
 {% for publi in site.data.publistjournal %}
-  <p>{{ publi.title }} – {{ publi.topic }}</p>
 {% if publi.topic == "fpsp" -%}
+  <p>{{ publi.title }} – {{ publi.topic }}</p>
 {% if publi.year == year -%}
 {% assign pub_number = pub_number | plus: 1 %}
 
