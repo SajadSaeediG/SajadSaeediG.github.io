@@ -32,11 +32,12 @@ permalink: /research/fpsp/
 </h4>
 
 {% for publi in site.data.publistjournal %}
+  <p>{{ publi.title }} – {{ publi.topic }} </p>
+{% if publi.year == year -%}
+{% assign pub_number = pub_number | plus: 1 %}
+  <p>{{ publi.title }} – {{ publi.topic }} - {{ publi.year }} </p>
 {% if publi.topic == "fpsp" -%}
   <p>{{ publi.title }} – {{ publi.topic }} - {{ publi.year }} - {{ year }}</p>
-{% if publi.year == year -%}
-  <p>{{ publi.title }} – {{ publi.topic }} - {{ publi.year }}</p>
-{% assign pub_number = pub_number | plus: 1 %}
 
 <div class="row">
 <div class="col-sm-11 clearfix">
