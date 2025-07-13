@@ -40,8 +40,8 @@ permalink: /research/fpsp/
 
 <p class="custom-highlight">{{  }}</p>
 <p class="custom-highlight">{{  }}</p>
-<strong><a class="custom-highlight">{{ publi.highlight }}</a></strong>
 <div class="row">
+<strong class="custom-highlight">{{ publi.highlight }}</strong>  
 <div class="col-sm-11 clearfix">
  <div class="well well-sm">
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="11%" style="float: left" />
@@ -89,9 +89,9 @@ permalink: /research/fpsp/
 
 <p class="custom-highlight">{{  }}</p>
 <p class="custom-highlight">{{  }}</p>
-<p class="custom-highlight">{{ publicon.highlight }}</p>
 <div class="row">
 <div class="col-sm-11 clearfix">
+<strong class="custom-highlight">{{ publicon.highlight }}</strong>    
 <div class="well well-sm">
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publicon.image }}" class="img-responsive" width="11%" style="float: left" />
 <p>{{ "[" }}{{ pub_number }}{{ "] " }}{{ publicon.title }} <br> 
