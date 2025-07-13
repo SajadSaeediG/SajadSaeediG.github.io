@@ -42,10 +42,47 @@ permalink: /research/fpsp/
 </ul>
 
 
+
+<h4 class="custom-highlight">How are FPSPs different from event cameras?</h4>
+
+<p>While both FPSPs and event cameras aim to overcome limitations of traditional frame-based vision sensors, they differ significantly in operation and purpose:</p>
+
+<ul>
+  <li><strong>Data Representation:</strong>  
+    <ul>
+      <li><strong>FPSPs:</strong> Process full image frames directly on the sensor by performing computations at each pixel.</li>
+      <li><strong>Event Cameras:</strong> Only output asynchronous "events" when changes in brightness occur at individual pixels.</li>
+    </ul>
+  </li>
+  
+  <li><strong>Output Type:</strong>  
+    <ul>
+      <li><strong>FPSPs:</strong> Can output processed results (e.g. edge maps, motion vectors) instead of raw frames.</li>
+      <li><strong>Event Cameras:</strong> Produce a continuous stream of timestamped events rather than full frames.</li>
+    </ul>
+  </li>
+  
+  <li><strong>Latency and Speed:</strong>  
+    <ul>
+      <li><strong>FPSPs:</strong> Achieve low latency by processing data in parallel across the pixel array.</li>
+      <li><strong>Event Cameras:</strong> Have extremely low latency, reacting to changes in microseconds due to their asynchronous nature.</li>
+    </ul>
+  </li>
+
+  <li><strong>Suitability:</strong>  
+    <ul>
+      <li><strong>FPSPs:</strong> Well-suited for low-power, frame-based processing with programmable in-sensor computing.</li>
+      <li><strong>Event Cameras:</strong> Best for high-speed motion detection, low-light conditions, and sparse data processing.</li>
+    </ul>
+  </li>
+
+
+
 <p></p>
 <h4 class="custom-highlight">Are there any existing hardware implementations of FPSPs?</h4>  
 <p>One notable example is <a href="https://personalpages.manchester.ac.uk/staff/p.dudek/scamp/default.htm" target="_blank">SCAMP5</a>, an FPSP designed and developed by Dr. Piotr Dudek and his team at the University of Manchester. Below are some key applications and advantages of Focal-Plane Sensor-Processors (FPSPs), demonstrated using the SCAMP5 device.</p>  
 
+  
 
 {%- assign pub_number = 0 -%}
 {%- assign lower_limit_yr = 2015 -%}
