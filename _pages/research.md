@@ -31,6 +31,9 @@ permalink: /research/
   <img src="{{ site.url }}{{ site.baseurl }}/images/randdpic/{{ rsch.image }}" class="img-responsive" width="11%" style="float: left" />
   <p><b>{{ rsch.title }}</b></p>
   <p>{{ rsch.description }}</p>
+  {%- if rsch.url != 0 %}
+  <p>For more information, click <a href="{{ site.url }}{{ site.baseurl }}{{ rsch.url }}" target="_blank"here</a></p>
+  {% endif %}   
  </div>
 </div>
 </div>
