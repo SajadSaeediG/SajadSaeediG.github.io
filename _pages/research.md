@@ -32,7 +32,7 @@ permalink: /research/
   <p><b>{{ rsch.title }}</b></p>
   <p>{{ rsch.description }}</p>
   {%- if rsch.url != 0 %}
-  <p>For more information, click <a href="{{ site.url }}{{ site.baseurl }}{{ rsch.url }}" target="_blank"here</a></p>
+  <p>For more information, click <a href="{{ site.url }}{{ site.baseurl }}{{ rsch.url }}" target="_blank">here</a></p>
   {% endif %}   
  </div>
 </div>
