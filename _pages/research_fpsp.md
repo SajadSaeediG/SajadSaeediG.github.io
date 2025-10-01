@@ -90,7 +90,7 @@ permalink: /research/fpsp/
 
 {%- assign pub_number = 0 -%}
 {%- assign lower_limit_yr = 2015 -%}
-{%- assign upper_limit_yr = 2024 -%}
+{%- assign upper_limit_yr = 2025 -%}
 
 {% for year in (lower_limit_yr..upper_limit_yr) reversed %}
 
