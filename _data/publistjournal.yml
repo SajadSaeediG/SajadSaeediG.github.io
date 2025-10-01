@@ -1,3 +1,18 @@
+- title: "TCB-VIO: Tightly-Coupled Focal-plane Binary-enhanced Visual Inertial Odometr"
+  image: lisondra_2025_tcb.jpg
+  authors: Matthew Lisondra, Junseo Kim, Glenn Takashi Shimoda, Kourosh Zareinia, Sajad Saeedi
+  link:
+    url: https://www.ieee-ras.org/publications/ra-l
+    display: IEEE Robotics and Automation Letters, 2025
+  project: https://sites.google.com/view/tcb-vio
+  video: 0
+  code: 0
+  pdf: 0
+  pdflink: 0
+  type: journal
+  year: 2025
+  topic: "fpsp"
+  
 - title: "Di-NeRF: Distributed NeRF for Collaborative Learning with Relative Pose Refinement"
   image: asadi_2024_dinerf.gif
   authors: Mahboubeh Asadi, Kourosh Zareinia, Sajad Saeedi
