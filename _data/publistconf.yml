@@ -77,12 +77,12 @@
   topic: "dataset"
 
 
-- title: "Suspended Magnetometer Survey for Mineral Data Acquisition with Vertical Take-off and Landing Fixed-wing Aircraft"
+- title: "SuMag: Suspended Magnetometer Survey for Mineral Data Acquisition with Vertical"
   image: efrem_2024_fw.gif
   authors: Robel Efrem, Alex Coutu, Sajad Saeedi
-  venue: arXiv:2402.11797
-  venuelink: http://arxiv.org/abs/2402.11797  
-  location: arXiv
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  venuelink: https://www.iros25.org/
+  location: Hongzhou, China, October 19 - October 25, 2025
   project: https://sites.google.com/view/mineral-aircraft/vtol-fixed-wing-uav
   video: 0
   code: 0
@@ -93,7 +93,7 @@
   slides: 0
   note: 0
   type: conf
-  year: 2024
+  year: 2025
   topic: "aerial"
 
 - title: "Sensor Integration and Performance Optimizations for Mineral Exploration using Large-scale Hybrid Multirotor UAVs"
@@ -836,3 +836,4 @@
   note: 0
   year: 2005
   topic: "control"
+
