@@ -12,7 +12,22 @@
   type: journal
   year: 2025
   topic: "fpsp"
-  
+
+- title: "FG-PE: Factor-graph Approach for Multi-robot Pursuit-Evasion"
+  image: fgpe_ras_2025.jpg
+  authors: Messiah Abolfazli Esfahani, Ayse Basar, Sajad Saeedi
+  link:
+    url: https://sites.google.com/view/pursuit-evasion
+    display: Elsevier, Robotics and Autonomous Systems, 2025
+  project: https://sites.google.com/view/pursuit-evasion
+  video: 0
+  code: 0
+  pdf: 0
+  pdflink: https://arxiv.org/html/2411.00741v1
+  type: journal
+  year: 2025
+  topic: "mrs"
+
 - title: "Di-NeRF: Distributed NeRF for Collaborative Learning with Relative Pose Refinement"
   image: asadi_2024_dinerf.gif
   authors: Mahboubeh Asadi, Kourosh Zareinia, Sajad Saeedi
