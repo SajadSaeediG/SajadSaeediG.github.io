@@ -60,9 +60,9 @@
 - title: "DIO: Dataset of 3D Mesh Models of Indoor Objects for Robotics and Computer Vision Applications"
   image: nimal_2024_dio.gif
   authors: Nillan Nimal, Wenbin Li, Ronald Clark, Sajad Saeedi
-  venue: arXiv:2402.11836
+  venue: Conference on Robots and Vision, Workshop
   venuelink: http://arxiv.org/abs/2402.11836
-  location: arXiv
+  location: Guelph, Ontario, May 28 - May 31, 2024
   project: https://sites.google.com/view/scanned-object-dataset
   video: 0
   code: 0
@@ -100,7 +100,7 @@
   image: efrem_2024_quad.gif
   authors: Robel Efrem, Alex Coutu, Sajad Saeedi
   venue: arXiv:2402.11810
-  venuelink: http://arxiv.org/abs/2402.11810  
+  venuelink: https://www.computerrobotvision.org/2024/  
   location: arXiv
   project: https://sites.google.com/view/mineral-aircraft/multirotor-uav
   video: 0
@@ -836,4 +836,5 @@
   note: 0
   year: 2005
   topic: "control"
+
 
