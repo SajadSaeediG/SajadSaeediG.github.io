@@ -17,7 +17,7 @@
   year: 2025
   topic: "aerial"
 
-  - title: "Generalized k-Cell Decomposition for Visibility Planning in Polygons"
+- title: "Generalized k-Cell Decomposition for Visibility Planning in Polygons"
   image: fcwg_roni_2025.jpg
   authors: Yeganeh Bahoo, Sajad Saeedi, Roni Sherman
   venue: 32nd Annual Fall Workshop on Computational Geometry
@@ -856,6 +856,7 @@
   note: 0
   year: 2005
   topic: "control"
+
 
 
 
