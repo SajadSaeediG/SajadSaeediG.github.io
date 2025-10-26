@@ -1,3 +1,42 @@
+- title: "SuMag: Suspended Magnetometer Survey for Mineral Data Acquisition with Vertical"
+  image: efrem_2024_fw.gif
+  authors: Robel Efrem, Alex Coutu, Sajad Saeedi
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  venuelink: https://www.iros25.org/
+  location: Hongzhou, China, October 19 - October 25, 2025
+  project: https://sites.google.com/view/mineral-aircraft/vtol-fixed-wing-uav
+  video: 0
+  code: 0
+  codedown: 0
+  pdf: 0
+  pdflink: http://arxiv.org/abs/2402.11797
+  thesislink: 0
+  slides: 0
+  note: 0
+  type: conf
+  year: 2025
+  topic: "aerial"
+
+  - title: "Generalized k-Cell Decomposition for Visibility Planning in Polygons"
+  image: fcwg_roni_2025.jpg
+  authors: Yeganeh Bahoo, Sajad Saeedi, Roni Sherman
+  venue: 32nd Annual Fall Workshop on Computational Geometry
+  venuelink: https://www.cs.qc.cuny.edu/goswami/fwcg-2025.html
+  location: New York, USA, November 7 - November 8, 2025
+  project: 0
+  video: 0
+  code: 0
+  codedown: 0
+  pdf: 0
+  pdflink: 0
+  thesislink: 0
+  slides: 0
+  note: 0
+  type: conf
+  year: 2025
+  topic: "planning"
+
+
 - title: "Identifying Optimal Launch Sites of High-Altitude Latex-Balloons using Bayesian Optimisation for the Task of Station-Keeping"
   image: balloon.png
   authors: Jack Saunders, Sajad Saeedi, Adam Hartshorne, Binbin Xu, Ozgur Simsek, Alan Hunter, Wenbin Li
@@ -76,25 +115,6 @@
   year: 2024
   topic: "dataset"
 
-
-- title: "SuMag: Suspended Magnetometer Survey for Mineral Data Acquisition with Vertical"
-  image: efrem_2024_fw.gif
-  authors: Robel Efrem, Alex Coutu, Sajad Saeedi
-  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-  venuelink: https://www.iros25.org/
-  location: Hongzhou, China, October 19 - October 25, 2025
-  project: https://sites.google.com/view/mineral-aircraft/vtol-fixed-wing-uav
-  video: 0
-  code: 0
-  codedown: 0
-  pdf: 0
-  pdflink: http://arxiv.org/abs/2402.11797
-  thesislink: 0
-  slides: 0
-  note: 0
-  type: conf
-  year: 2025
-  topic: "aerial"
 
 - title: "Sensor Integration and Performance Optimizations for Mineral Exploration using Large-scale Hybrid Multirotor UAVs"
   image: efrem_2024_quad.gif
@@ -836,5 +856,6 @@
   note: 0
   year: 2005
   topic: "control"
+
 
 
