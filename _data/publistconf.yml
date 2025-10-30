@@ -1,4 +1,4 @@
-- title: "SuMag: Suspended Magnetometer Survey for Mineral Data Acquisition with Vertical"
+- title: "SuMag: Suspended Magnetometer Survey for Mineral Data Acquisition with Vertical Take-off and Landing Fixed-wing Aircraft"
   image: efrem_2024_fw.gif
   authors: Robel Efrem, Alex Coutu, Sajad Saeedi
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
@@ -856,6 +856,7 @@
   note: 0
   year: 2005
   topic: "control"
+
 
 
 
