@@ -28,6 +28,21 @@
   year: 2025
   topic: "mrs"
 
+- title: "Analysis of Microplastics and Nanoplastics Emerged from Polyethylene Bags and Polyethylene Terephthalate Bottles by an Artificial Intelligence-enabled Tool"
+  image: Rezvani_2025_EnvPollution.jpg
+  authors: Hadi Rezvani, Mihir Kapadia, Julia Costantino, Navid Zarrabi, Sajad Saeedi, Nariman Yousefi
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0269749125018275
+    display: Elsevier, Environmental Pollution, 2025
+  project: https://sites.google.com/view/mp-detection-classification
+  video: 0
+  code: 0
+  pdf: 0
+  pdflink: https://doi.org/10.1016/j.envpol.2025.127453
+  type: journal
+  year: 2025
+  topic: "mnp"  
+
 - title: "Di-NeRF: Distributed NeRF for Collaborative Learning with Relative Pose Refinement"
   image: asadi_2024_dinerf.gif
   authors: Mahboubeh Asadi, Kourosh Zareinia, Sajad Saeedi
