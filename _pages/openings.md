@@ -6,7 +6,7 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open PhD position (fully funded)
+# Open PhD Position (fully funded)
 ## Department of Computer Science
 ## University College London
 
@@ -17,3 +17,9 @@ Understanding, reconstructing, and analysing crime scenes requires integrating e
 Please see
 
 [https://www.ucl.ac.uk/engineering/security-crime-science/study/postgraduate-research/epsrc-centre-doctoral-training-cyber-physical-risk/study-us/project-proposals](https://www.ucl.ac.uk/engineering/security-crime-science/study/postgraduate-research/epsrc-centre-doctoral-training-cyber-physical-risk/study-us/project-proposals)
+
+### Application deadline: 15th of February 2026
+### Fully-funded PhD Scholarship
+### Tuition Fees Covered
+### Generous Stipend
+### Cutting-edge Research
