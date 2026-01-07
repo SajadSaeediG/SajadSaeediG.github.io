@@ -1,4 +1,11 @@
-- title: System Engineering for Real-time Systems - COMP0216 (2025 - 2026) 
+- title: Robot Vision and Navigation - COMP0249 (2025 - 2026) 
+  image: 0249.jpg
+  description: This course provides an introduction to Simultaneous Localization and Mapping (SLAM), with a focus on robotic navigation. It covers a range of pose estimation algorithms and mapping techniques, and offers hands-on experience using sensors such as 2D LiDAR and RGB-D cameras.
+  lab:
+    url: 0
+    display: 0
+
+- title: System Engineering for Real-time Systems - COMP0216 (2024 - 2025) 
   image: sys_eng.jpg
   description: This course provides an introduction to systems engineering, with a focus on real-time systems. Main topics include Model-Based Systems Engineering (MBSE) and SysML, project management approaches (waterfall, agile), hardware and software for real-time systems, and ethical considerations.
   lab:
