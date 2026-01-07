@@ -96,6 +96,7 @@ permalink: /
 
 
 <figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/University_College_London_logo.svg.png" style="width: 90px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tmu_logo.png" style="width: 90px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nserc.png" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nfrf.jpg" style="width: 190px">
