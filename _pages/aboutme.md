@@ -21,9 +21,6 @@ I am an Associate Professor - Teaching in the Department of Computer Science at 
 \
 &nbsp;
 
-\
-&nbsp;
-
 ![]({{ site.url }}{{ site.baseurl }}/images/aboutpic/tmu_logo.png){: style="width: 150px; float: left; margin: 0px  10px"}
 I was an Associate Professor in the Department of Mechanical, Industrial, and Mechatronics Engineering at [Toronto Metropolitan University (TMU)](https://www.torontomu.ca/mechanical-industrial-mechatronics/people/faculty/sajad-saeedi/) (formerly Ryerson) in Toronto, Canada. My research focuses on robotics, SLAM, focal-plane sensor-processor arrays (FPSP), and deep learning.
 
