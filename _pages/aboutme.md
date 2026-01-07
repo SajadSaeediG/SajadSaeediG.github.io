@@ -14,8 +14,16 @@ permalink: /about/
 
 \
 &nbsp;
+![]({{ site.url }}{{ site.baseurl }}/images/aboutpic/University_College_London_logo.svg.png){: style="width: 150px; float: left; margin: 0px  10px"}
+I am an Associate Professor - Teaching in the Department of Computer Science at [University College London (UCL)](https://www.ucl.ac.uk/engineering/computer-science), London, UK. My research focuses on robotics, SLAM, multi-robot systems, focal-plane sensor-processor arrays (FPSP), and AI.
+
+\
+&nbsp;
+
+\
+&nbsp;
 ![]({{ site.url }}{{ site.baseurl }}/images/aboutpic/tmu_logo.png){: style="width: 150px; float: left; margin: 0px  10px"}
-I am an Assistant Professor in the Department of Mechanical, Industrial, and Mechatronics Engineering at [Toronto Metropolitan University](https://www.torontomu.ca/mechanical-industrial/people/faculty/sajad-saeedi/) (formerly Ryerson) in Toronto, Canada. My research focuses on robotics, SLAM, focal-plane sensor-processor arrays (FPSP), and deep learning.
+I was an Associate Professor in the Department of Mechanical, Industrial, and Mechatronics Engineering at [Toronto Metropolitan University (TMU)](https://www.torontomu.ca/mechanical-industrial/people/faculty/sajad-saeedi/) (formerly Ryerson) in Toronto, Canada. My research focuses on robotics, SLAM, focal-plane sensor-processor arrays (FPSP), and deep learning.
 
 \
 &nbsp;
