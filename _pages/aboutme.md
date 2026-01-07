@@ -14,6 +14,7 @@ permalink: /about/
 
 \
 &nbsp;
+
 ![]({{ site.url }}{{ site.baseurl }}/images/aboutpic/University_College_London_logo.svg.png){: style="width: 150px; float: left; margin: 0px  10px"}
 I am an Associate Professor - Teaching in the Department of Computer Science at [University College London (UCL)](https://www.ucl.ac.uk/engineering/computer-science), London, UK. My research focuses on robotics, SLAM, multi-robot systems, focal-plane sensor-processor arrays (FPSP), and AI.
 
@@ -22,8 +23,9 @@ I am an Associate Professor - Teaching in the Department of Computer Science at 
 
 \
 &nbsp;
+
 ![]({{ site.url }}{{ site.baseurl }}/images/aboutpic/tmu_logo.png){: style="width: 150px; float: left; margin: 0px  10px"}
-I was an Associate Professor in the Department of Mechanical, Industrial, and Mechatronics Engineering at [Toronto Metropolitan University (TMU)](https://www.torontomu.ca/mechanical-industrial/people/faculty/sajad-saeedi/) (formerly Ryerson) in Toronto, Canada. My research focuses on robotics, SLAM, focal-plane sensor-processor arrays (FPSP), and deep learning.
+I was an Associate Professor in the Department of Mechanical, Industrial, and Mechatronics Engineering at [Toronto Metropolitan University (TMU)](https://www.torontomu.ca/mechanical-industrial-mechatronics/people/faculty/sajad-saeedi/) (formerly Ryerson) in Toronto, Canada. My research focuses on robotics, SLAM, focal-plane sensor-processor arrays (FPSP), and deep learning.
 
 \
 &nbsp;
@@ -34,7 +36,6 @@ From July 2018 to July 2019, I was a Dyson Research Fellow at [Imperial College 
 
 \
 &nbsp;
-
 
 ![]({{ site.url }}{{ site.baseurl }}/images/aboutpic/2g_logo.png){: style="width: 150px; float: left; margin: 0px  10px"}
 In 2015, I was working at [2G Robotics](https://voyis.com/) (now Voyis Imaging Inc.) on underwater robotics and perception. Developing machine vision algorithms in underwater environments is a very challenging problem due to nonlinear light refraction in water-glass-air interfaces of the camera housing. I was actively involved in the following projects:
