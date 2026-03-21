@@ -172,25 +172,6 @@
   type: conf
   year: 2024
   topic: "mrs"
-
-- title: "Inverse k-visibility for RSSI-based Indoor Geometric Mapping"
-  image: sfw2.png
-  authors: Junseo Kim, Matthew Lisondra, Yeganeh Bahoo, Sajad Saeedi
-  venue: arXiv:2408.07757
-  venuelink: http://arxiv.org/abs/2408.07757    
-  location: arXiv
-  project: https://sites.google.com/view/structure-from-wifi/home
-  video: 0
-  code: 0
-  codedown: 0
-  pdf: 0
-  pdflink: http://arxiv.org/abs/2408.07757
-  thesislink: 0
-  slides: 0
-  note: 0
-  type: conf
-  year: 2024
-  topic: "slam"
   
 - title: "Morphological Detection and Classification of Microplastics and Nanoplastics Emerged from Consumer Products by Deep Learning"
   image: SEM_PS.png
