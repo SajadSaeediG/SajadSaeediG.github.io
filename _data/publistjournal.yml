@@ -1,3 +1,34 @@
+
+- title: "Inverse k-visibility for RSSI-based Indoor Geometric Mapping"
+  image: sfw2.png
+  authors: Junseo Kim, Matthew Lisondra, Yeganeh Bahoo, Sajad Saeedi
+  link:
+    url: https://link.springer.com/journal/10514
+    display: Springer, Autonomous Robots, 2026
+  project: https://sites.google.com/view/structure-from-wifi/journal-extension
+  video: 0
+  code: 0
+  pdf: 0
+  pdflink: http://arxiv.org/abs/2408.07757
+  type: journal
+  year: 2024
+  topic: "slam"
+
+- title: "High-frequency Ultrasound Combined with Deep Learning Enables Identification and Size Estimation of Microplastics"
+  image: navid_2026_npj.jpg
+  authors: Navid Zarrabi, Eric M. Strohm, Hadi Rezvani, Matthew Lisondra, Nariman Yousefi, Sajad Saeedi, Michael C. Kolios 
+  link:
+    url: https://doi.org/10.1038/s44454-026-00029-1
+    display: Nature npj Emerging Contaminants, 2026
+  project: https://sites.google.com/view/mp-detection-classification/ultrasound-for-microplastics
+  video: 0
+  code: 0
+  pdf: 0
+  pdflink: 0
+  type: journal
+  year: 2026
+  topic: "mnp"  
+
 - title: "TCB-VIO: Tightly-Coupled Focal-Plane Binary-Enhanced Visual Inertial Odometry"
   image: lisondra_2025_tcb.jpg
   authors: Matthew Lisondra, Junseo Kim, Glenn Takashi Shimoda, Kourosh Zareinia, Sajad Saeedi
