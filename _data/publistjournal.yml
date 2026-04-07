@@ -3,8 +3,8 @@
   image: sfw2.png
   authors: Junseo Kim, Matthew Lisondra, Yeganeh Bahoo, Sajad Saeedi
   link:
-    url: https://link.springer.com/journal/10514
-    display: Springer, Autonomous Robots, 2026
+    url: https://link.springer.com/article/10.1007/s10514-026-10243-w
+    display: Springer, Autonomous Robots, vol. 50, no. 17, 2026
   project: https://sites.google.com/view/structure-from-wifi/journal-extension
   video: 0
   code: 0
@@ -19,7 +19,7 @@
   authors: Navid Zarrabi, Eric M. Strohm, Hadi Rezvani, Matthew Lisondra, Nariman Yousefi, Sajad Saeedi, Michael C. Kolios 
   link:
     url: https://doi.org/10.1038/s44454-026-00029-1
-    display: Nature npj Emerging Contaminants, 2026
+    display: Nature npj Emerging Contaminants, vol. 2, no. 9, 2026
   project: https://sites.google.com/view/mp-detection-classification/ultrasound-for-microplastics
   video: 0
   code: 0
