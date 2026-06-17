@@ -1,4 +1,18 @@
-
+- title: "M3RS: Multi-robot, Multi-objective, and Multi-mode Routing and Scheduling"
+  image: mehta_2024_m3rs.gif
+  authors: Ishaan Mehta, Junseo Kim, Sharareh Taghipour, Sajad Saeedi
+  link:
+    url: https://onlinelibrary.wiley.com/journal/15564967
+    display: Wiley, Journal of Field Robotics, 2026
+  project: https://sites.google.com/view/g-robot/m3rs/
+  video: 0
+  code: 0
+  pdf: 0
+  pdflink: https://arxiv.org/abs/2403.16275
+  type: journal
+  year: 2026
+  topic: "mrs"
+  
 - title: "Inverse k-visibility for RSSI-based Indoor Geometric Mapping"
   image: sfw2.png
   authors: Junseo Kim, Matthew Lisondra, Yeganeh Bahoo, Sajad Saeedi
