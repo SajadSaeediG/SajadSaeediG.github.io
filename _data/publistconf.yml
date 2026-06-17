@@ -172,25 +172,6 @@
   type: conf
   year: 2024
   topic: "slam"
-
-- title: "M3RS: Multi-robot, Multi-objective, and Multi-mode Routing and Scheduling"
-  image: mehta_2024_m3rs.gif
-  authors: Ishaan Mehta, Junseo Kim, Sharareh Taghipour, Sajad Saeedi
-  venue: arXiv:2403.16275
-  venuelink: https://arxiv.org/abs/2403.16275  
-  location: arXiv
-  project: https://sites.google.com/view/g-robot/m3rs/
-  video: 0
-  code: 0
-  codedown: 0
-  pdf: 0
-  pdflink: https://arxiv.org/abs/2403.16275
-  thesislink: 0
-  slides: 0
-  note: 0
-  type: conf
-  year: 2024
-  topic: "mrs"
   
 - title: "Morphological Detection and Classification of Microplastics and Nanoplastics Emerged from Consumer Products by Deep Learning"
   image: SEM_PS.png
