@@ -1,3 +1,22 @@
+- title: "NeRFifyMesh: Optimizing Neural Radiance Fields from Textured Meshes for Robotics Scene Building"
+  image: nillan_2026_nerfify.jpg
+  authors: Nillan Nimal, Mahboubeh Asadi, Sajad Saeedi
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  venuelink: https://2026.ieee-iros.org/
+  location: Pittsburgh, PA, USA, September 27 - October 1, 2026
+  project: https://sites.google.com/view/nerfifymesh
+  video: 0
+  code: 0
+  codedown: 0
+  pdf: 0
+  pdflink: 0
+  thesislink: 0
+  slides: 0
+  note: 0
+  type: conf
+  year: 2026
+  topic: "slam"
+
 - title: "SuMag: Suspended Magnetometer Survey for Mineral Data Acquisition with Vertical Take-off and Landing Fixed-wing Aircraft"
   image: efrem_2024_fw.gif
   authors: Robel Efrem, Alex Coutu, Sajad Saeedi
