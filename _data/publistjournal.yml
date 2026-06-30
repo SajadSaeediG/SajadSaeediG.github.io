@@ -44,7 +44,7 @@
   topic: "mnp"  
 
 - title: "MVOFormer: Flow-Semantic Transformer for Robust Monocular Visual Odometry"
-  image: jituo_2026_mvoformer.jpg
+  image: jituo_2026_mvoformer2.jpg
   authors: Jituo Li, Shunwang Sun, Jialu Zhang, Xinqi Liu, Jinyao Hu, Zhicheng Lu, Sajad Saeedi, Guodong Lu
   link:
     url: https://ieeexplore.ieee.org/document/11578264
@@ -55,7 +55,7 @@
   pdf: 0
   pdflink: https://arxiv.org/abs/2606.16474
   type: journal
-  year: 2025
+  year: 2026
   topic: "slam"
 
 - title: "TCB-VIO: Tightly-Coupled Focal-Plane Binary-Enhanced Visual Inertial Odometry"
