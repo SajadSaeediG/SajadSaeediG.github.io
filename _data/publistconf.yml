@@ -17,6 +17,25 @@
   year: 2026
   topic: "slam"
 
+- title: "Generalized k-Cell Decomposition for Visibility Planning in Polygons"
+  image: cccg_roni_2026.jpg
+  authors: Yeganeh Bahoo, Sajad Saeedi, Roni Sherman
+  venue: 32nd Annual Fall Workshop on Computational Geometry
+  venuelink: https://sites.google.com/view/cccg-2026/accepted-papers
+  location: Orillia, Canada, August 12 - August 14, 2026
+  project: 0
+  video: 0
+  code: 0
+  codedown: 0
+  pdf: 0
+  pdflink: 0
+  thesislink: 0
+  slides: 0
+  note: 0
+  type: conf
+  year: 2026
+  topic: "planning"
+
 - title: "SuMag: Suspended Magnetometer Survey for Mineral Data Acquisition with Vertical Take-off and Landing Fixed-wing Aircraft"
   image: efrem_2024_fw.gif
   authors: Robel Efrem, Alex Coutu, Sajad Saeedi
@@ -47,7 +66,7 @@
   code: 0
   codedown: 0
   pdf: 0
-  pdflink: 0
+  pdflink: https://arxiv.org/abs/2511.03642
   thesislink: 0
   slides: 0
   note: 0
