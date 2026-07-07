@@ -17,7 +17,7 @@
   year: 2026
   topic: "slam"
 
-- title: "Generalized k-Cell Decomposition for Visibility Planning in Polygons"
+- title: "An Exact Generalized k-Cell Decomposition"
   image: cccg_roni_2026.jpg
   authors: Yeganeh Bahoo, Sajad Saeedi, Roni Sherman
   venue: Canadian Conference on Computational Geometry (CCCG)
@@ -28,7 +28,7 @@
   code: 0
   codedown: 0
   pdf: 0
-  pdflink: 0
+  pdflink: https://arxiv.org/pdf/2607.04561
   thesislink: 0
   slides: 0
   note: 0
