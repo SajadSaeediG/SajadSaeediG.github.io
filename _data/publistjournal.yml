@@ -8,7 +8,7 @@
   video: 0
   code: 0
   pdf: 0
-  pdflink: https://arxiv.org/abs/2403.16275
+  pdflink: https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.70288
   type: journal
   year: 2026
   topic: "mrs"
@@ -38,7 +38,7 @@
   video: 0
   code: 0
   pdf: 0
-  pdflink: 0
+  pdflink: https://www.nature.com/articles/s44454-026-00029-1.pdf
   type: journal
   year: 2026
   topic: "mnp"  
