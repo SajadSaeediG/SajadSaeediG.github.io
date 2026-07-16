@@ -210,25 +210,6 @@
   type: conf
   year: 2024
   topic: "marine"
-  
-- title: "Raspberry PhenoSet: A Phenology-based Dataset for Automated Growth Detection and Yield Estimation"
-  image: raspberry2.JPG
-  authors: Parham Jafary, Anna Bazangeya, Michelle Pham, Lesley G. Campbell, Sajad Saeedi, Kourosh Zareinia, Habiba Bougherara
-  venue: arXiv:2411.00967
-  venuelink: https://arxiv.org/abs/2411.00967      
-  location: arXiv
-  project: https://sites.google.com/view/raspberry-phenoset
-  video: 0
-  code: 0
-  codedown: 0
-  pdf: 0
-  pdflink: https://arxiv.org/abs/2411.00967
-  thesislink: 0
-  slides: 0
-  note: 0
-  type: conf
-  year: 2024
-  topic: "agri"
 
 - title: "Parallel Reinforcement Learning Simulation for Visual Quadrotor Navigation"
   image: saunders_icra_2023.jpg
