@@ -58,20 +58,20 @@
   year: 2026
   topic: "slam"
 
-#- title: "Phenology-Based Learning Framework for Yield Estimation and Harvest Forecasting of Raspberry Fruits"
-#  image: raspberry2.JPG
-#  authors: Parham Jafary, Lesley G. Campbell, Anna Bazangeya, Michelle Pham, Sajad Saeedi, Kourosh Zareinia, Habiba Bougherara
-#  link:
-#    url: https://link.springer.com/journal/41315
-#    display: International Journal of Intelligent Robotics and Applications, 2026
-#  project: https://sites.google.com/view/raspberry-phenoset
-#  video: 0
-#  code: 0
-#  pdf: 0
-#  pdflink: https://arxiv.org/abs/2411.00967
-#  type: journal
-#  year: 2026
-#  topic: "agri"
+- title: "Phenology-Based Learning Framework for Yield Estimation and Harvest Forecasting of Raspberry Fruits"
+  image: raspberry2.JPG
+  authors: Parham Jafary, Lesley G. Campbell, Anna Bazangeya, Michelle Pham, Sajad Saeedi, Kourosh Zareinia, Habiba Bougherara
+  link:
+    url: https://link.springer.com/journal/41315
+    display: International Journal of Intelligent Robotics and Applications, 2026
+  project: https://sites.google.com/view/raspberry-phenoset
+  video: 0
+  code: 0
+  pdf: 0
+  pdflink: https://arxiv.org/abs/2411.00967
+  type: journal
+  year: 2026
+  topic: "agri"
 
 - title: "TCB-VIO: Tightly-Coupled Focal-Plane Binary-Enhanced Visual Inertial Odometry"
   image: lisondra_2025_tcb.jpg
