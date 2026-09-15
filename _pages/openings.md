@@ -14,7 +14,7 @@ permalink: /vacancies
 
 Understanding, reconstructing, and analysing crime scenes requires integrating evidence from both the physical and digital domains. This project proposes to develop a 4D (3D + time) object-oriented mapping framework that fuses multi-sensor data (e.g., images, LiDAR, videos, and digital traces) using advanced neural representations such as neural radiance fields and graph-based scene reasoning. The resulting “living digital twin” of a crime scene will allow investigators to interactively explore spatio-temporal hypotheses, simulate human behaviour, and test physics-based object interactions under various scenarios. The system will enable users to examine causal relationships and reconstruct events consistent with available evidence. This research will help investigators manage cyber-physical risk by linking digital evidence (e.g., CCTV, IoT data) with physical actions, ultimately enhancing situational awareness, forensic reconstruction, prevention, and decision-making in complex hybrid crime scenes.
 
-### Application deadline: 15th of February 2026
+%### Application deadline: 15th of February 2026
 ### Fully-funded PhD Scholarship
 ### Tuition Fees Covered
 ### Generous Stipend
