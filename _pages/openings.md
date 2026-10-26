@@ -1,5 +1,5 @@
 ---
-title: "<b>Vacancies</b>"
+title: "*Vacancies*"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
