@@ -106,8 +106,7 @@ This research will help investigators manage cyber-physical risk by linking digi
 * **How to Apply:** Applicants should explore the project details and contact the primary supervisor ([s.saeedi@ucl.ac.uk](mailto:s.saeedi@ucl.ac.uk)) or the CDT administration team ([scs.phd@ucl.ac.uk](mailto:scs.phd@ucl.ac.uk)) directly to discuss suitability before submitting a formal application[cite: 1].
 
 
-
-```
+<!--
 # Open PhD Position (fully funded)
 ## Department of Computer Science
 ## University College London
@@ -123,4 +122,4 @@ Understanding, reconstructing, and analysing crime scenes requires integrating e
 ### Cutting-edge Research
 
 [https://www.ucl.ac.uk/engineering/security-crime-science/study/postgraduate-research/epsrc-centre-doctoral-training-cyber-physical-risk/study-us/project-proposals](https://www.ucl.ac.uk/engineering/security-crime-science/study/postgraduate-research/epsrc-centre-doctoral-training-cyber-physical-risk/study-us/project-proposals)
-```
+-->
