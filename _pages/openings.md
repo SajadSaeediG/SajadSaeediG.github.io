@@ -1,5 +1,5 @@
 ---
-title: "Vacancies"
+title: "**Vacancies**"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -102,8 +102,8 @@ This research will help investigators manage cyber-physical risk by linking digi
   > *Note:* UCL is closed over the Christmas break with no email support available. Applicants are strongly advised to submit their application and ensure referee responses are received by **16 December 2026**.
 * **Funding and Value:** Fully funded EPSRC CDT 4-year PhD studentship covering Home tuition fees and a stipend.
 * **Eligibility:** Candidates qualifying for **UK Home Fee status**.
-* **Project Reference & Details:** [UCL EPSRC CDT in Cyber-Physical Risk Project Proposals](https://www.ucl.ac.uk/engineering/security-crime-science/study/postgraduate-research/epsrc-centre-doctoral-training-cyber-physical-risk/study-us/project-proposals)[cite: 1]
-* **How to Apply:** Applicants should explore the project details and contact the primary supervisor ([s.saeedi@ucl.ac.uk](mailto:s.saeedi@ucl.ac.uk)) or the CDT administration team ([scs.phd@ucl.ac.uk](mailto:scs.phd@ucl.ac.uk)) directly to discuss suitability before submitting a formal application[cite: 1].
+* **Project Reference & Details:** [UCL EPSRC CDT in Cyber-Physical Risk Project Proposals](https://www.ucl.ac.uk/engineering/security-crime-science/study/postgraduate-research/epsrc-centre-doctoral-training-cyber-physical-risk/study-us/project-proposals)
+* **How to Apply:** Applicants should explore the project details and contact the primary supervisor ([s.saeedi@ucl.ac.uk](mailto:s.saeedi@ucl.ac.uk)) or the CDT administration team ([scs.phd@ucl.ac.uk](mailto:scs.phd@ucl.ac.uk)) directly to discuss suitability before submitting a formal application.
 
 
 <!--
