@@ -1,5 +1,5 @@
 ---
-title: "**Vacancies**"
+title: "<span style='font-weight:bold; color:#d9534f;'>Vacancies 🔥</span>"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
