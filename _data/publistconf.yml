@@ -36,6 +36,25 @@
   year: 2026
   topic: "planning"
 
+- title: "Pow3R-SLAM: Real-Time RGB-D SLAM with 3D Reconstruction Priors"
+  image: pow3rslam.png
+  authors: Christopher Kolios, Ishaan Mehta, Sasa Janjic, Yeganeh Bahoo, Sajad Saeedi
+  venue: arXiv:2609.38054
+  venuelink: https://arxiv.org/abs/2609.38054      
+  location: arXiv
+  project: https://chriskolios.github.io/Pow3R-SLAM/
+  video: 0
+  code: 0
+  codedown: 0
+  pdf: 0
+  pdflink: https://arxiv.org/abs/2609.38054
+  thesislink: 0
+  slides: 0
+  note: 0
+  type: conf
+  year: 2026
+  topic: "slam"
+  
 - title: "SuMag: Suspended Magnetometer Survey for Mineral Data Acquisition with Vertical Take-off and Landing Fixed-wing Aircraft"
   image: efrem_2024_fw.gif
   authors: Robel Efrem, Alex Coutu, Sajad Saeedi
@@ -198,7 +217,7 @@
   venue: arXiv:2409.13688
   venuelink: http://arxiv.org/abs/2409.13688      
   location: arXiv
-  project: https://sites.google.com/view/mp-detection-classification
+  project: https://sites.google.com/view/mp-detection-classification/sem
   video: 0
   code: 0
   codedown: 0
