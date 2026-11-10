@@ -33,6 +33,7 @@ We are currently recruiting PhD students for fully funded research opportunities
 * **Eligibility:** Home fee status candidates only
 * **Supervisory Team:** Dr. Sajad Saeedi, Dr. Katherine Curran, Prof. Simon Julier, Dr. Valerio Modugno
 * **Inquiries:** [s.saeedi@ucl.ac.uk](mailto:s.saeedi@ucl.ac.uk)
+* **More Technical Information:** [Microplastics and Nanoplastics Identification](https://sites.google.com/view/mp-detection-classification/home)
 
 #### Project Overview
 Microplastic pollution in riverine and marine ecosystems represents a major ecological threat, yet existing monitoring relies heavily on manual sampling and lab-based spectroscopy—methods incapable of continuous spatial tracking. Building upon our foundational ultrasound microplastic detection breakthrough published in *Nature* (2026), this project advances beyond the state-of-the-art by moving from static, laboratory-controlled detection to real-time 3D wavefront reconstruction in turbulent, uncalibrated fluid environments with non-spherical and polydisperse microparticles.
